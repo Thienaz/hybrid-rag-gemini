@@ -1,0 +1,1399 @@
+=== MẪU 0 ===
+[ĐIỂM SỐ] ROUGE-1: 89.69% | ROUGE-2: 78.24% | ROUGE-L: 82.99%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ta có thể hiểu qua các ví dụ 1st 2nd 3rd 4th 5th 6th 7th u v 1st 2nd 3rd 4th 5th 6th 7th v u 1st 2nd 3rd 4th 5th 6th 7th v u TH1: v là tiền bối của u u, v là cung ngược TH2: v là hậu duệ của u u, v là cung xuôi TH3: v nằm ở nhánh DFS đã duyệt trước u u, v là cung chéo Hình 11: Ba dạng cung ngoài cây DFS Ta nhận thấy một đặc điểm của thuật toán tìm kiếm theo chiều sâu, thuật toán không chỉ duyệt qua các đỉnh, nó còn duyệt qua tất cả những cung nữa. Ngoài những cung nằm trên cây tìm kiếm, những cung còn lại có thể chia làm ba loại: cung ngược, cung xuôi, cung chéo.
+----------------------------------------------------------------------
+
+=== MẪU 1 ===
+[ĐIỂM SỐ] ROUGE-1: 47.97% | ROUGE-2: 46.94% | ROUGE-L: 47.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Pha xác định yêu cầu bao gồm hai giai đoạn: Xác định yêu cầu nghiệp vụ tập trung xem xét các khía cạnh nghiệp vụ của tổ chức hiện thời , Xác định yêu cầu hệ thống tập trung xem xét các yêu cầu cho hệ thống dự định phát triển . Pha phân tích yêu cầu tập trung mô hình hóa phần mềm với UML cho hệ thống mới. Pha thiết kế bao gồm hai giai đoạn: thiết kế hệ thống phân rã hệ thống thành các hệ thống con và triển khai về mặt vật lý cho hệ thống và thiết kế chi tiết thiết kế các hệ thống con đã được phân rã . Các pha sẽ tương ứng với một số bước cần phải thực hiện và các biểu đồ UML nào sẽ sử dụng được cho trong Bảng 2.1.
+----------------------------------------------------------------------
+
+=== MẪU 2 ===
+[ĐIỂM SỐ] ROUGE-1: 53.0% | ROUGE-2: 52.67% | ROUGE-L: 53.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Một cách tổng quát, giả sử y G là một câu con của câu đang xét và nằm trong miền tác dụng của lượng tử x1,......, xn. Khi đó ta có thể xem y là hàm của n biến x1,......, xn, chẳng hạn f x1,......, xn . Sau đó ta thay các xuất hiện của y trong câu G bởi hạng PTIT Biểu diễn tri thức và suy diễn logic 104 thức f x1,......, xn và loại bỏ các lượng tử tồn tại. Các hàm f được đưa vào để loại bỏ các lượng tử tồn tại được gọi là hàm Skolem. Ví dụ: Xét câu sau: x y P x,y u b Q a,b t R x,t 1 Câu con y P x,y nằm trong miền tác dụng của lượng tử x, ta xem y là hàm của x: F x .
+----------------------------------------------------------------------
+
+=== MẪU 3 ===
+[ĐIỂM SỐ] ROUGE-1: 64.17% | ROUGE-2: 50.63% | ROUGE-L: 43.75%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+_ ,..., 1 1 1 n i i i i n n X me cha x X P x X x X P PTIT Suy diễn xác suất 125 Để minh họa cho công thức trên, ta sẽ tính xác suất xẩy ra tình huống ở nhà có người, chó bị ốm và được buộc ngoài sân, đồng thời đèn không sáng và nghe tiếng chó sủa. Xác suất tình huống này chính là P B, O, D, L, H và được tính như sau: P B, O, D, L, H P B P O P D O, B P H D P L O 0,3 0,4 0,05 0,7 0,3 0,00126 Trong một phần trên ta đã thấy rằng nếu có mọi xác suất đồng thời thì có thể thực hiện suy diễn xác suất cho mọi dạng câu truy vấn.
+----------------------------------------------------------------------
+
+=== MẪU 4 ===
+[ĐIỂM SỐ] ROUGE-1: 49.0% | ROUGE-2: 8.08% | ROUGE-L: 27.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ: trên ví dụ ở hình sau, giả sử tập E gồm các nút r và p được đánh dấu bằng cách khoanh tròn. Theo quy tắc 3, nút s và y là d-kết nối do nút xung đột t có hậu duệ là nút p thuộc E, do vậy đã giải tỏa đường đi s t u v y.
+----------------------------------------------------------------------
+
+=== MẪU 5 ===
+[ĐIỂM SỐ] ROUGE-1: 44.07% | ROUGE-2: 43.69% | ROUGE-L: 44.07%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Với các đồ thị có vài chục nút trở lên, các nghiên cứu thực nghiệm cho thấy một số kết quả sau. Giá trị k 3 cho kết quả tốt hơn nhiều thường tìm được đường đi ngắn hơn so với k 2. Việc sử dụng k 4 và lớn hơn không cải thiện chất lượng lời giải đáng kể so với k 3, trong khi đòi hỏi khối lượng tính toán lớn hơn nhiều do tập láng giềng lớn. Thuật toán tôi thép Một vấn đề lớn với leo đồi là thuật toán không có khả năng đi xuống và do vậy không thoát khỏi được cực trị địa phương khi đã rơi vào. Ngược lại, cách di chuyển hoàn toàn ngẫu nhiên random walk có thể khảo sát toàn bộ không gian trạng thái nhưng không hiệu quả.
+----------------------------------------------------------------------
+
+=== MẪU 6 ===
+[ĐIỂM SỐ] ROUGE-1: 95.49% | ROUGE-2: 94.63% | ROUGE-L: 94.65%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+cptr 0 1010 1010 M i n h 0 cptr 1 1016 1016 L a n 0 cptr 2 1022 1022 A n h 0 cptr 3 1028 1028 T r a n g 0 cptr 4 1034 1034 Q u a n 0 Mảng các con trỏ trỏ đến chuỗi trước khi sắp xếp cptr 0 1022 1010 M i n h 0 cptr 1 1016 1016 L a n 0 cptr 2 1010 1022 A n h 0 cptr 3 1034 1028 T r a n g 0 cptr 4 1028 1034 Q u a n 0 Mảng các con trỏ trỏ đến chuỗi sau khi sắp xếp 9.2.9 Con trỏ trỏ đến con trỏ Ví dụ 8: Dòng File Edit Search Run Compile Debug Project Option Window Help 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 In ma trận include stdio.h include conio.h define ROWS 4 define COLS 5 void main void int itable ROWS COLS 10, 12, 14, 16, 18 , 11, 13, 15, 17, 19 , 20, 22, 24, 26, 28 , 21, 23, 25, 27, 29 ; int i, ij, ix 10; for i 0; i ROWS; i for ij 0; ij COLS; ij table i ij ix; for i 0; i ROWS; i for ij 0; ij COLS; ij printf 4d , table i ij ; printf n ; getch ; Hanoi Aptech Computer Education Center Giáo trình Lập trình C căn bản Trang 98 F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu Kết quả in ra màn hình 20 22 24 26 28 21 23 25 27 29 30 32 34 36 38 31 33 35 37 39 _ Chạy chương trình và quan sát kết quả.
+----------------------------------------------------------------------
+
+=== MẪU 7 ===
+[ĐIỂM SỐ] ROUGE-1: 60.45% | ROUGE-2: 59.4% | ROUGE-L: 41.79%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nói cách khác, ca sử dụng được bao gồm có sự tồn tại độc lập, còn ca sử dụng mở rộng chỉ tồn tại như là một mở rộng. Thực tế khó xác định chính xác quan hệ giữa các ca sử dụng trong lần đầu tiên qua mô hình yêu cầu hệ thống. Hơn nữa, việc xác định quan hệ này phụ thuộc vào chu ng ta quyết định xem cái gì là thực sự cần thiết và khách hàng của chu ng ta chấp nhận nó hay không. Trong cách tiếp cận hướng đối tượng, có nhiều cách phân tích ca sử dụng thành các mối quan hệ bao hàm, mở rộng hay kế thừa.
+----------------------------------------------------------------------
+
+=== MẪU 8 ===
+[ĐIỂM SỐ] ROUGE-1: 61.79% | ROUGE-2: 28.76% | ROUGE-L: 26.58%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bước 4: Lặp lại bước 2 và bước 3 M lần M là tham số . Thứ nhất, leo đồi ngẫu nhiên tạo ra trạng thái xuất phát cho tìm kiếm Tabu để tiết kiệm thời gian do thời gian thực hiện Tabu lâu hơn leo đồi. Thứ hai, sau khi Tabu không thể cải thiện tiếp lời giải, leo đồi cho phép di chuyển sang vùng lời giải khác để bước thực hiện Tabu tiếp theo có thể khảo sát vùng không gian lời giải khác vòng chạy trước. Cách kết hợp hai thuật toán cho phép tìm ra lời giải chất lượng hơn với độ phức tạp tính toán chập nhận được.
+----------------------------------------------------------------------
+
+=== MẪU 9 ===
+[ĐIỂM SỐ] ROUGE-1: 77.84% | ROUGE-2: 77.11% | ROUGE-L: 62.28%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong phân tích tĩnh, chu ng ta tiến hành thực hiện những công việc sau: 5. Đối với phân tích động là xây dựng biểu đồ giao tiếp và biểu đồ trạng thái. Chu ng ta sẽ trình bày chi tiết tiến trình xác đinh yêu cầu và phân tích yêu cầu Hệ thống đào tạo theo tín chỉ. B.1 XÁC ĐỊNH YÊU CẦU Trước tiên ta chỉ ra Đầu ra bao gồm: Danh sách tác nhân PTIT 170 Sinh viên: một người sử dụng có những thông tin được lưu trữ trong CSDL sinh viên, như: mã sinh viên, họ tên, lớp, khóa, .Mỗi sinh viên phải được cung cấp mật khẩu truy nhập phù hợp với mã sinh viên để có thể truy cập vào hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 10 ===
+[ĐIỂM SỐ] ROUGE-1: 76.27% | ROUGE-2: 75.57% | ROUGE-L: 76.27%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong phạm vi chương cũng trình bày bốn kỹ thuật học máy dùng cho phân loại là cây quyết định, phân loại Bayes, phân loại dựa trên ví dụ và hồi quy logistic, cùng với một số kỹ thuật đánh giá mô hình và lựa chọn đặc trưng. Đây là những phương pháp đơn giản, dễ giới thiệu, thuận tiện để trình bày với tính chất nhập môn. Đồng thời, đây cũng là những phương pháp có tính đại diện trong học máy, cần thiết cho người nghiên cứu về lĩnh vực này. Do ưu điểm và sự phổ biến của Support Vector Machines, phương pháp phân loại này cũng được giới thiệu, nhưng ở mức tóm tắt, không đi vào chi tiết để phù hợp với trình độ nhập môn.
+----------------------------------------------------------------------
+
+=== MẪU 11 ===
+[ĐIỂM SỐ] ROUGE-1: 54.24% | ROUGE-2: 53.85% | ROUGE-L: 54.24%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ngược lại, nếu sinh ra tập láng giềng nhỏ sẽ dễ dẫn tới cực trị địa phương do không vượt qua được những hố nhỏ trên đường đi. Ta sẽ quy định mỗi trạng thái là sắp xếp của cả 8 con hậu trên bàn cờ, sao cho mỗi cột chỉ gồm 1 con. Hàm mục tiêu là hàm heuristic được tính bằng số các đôi hậu đang đe dọa nhau. Như vậy hàm mục tiêu càng nhỏ thì càng gần với trạng thái đích cần tìm. Để minh họa cho ảnh hưởng của việc lựa chọn hàm chuyển động, ta xét hai cách chuyển động sau.
+----------------------------------------------------------------------
+
+=== MẪU 12 ===
+[ĐIỂM SỐ] ROUGE-1: 74.42% | ROUGE-2: 56.73% | ROUGE-L: 45.93%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trả về tập đặc trưng F cho độ chính xác cao nhất trong n bước lặp Khởi đầu từ tập đặc trưng rỗng, thuật toán trên gồm n - 1 bước lặp chính, mỗi bước lặp bổ sung thêm một đặc trưng vào tập đặc trưng hiện thời. Cụ thể, tại mỗi bước lặp, thuật toán tìm một đặc trưng sao cho khi thêm một mình đặc trưng đó vào tập đặc trưng hiện thời, độ chính xác kiểm tra chéo đạt được là tốt nhất. Cuối cùng, thuật toán trả về tập đặc trưng cho độ chính xác cao nhất trong số n tập đặc trưng được tạo ra.
+----------------------------------------------------------------------
+
+=== MẪU 13 ===
+[ĐIỂM SỐ] ROUGE-1: 74.44% | ROUGE-2: 37.1% | ROUGE-L: 37.67%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tùy vào cách thức khảo sát không gian trạng thái cụ thể, ta sẽ có những phương pháp tìm kiếm khác nhau. Để có thể khảo sát không gian trạng thái, thuật toán tìm kiếm bắt đầu từ một trạng thái xuất phát nào đó, sau đó sử dụng những phép biến đổi trạng thái để nhận biết và chuyển sang trạng thái khác.
+----------------------------------------------------------------------
+
+=== MẪU 14 ===
+[ĐIỂM SỐ] ROUGE-1: 64.29% | ROUGE-2: 63.4% | ROUGE-L: 46.1%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hãy tìm một cách đi từ ô x, y ra một ô biên sao cho tổng các số ghi trên các ô đi qua là cực tiểu. BÀI TOÁN CÂY KHUNG NHỎ NHẤT Cho G V, E là đồ thị vô hướng liên thông có trọng số, với một cây khung T của G, ta gọi trọng số của cây T là tổng trọng số các cạnh trong T. Bài toán đặt ra là trong số các cây khung của G, chỉ ra cây khung có trọng số nhỏ nhất, cây khung như vậy được gọi là cây khung nhỏ nhất của đồ thị, và bài toán đó gọi là bài toán cây khung nhỏ nhất. Sau đây ta sẽ xét hai thuật toán thông dụng để giải bài toán cây khung nhỏ nhất của đơn đồ thị vô hướng có trọng số.
+----------------------------------------------------------------------
+
+=== MẪU 15 ===
+[ĐIỂM SỐ] ROUGE-1: 98.0% | ROUGE-2: 97.99% | ROUGE-L: 98.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, với cách xác định trạng thái thứ nhất, mỗi chuyển động được thực hiện bằng cách đổi chỗ 2 con hậu, di chuyển một con hậu sang ô khác cùng cột, khác cột . Với cách xác định trạng thái thứ hai và trạng thái đích là bàn cờ trống, ta có thể quy định chuyển động như sau: tại mỗi chuyển động, tìm cách đặt thêm một con hậu và cột trái nhất còn trống sao cho con hậu mới đặt vào không đe dọa các con trước cách chuyển động này cho không gian trạng thái nhỏ hơn nhiều so với các kiểu chuyển động khác và mỗi trạng thái chỉ cho phép không quá một con hậu trong một cột .
+----------------------------------------------------------------------
+
+=== MẪU 16 ===
+[ĐIỂM SỐ] ROUGE-1: 47.53% | ROUGE-2: 38.7% | ROUGE-L: 38.27%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+ĐỘ PHỨC TẠP TÍNH TOÁN CỦA BFS VÀ DFS Quá trình tìm kiếm trên đồ thị bắt đầu từ một đỉnh có thể thăm tất cả các đỉnh còn lại, khi đó cách biểu diễn đồ thị có ảnh hưởng lớn tới chi phí về thời gian thực hiện giải thuật: Trong trường hợp ta biểu diễn đồ thị bằng danh sách kề, cả hai thuật toán BFS và DFS đều có độ phức tạp tính toán là O n m O max n, m . Nếu ta biểu diễn đồ thị bằng ma trận kề như ở trên thì độ phức tạp tính toán trong trường hợp này là O n n2 O n2 .
+----------------------------------------------------------------------
+
+=== MẪU 17 ===
+[ĐIỂM SỐ] ROUGE-1: 69.9% | ROUGE-2: 63.37% | ROUGE-L: 64.08%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+BÀI TOÁN TÌM BỘ GHÉP CỰC ĐẠI VỚI TRỌNG SỐ CỰC TIỂU TRÊN ĐỒ THỊ HAI PHÍA - THUẬT TOÁN HUNGARI I.
+----------------------------------------------------------------------
+
+=== MẪU 18 ===
+[ĐIỂM SỐ] ROUGE-1: 53.78% | ROUGE-2: 53.5% | ROUGE-L: 53.78%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Về nguyên tắc, nhãn và vai trò có thể được kết hợp trên cùng một liên kết nhưng nên cân nhắc thay thế để tránh nhầm lẫn lộn xộn. Phần chu thích, một phần văn bản tùy ý được đặt trong một biểu tượng trông như trang giấy, dùng để cung cấp thông tin về gì mà nó cần giải thích thêm. 4.3.4 Xác định thuộc tính lớp Một thuộc tính là một đặc tính hay tính chất của một đối tượng, như là kích cỡ, vị trí, tên, giá , sở thích hay bất kì điều gì. Trong UMl, mỗi thuộc tính có thể được cho bởi kiểu type được xác định bởi một lớp hay kiểu cơ bản. Hình 4.8: Biểu diễn một lớp cơ bản trong UML Thuộc tính có thể được hiển thị trong biểu đồ lớp bằng cách thêm một ngăn ở dưới tên lớp.
+----------------------------------------------------------------------
+
+=== MẪU 19 ===
+[ĐIỂM SỐ] ROUGE-1: 82.7% | ROUGE-2: 82.07% | ROUGE-L: 82.16%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Màn hình sau khi khởi động thành công File Edit Search Run Compile Debug Project Option Window Help NONAME00.CPP Thanh Menu Hộp đóng Tên tập tin Số của cửa sổ Hộp nới rộng cửa sổ Đây là vùng soạn thảo chương trình Tập tin chưa lưu Thanh trượt dọc Tọa độ hàng:cột Thanh trượt ngang Thanh chức năng F1 Help F2 Save F3 Open Alt - F9 Compile F9 Make F10 Menu 1 1:1 Giáo trình Lập trình C căn bản Trang 13 2.2.1.2 Thoát Ấn phím F10 kích hoạt Menu , chọn menu File, chọn Quit; Hoặc ấn tổ hợp phím Alt X.
+----------------------------------------------------------------------
+
+=== MẪU 20 ===
+[ĐIỂM SỐ] ROUGE-1: 75.0% | ROUGE-2: 74.84% | ROUGE-L: 40.38%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Case study Hệ quản lý đăng ký học theo tín chỉ đã được trình bày chi tiết theo từng bước xác định yêu cầu và phân tích để bạn đọc dễ theo dõi và hiểu đầy đủ hơn nữa các pha này. Hoàn thiện theo nhóm các biểu đồ trong pha phân tích của hệ quản lý học theo tín chỉ. Hãy tiếp tục xây dựng các bước phân tích cho Hệ quản lý đặt chỗ thuê xe và sử dụng Tool VP để hoàn thiện bài tập. Làm việc theo nhóm để tiếp tục xây dựng các bước phân tích yêu cầu cho Hệ thống Quản lý Thư viện điện tử và sử dụng Tool VP để hoàn thiện bài tập của mình.
+----------------------------------------------------------------------
+
+=== MẪU 21 ===
+[ĐIỂM SỐ] ROUGE-1: 66.06% | ROUGE-2: 65.23% | ROUGE-L: 37.31%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Sử dụng lại các phương thức trong một đối tượng: Các phương thức được đóng gói trong một đối tượng có thể được gọi từ các phương thức khác. Ví dụ, trong Java phương thức không public có thể sử dụng trong lớp nào thuộc cùng gói với nó. Bạn nên nghĩ đến việc sử dụng lại các phương thức trong một đối tượng bất cứ khi nào cần. Sử dụng lại các lớp trong một hệ thống: Nhiều lớp đã định nghĩa có thể được dùng trong các phần khác nhau của hệ thống. CƠ SỞ CỦA PHÁT TRIỂN PHẦN MỀM HƯỚNG ĐỐI TƯỢNG 18 hàng Customer trong hệ thống marketing, bạn cũng muốn các đối tượng Customer tương tự xuất hiện trong nhiều phần khác nhau của mã nguồn hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 22 ===
+[ĐIỂM SỐ] ROUGE-1: 62.02% | ROUGE-2: 34.31% | ROUGE-L: 34.61%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+editCourse Subject : sửa thông tin một lớp giảng removeCourse Subject : xóa một lớp giảng trong cơ sở dữ liệu getInfor Course : Lấy thông tin chi tiết của toàn bộ lớp giảng bao gồm môn học, ngày học, giờ học, phòng học search Course : tìm kiếm thông tin lớp giảng getTimeTable Course : lấy thông tin PTIT CHƯƠNG 4. PHÂN TÍCH YÊU CẦU 117 về thời gian và phòng học của lớp học getScheduleOfExam Course : lấy thông tin về thời gian và phòng thi cuối kỳ Định nghĩa Sinh viên sẽ phải theo học các môn học trong mỗi theo thứ tự trong mỗi học kỳ để tích lũy tín chỉ.
+----------------------------------------------------------------------
+
+=== MẪU 23 ===
+[ĐIỂM SỐ] ROUGE-1: 85.28% | ROUGE-2: 81.03% | ROUGE-L: 80.2%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Quá trình xây dựng cây quyết định được lặp đệ quy như vậy cho tới khi xẩy ra những tình huống sau: - Sau khi phân chia tại một nút, tập dữ liệu con chỉ chứa các mẫu có cùng nhãn phân loại chẳng hạn cùng dương hoặc cùng âm .
+----------------------------------------------------------------------
+
+=== MẪU 24 ===
+[ĐIỂM SỐ] ROUGE-1: 82.42% | ROUGE-2: 77.3% | ROUGE-L: 77.58%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tiếp theo, thay thế f2 C vào biểu thức, xoá nút B khỏi mạng, ta còn lại biểu thức đơn giản, từ đó có thể tính giá trị của D bằng cách lấy tổng theo các giá trị của C hình 4.14.c .
+----------------------------------------------------------------------
+
+=== MẪU 25 ===
+[ĐIỂM SỐ] ROUGE-1: 70.44% | ROUGE-2: 69.62% | ROUGE-L: 55.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tuy nhiên, biểu đồ lớp thiết kế có kiểu gán cho các trường nên tiện lợi khi thiết kế bảng. Để giải quyết vấn đề này, chúng ta sẽ sử dụng mô hình phân tích để thiết kế các bảng và lấy kiểu từ mô hình thiết kế. 6.3.3 Ánh xạ các lớp thực thể Để ánh xạ một thực thể đối tượng nghiệp vụ từ mô hình hướng đối tượng thành lược đồ quan hệ, ta đưa ra bảng có cùng tên như lớp thực thể, trong đó mỗi dòng biểu diễn một đối tượng duy nhất của miền nghiệp vụ. Với trường đơn giản kiểu cơ bản hay String , ta thêm một cột vào bảng với cùng tên như trường và kiểu dữ liệu thích hợp SQL.
+----------------------------------------------------------------------
+
+=== MẪU 26 ===
+[ĐIỂM SỐ] ROUGE-1: 58.77% | ROUGE-2: 58.41% | ROUGE-L: 42.11%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khái niệm mạng Bayes Để tiện cho việc trình bày khái niệm mạng Bayes, xét một ví dụ sau3. Một người đi làm về và muốn dự đoán xem ở nhà có người không thông qua một số dấu hiệu có thể quan sát được. Cho biết một số dữ kiện sau: - Nếu cả nhà đi vắng thì thường bật đèn ngoài sân. Tuy nhiên, đèn ngoài sân có thể được cả trong một số trường hợp có người ở nhà, ví dụ khi có khách đến chơi. - Tuy nhiên chó có thể được buộc ở sân sau cả khi có người ở nhà nếu như chó bị đau bụng.
+----------------------------------------------------------------------
+
+=== MẪU 27 ===
+[ĐIỂM SỐ] ROUGE-1: 53.0% | ROUGE-2: 51.96% | ROUGE-L: 34.63%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+ASP tương tự JSP nhưng sử dụng cho công nghệ của Microsoft, vì vậy chu ng không linh động. A.5 CÔNG NGHỆ TẦNG GIỮA ĐẾN TẦNG DỮ LIỆU Có một số cách truy cập tầng dữ liệu: Bao gồm database- client code trên tầng giữa để ta có thể truy cập một DBMS chạy trên tầng dữ liệu. Với java, chúng ta có thể thực hiện điều này với sự giúp đỡ của kỹ thuật java database connectivoty JDBC . Giao tiếp với tầng dữ liệu có sử dụng bất kỳ công nghệ tầng client tới tầng giữa nào như đã trình bày. Truy cập tầng dữ liệu có thể sử dụng một số giao thức không phải TCP IP chúng ta sẽ chỉ thường xuyên thực hiện để truy cập một hệ thống kế thừa .
+----------------------------------------------------------------------
+
+=== MẪU 28 ===
+[ĐIỂM SỐ] ROUGE-1: 56.21% | ROUGE-2: 55.92% | ROUGE-L: 47.06%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Vì vậy, thuật ngữ liên kết sẽ được sử dụng cho phần còn lại của phần này. Đa số liên kết mà chu ng ta quyết định giữ lại từ phân tích, cùng với bất kỳ liên kết nào mà chúng ta thêm vào khi thiết kế thì chỉ như các trường trong các lớp. Vì các trường chỉ cho phép chuyển theo một hướng nên chu ng ta cần phải quyết định xem chu ng ta muốn đi theo cả hai huớng hay một hướng. Cách chu ng ta cài đặt liên kết phụ thuộc vào tính nhiều ở mỗi điểm cuối: 1-1, 1-n hay m-m. Có ba cách cài đặt kiểu liên kết này: đặt trường account vào trong SinhVien; cũng có thể đặt một trường gọi idSV vào trong Account hoặc kết hợp cả hai.
+----------------------------------------------------------------------
+
+=== MẪU 29 ===
+[ĐIỂM SỐ] ROUGE-1: 38.57% | ROUGE-2: 14.35% | ROUGE-L: 19.86%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khảo sát tính đúng đắn của thuật toán cho ta một kết quả khá thú vị: Nếu ta thêm một đỉnh A và cho thêm m cung từ A tới tất cả những đỉnh của tập X, thêm một đỉnh B và nối thêm n cung từ tất cả các đỉnh của Y tới B. Nếu đặt khả năng thông qua của các cung đều là 1 sau đó tìm luồng cực đại trên mạng bằng thuật toán Ford- Fulkerson thì theo định lý về tính nguyên, luồng tìm được trên các cung đều phải là số nguyên tức là bằng 1 hoặc 0 . Khi đó dễ thấy rằng những cung có luồng 1 từ tập X tới tập Y sẽ cho ta một bộ ghép lớn nhất.
+----------------------------------------------------------------------
+
+=== MẪU 30 ===
+[ĐIỂM SỐ] ROUGE-1: 83.29% | ROUGE-2: 82.71% | ROUGE-L: 83.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khi không tìm thấy đường mở, quá trình tìm kiếm theo chiều rộng sẽ đánh dấu được những đỉnh đã thăm thuộc cây pha và hàng đợi các X_đỉnh trong quá trình tìm kiếm trở thành rỗng. Tiếp theo là phải xác định được trọng số nhỏ nhất của cạnh nối một X_đỉnh đã thăm với một Y_đỉnh chưa thăm và xoay các trọng số cạnh để những cạnh này trở thành 0_cạnh. Tại đây ta sẽ dùng kỹ thuật sau: Thăm luôn những đỉnh y Y chưa thăm tạo với một X_đỉnh đã thăm một 0_cạnh những Y_đỉnh chưa thăm có d y 0 , nếu tìm thấy đường mở thì dừng ngay, nếu không thấy thì đẩy tiếp những đỉnh matchY y vào hàng đợi và lặp lại thuật toán tìm kiếm theo chiều rộng bắt đầu từ những đỉnh này.
+----------------------------------------------------------------------
+
+=== MẪU 31 ===
+[ĐIỂM SỐ] ROUGE-1: 76.36% | ROUGE-2: 67.07% | ROUGE-L: 61.82%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Giả sử giá trị các nút cha đã sinh ra trước đó là:xp i,1 , , xp i,n i 3. Tìm trong bảng xác xuất giá trị xác suất: P Xi true Xp i,1 xp i,1 S M R L T P S 0.3 P M 0.6 P R M 0.3 P R M 0.6 P T L 0.3 P T L 0.8 P L M S 0.05 P L M S 0.1 P L M S 0.1 P L M S 0.2 PTIT Suy diễn xác suất 136 4. Chọn Xi true với xác xuất trên Kết quả x1, xn là một mẫu sinh ra từ các biến X1, , Xn Hình 4.9: Thuật toán lấy mẫu từ mạng Bayes Tính xác suất điều kiện Tiếp theo, giả sử cần tính P R True T True , S False .
+----------------------------------------------------------------------
+
+=== MẪU 32 ===
+[ĐIỂM SỐ] ROUGE-1: 57.89% | ROUGE-2: 56.82% | ROUGE-L: 52.63%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hai là biểu đồ gói không cho phép chu ng ta chỉ ra thông tin quan trọng. Ví dụ, sự tồn tại của cụm CGI Layer trong Hệ quản lý học theo tín chỉ là quan trọng nhưng không ánh xạ đến gói nào mà chu ng ta có thể cài đặt hay mượn từ thư viện. Biểu đồ gói cũng không tốt khi thể hiện phân rã thành hệ thành các hệ thống con và khi đó biểu đồ triển khai nên được sử dụng. 5.7 KẾT LUẬN Trong chương này chu ng ta đã xem xét: Các bước trong thiết kế hệ thống và cách phân rã hệ thống thành các thành phần logic và vật lý và đặc biệt xem xét hình trạng mạng.
+----------------------------------------------------------------------
+
+=== MẪU 33 ===
+[ĐIỂM SỐ] ROUGE-1: 41.48% | ROUGE-2: 28.36% | ROUGE-L: 23.7%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+3.2 Nội dung 3.2.1 Từ khóa Từ khóa là từ có ý nghĩa xác định dùng để khai báo dữ liệu, viết câu lệnh Trong C có các từ khóa sau: asm const else for interrupt return sizeof void break continue enum goto long short switch HanoiAptech Computer Education Center Thanghv case cdecl char default do double extern far float huge if int near pascal register static struct signed typedef union unsigned volatile while Các từ khóa phải viết bằng chữ thường 3.2.2 Tên Khái niệm tên rất quan trọng trong quá trình lập trình, nó không những thể hiện rõ ý nghĩa trong chương trình mà còn dùng để xác định các đại lượng khác nhau khi thực hiện chương trình. Tên thường được đặt cho hằng, biến, mảng, con trỏ, nhãn Chiều dài tối đa của tên là 32 ký tự.
+----------------------------------------------------------------------
+
+=== MẪU 34 ===
+[ĐIỂM SỐ] ROUGE-1: 76.88% | ROUGE-2: 76.19% | ROUGE-L: 51.81%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tiền điều kiện Cán bộ đào tạo đã Đăng nhập vào hệ thống Đảm bảo tối thiểu Hệ thống loại bỏ các thông tin đã thêm và quay lui lại bước trước Đảm bảo thành công Đã thêm được Sinh Viên Kích hoạt Button Thêm Sinh viên trên Form Quản lý Sinh Viên Chuỗi sự kiện chính 8. Hệ thống hiển thị hai tùy chọn Thêm Sinh Viên và Sửa xóa sinh viên 10. Hệ thống hiển thị form để nhập các thông tin cần thiết về Sinh viên và các PTIT 182 tùy chọn: Tìm kiếm, Thêm Sinh viên, Sửa Sinh viên, Xóa Sinh viên. Cán bộ đào tạo nhập thông tin về Sinh viên gồm có Mã SV, Họ tên, Ngày sinh, Giới tính, Khoa, Chuyên ngành, Khóa, Lớp và chọn button Thêm Sinh viên 13.
+----------------------------------------------------------------------
+
+=== MẪU 35 ===
+[ĐIỂM SỐ] ROUGE-1: 70.24% | ROUGE-2: 52.1% | ROUGE-L: 49.4%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bởi nếu trong đồ thị ban đầu, ta bỏ r đi thì từ mỗi đỉnh bất kỳ của nhánh con, ta Lý thuyết đồ thị Lê Minh Hoàng 45 vẫn có thể đi lên một tiền bối của r, rồi đi sang nhánh con khác hoặc đi sang tất cả những đỉnh còn lại của cây. Nếu r không phải là gốc của một cây DFS, và tồn tại một nhánh con của nhánh DFS gốc r không có cung ngược lên một tiền bối của r thì r là khớp.
+----------------------------------------------------------------------
+
+=== MẪU 36 ===
+[ĐIỂM SỐ] ROUGE-1: 62.59% | ROUGE-2: 17.39% | ROUGE-L: 30.94%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+BÀI TOÁN ĐƯỜNG ĐI NGẮN NHẤT Trong các ứng dụng thực tế, chẳng hạn trong mạng lưới giao thông đường bộ, đường thuỷ hoặc đường không. Người ta không chỉ quan tâm đến việc tìm đường đi giữa hai địa điểm mà còn phải lựa chọn một hành trình tiết kiệm nhất theo tiêu chuẩn không gian, thời gian hay chi phí . Khi đó phát sinh yêu cầu tìm đường đi ngắn nhất giữa hai đỉnh của đồ thị.
+----------------------------------------------------------------------
+
+=== MẪU 37 ===
+[ĐIỂM SỐ] ROUGE-1: 22.98% | ROUGE-2: 14.84% | ROUGE-L: 16.33%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+13.5 Ghi một khối ra đĩa Đánh dấu chọn khối bằng các phím thao tác trên khối. Ấn tổ hợp phím Ctrl - K - W, xuất hiện hộp thoại Write Block to File, thực hiện các bước như lưu tập tin. 13.6 Chèn nội dung file từ đĩa vào vị trí con trỏ Di chuyển con trỏ đến vị trí cần chèn nội dung, Ấn tổ hợp phím Ctrl - K - R, xuất hiện hộp thoại Read Block from File, thực hiện các bước như mở tập tin.
+----------------------------------------------------------------------
+
+=== MẪU 38 ===
+[ĐIỂM SỐ] ROUGE-1: 65.06% | ROUGE-2: 64.85% | ROUGE-L: 65.06%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp này có thế sử dụng khoảng cách Hamming, được tính bằng số thuộc tính có giá trị khác nhau. Cụ thể, khoảng cách Hamming giữa hai xâu ký tự cùng độ dài được tính bằng số vị trí mà tại đó hai ký tự tương ứng khác nhau. b Sử dụng trọng số cho các hàng xóm Theo thuật toán k-NN trình bày ở trên cho bài toán hồi quy, mỗi hàng xóm có đóng góp như nhau vào giá trị của ví dụ mới. Tuy nhiên, sẽ hợp lý hơn nếu cho phép những hàng xóm ở gần có ảnh hưởng nhiều hơn tới giá trị dự đoán. Có thể thực hiện điều này bằng cách nhân giá trị hàng xóm với trọng số, trọng số càng lớn nếu hàng xóm ở càng gần ví dụ cần dự đoán.
+----------------------------------------------------------------------
+
+=== MẪU 39 ===
+[ĐIỂM SỐ] ROUGE-1: 91.61% | ROUGE-2: 91.57% | ROUGE-L: 78.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cán bộ đào tạo lựa chọn Khoa Quản trị kinh doanh với tùy chọn Học Kỳ IX chỉ có với khoa Công nghệ thông tin 5.1.1. Cán bộ đào tạo chọn lại và tiếp tục các bước sau Phác thảo giao diện Quản lý lớp học Quản lý danh sách lớp Tên use case: Quản lý lớp học Tác nhân chính Cán bộ đào tạo Tiền điều kiện Đăng nhập hệ thống thành công Đảm bảo thành công Cán bộ đào tạo xem thống kê các lớp học thành công Đảm bảo tối thiểu Trở lại màn hình lựa chọn tùy chọn cơ bản Kích hoạt Người dùng chọn chức năng Quản lý lớp học Chuỗi sự kiện chính 1. Hệ thống hiển thị tùy chọn Quản lý lớp học và Quản lý danh sách lớp học 3.
+----------------------------------------------------------------------
+
+=== MẪU 40 ===
+[ĐIỂM SỐ] ROUGE-1: 83.57% | ROUGE-2: 82.95% | ROUGE-L: 82.13%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+CÀI ĐẶT Ta sẽ cài đặt phương pháp Lawler với khuôn dạng Input Output như sau: Input: file văn bản GMATCH.INP Dòng 1: Chứa hai số n, m lần lượt là số cạnh và số đỉnh của đồ thị cách nhau ít nhất một dấu cách n 100 m dòng tiếp theo, mỗi dòng chứa hai số u, v tượng trưng cho một cạnh u, v của đồ thị Lý thuyết đồ thị Lê Minh Hoàng 116 Output: file văn bản GMATCH.OUT chứa bộ ghép cực đại tìm được GMATCH.INP GMATCH.OUT 9 5 6 1 3 4 2 10 8 7 10 11 1 2 1 6 2 4 2 8 3 4 3 6 5 6 5 9 5 10 7 8 7 9 1 6 2 8 3 4 5 10 7 9 Number of matched edges: 5 Chương trình này sửa đổi một chút mô hình cài đặt trên dựa vào nhận xét: v là một đỉnh đậm v x hoặc match v là một đỉnh nhạt Nếu v là đỉnh đậm thì S v match v Vậy thì ta không cần phải sử dụng riêng một mảng nhãn S v , tại mỗi bước sửa vết, ta chỉ cần sửa nhãn vết T v mà thôi.
+----------------------------------------------------------------------
+
+=== MẪU 41 ===
+[ĐIỂM SỐ] ROUGE-1: 80.0% | ROUGE-2: 57.14% | ROUGE-L: 67.1%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thiết kế chi tiết Chương này trình bày ánh xạ mô hình lớp phân tích thành mô hình lớp thiết kế, xử lý lưu trữ với cơ sở dữ liệu quan hệ, một số vấn đề liên quan đến giao diện người sử dụng, thiết kế các dịch vụ nghiệp vụ, sử dụng pattern, framework và thư viện. Tác giả vô cùng biết ơn các đồng nghiệp thuộc Khoa Công nghệ Thông tin, Học viện Công nghệ Bưu chính Viễn thông đã tạo động lực để tác giả hoàn thành tài liệu này.
+----------------------------------------------------------------------
+
+=== MẪU 42 ===
+[ĐIỂM SỐ] ROUGE-1: 52.29% | ROUGE-2: 51.97% | ROUGE-L: 52.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bài toán nhận dạng mẫu cụ thể thường là xác định nhãn cho đầu vào cụ thể, ví dụ cho ảnh chụp mặt người, cần xác định đó là ai. Cần lưu ý, khai phá dữ liệu và nhận dạng mẫu có nhiều điểm trùng nhau cả trong phạm vi nghiên cứu và ứng dụng. Điểm khác nhau chủ yếu liên quan tới lĩnh vực ứng dụng và kỹ thuật sử dụng, theo đó khai phá dữ liệu liên quan tới dữ liệu thương mại trong khi nhận dạng mẫu liên quan nhiều tới dữ liệu âm thanh, hình ảnh và được dùng nhiều trong kỹ thuật. Ứng dụng cụ thể Sau đây là một số ví dụ ứng dụng cụ thể của học máy: - Nhận dạng ký tự: phân loại hình chụp ký tự thành các loại, mỗi loại ứng với một ký tự tương ứng.
+----------------------------------------------------------------------
+
+=== MẪU 43 ===
+[ĐIỂM SỐ] ROUGE-1: 42.28% | ROUGE-2: 15.57% | ROUGE-L: 21.95%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+8.2.2 Chuỗi Chuỗi được xem như là một mảng 1 chiều gồm các phần tử có kiểu char như mẫu tự, con số và bất cứ ký tự đặc biệt như , -, , , , Theo quy ước, một chuỗi sẽ được kết thúc bởi ký tự null 0 : kí tự rỗng .
+----------------------------------------------------------------------
+
+=== MẪU 44 ===
+[ĐIỂM SỐ] ROUGE-1: 74.75% | ROUGE-2: 74.62% | ROUGE-L: 74.75%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phiên bản này của leo đồi lựa chọn trong số hàng xóm hiện thời hàng xóm có hàm mục tiêu tốt nhất. Nếu hàng xóm đó tốt hơn trạng thái hiện thời thì di chuyển sang hàm xóm đó. Bước 1 là bước khởi tạo, trong đó ta chọn ngẫu nhiên trạng thái xuất phát. Ở bước 3, thuật toán kiểm tra các láng giềng, nếu không có láng giềng nào tốt hơn thuật trạng thái hiện thời tất cả láng giềng có giá trị hàm mục tiêu Obj không lớn hơn Obj của trạng thái hiện thời thì kết thúc và trả về trạng thái hiện thời là kết quả. Trong trường hợp ngược lại, ở bước 4, thuật toán chọn láng giềng có giá trị hàm mục tiêu Obj lớn nhất và chuyển sang trạng thái đó, sau đó lặp lại từ bước 2.
+----------------------------------------------------------------------
+
+=== MẪU 45 ===
+[ĐIỂM SỐ] ROUGE-1: 55.98% | ROUGE-2: 43.17% | ROUGE-L: 40.76%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp đơn đồ thị vô hướng với trọng số không âm, bài toán tìm đường đi ngắn nhất có thể dẫn về bài toán trên đồ thị có hướng bằng cách thay mỗi cạnh của nó bằng hai cung có hướng ngược chiều nhau. Lưu ý rằng các thuật toán dưới đây sẽ luôn luôn tìm được đường đi ngắn nhất là đường đi cơ bản.
+----------------------------------------------------------------------
+
+=== MẪU 46 ===
+[ĐIỂM SỐ] ROUGE-1: 58.33% | ROUGE-2: 57.34% | ROUGE-L: 34.03%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+- Gen từ các cá thể thích nghi tốt được kết hợp với nhau, nhờ đó có thể tạo ra hậu duệ tốt hơn tổ tiên. - Nhờ vậy, thế hệ tiếp theo sẽ chứa cá thể thích nghi hơn với môi trường. 2 Biểu diễn lời giải và không gian tìm kiếm Để sử dụng giải thuật di truyền, trước hết mỗi lời giải phải được biểu diễn bằng một nhiễm sắc thể, chứa các gen. Ở đây, nhiễm sắc thể là một vec tơ có độ dài xác định, mỗi phần tử của vec tờ là một gen. Thông thường, lời giải được biểu diễn bằng vec tơ nhị phân, tức là phần tử nhận giá trị 0, 1 , nhưng cũng có thể sử dụng phần tử là số hoặc chữ.
+----------------------------------------------------------------------
+
+=== MẪU 47 ===
+[ĐIỂM SỐ] ROUGE-1: 35.0% | ROUGE-2: 14.29% | ROUGE-L: 25.83%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+DAU_CHAM; putchar c ; F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu Kết quả in ra màn hình a a 4 4 . _ Bạn thay các dòng từ 10 đến 11 bằng câu lệnh: for ; c getchar ! Ví dụ 6: Đọc vào một loạt kí tự trên bàn phím, đếm số kí tự nhập vào.
+----------------------------------------------------------------------
+
+=== MẪU 48 ===
+[ĐIỂM SỐ] ROUGE-1: 48.51% | ROUGE-2: 47.21% | ROUGE-L: 40.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Giả sử ta có N ví dụ huấn luyện với giá trị đầu ra là y1, y2, , yN. Tiếp theo, giả sử với các ví dụ này, mô hình hồi quy đưa ra dự đoán giá trị đầu ra lần lượt là f1, f2, , fN. Hai độ đo trên khi đó được định nghĩa như sau: Độ đo MAE tính giá trị lỗi trong mọi trường hợp như nhau, trong khi độ đo MSE nhấn mạnh vào những trường hợp có lỗi lớn. Cụ thể, các chênh lệch có trị tuyệt đối lớn hơn 1 sẽ càng lớn do được bình phương. Trong khi đó, các chênh lệch với trị tuyệt đối nhỏ hơn 1 khi được bình phương sẽ giảm đi so với giá trị ban đầu.
+----------------------------------------------------------------------
+
+=== MẪU 49 ===
+[ĐIỂM SỐ] ROUGE-1: 63.55% | ROUGE-2: 16.98% | ROUGE-L: 31.78%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Một số cải tiến sau đây có thể sử dụng kết hợp với thuật toán tìm theo chiều rộng vừa trình bầy. Mặc dù vòng lặp không ảnh hưởng tới khả năng tìm ra lời giải của tìm theo chiều rộng, xong việc có vòng lặp và xem xét lại các nút làm tăng độ phức tạp tính toán do phải khảo sát nhiều nút hơn.
+----------------------------------------------------------------------
+
+=== MẪU 50 ===
+[ĐIỂM SỐ] ROUGE-1: 63.41% | ROUGE-2: 63.19% | ROUGE-L: 63.41%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ứng dụng của học máy Có rất nhiều ứng dụng thực tế khác nhau của học máy. Hai lĩnh vực ứng dụng lớn nhất của học máy là khai phá dữ liệu data mining và nhận dạng mẫu pattern recognition . Khai phá dữ liệu là ứng dụng kỹ thuật học máy vào các cơ sở dữ liệu hoặc các tập dữ liệu lớn để phát hiện quy luật hay tri thức trong dữ liệu đó hoặc để dự đoán các thông tin quan tâm trong tương lai. Ví dụ, từ tập hợp hóa đơn bán hàng có thể phát hiện ra quy luật những người mua bánh mì thường mua bơ . Nhận dạng mẫu là ứng dụng các kỹ thuật học máy để phát hiện các mẫu có tính quy luật trong dữ liệu, thường là dữ liệu hình ảnh, âm thanh.
+----------------------------------------------------------------------
+
+=== MẪU 51 ===
+[ĐIỂM SỐ] ROUGE-1: 47.55% | ROUGE-2: 47.18% | ROUGE-L: 33.57%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Mỗi ký hiệu mệnh đề có thể tương ứng với một phát biểu mệnh đề , ví dụ ký hiệu mệnh đề A có thể tương ứng với phát biểu: Hà Nội là thủ đô của Việt Nam hoặc bất kì một phát biểu nào khác. Chẳng hạn, phát biểu Hà Nội là thủ đô của Việt Nam là đúng còn phát biểu Voi là gia cầm là sai trong thế giới của chúng ta . Một minh họa là một cách gán cho mỗi biến mệnh đề một giá trị chân lý True hoặc False. Nếu biến mệnh đề A được gán giá trị chân lý True False A True A False thì ta nói mệnh đề A đúng sai trong minh họa đó. Ngữ nghĩa của logic cần quy định cách tính giá trị đúng hoặc sai cho các câu theo mô hình thế giới của bài toán.
+----------------------------------------------------------------------
+
+=== MẪU 52 ===
+[ĐIỂM SỐ] ROUGE-1: 59.52% | ROUGE-2: 58.54% | ROUGE-L: 42.91%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Độ chính xác sau đó cũng được tính trung bình trên toàn bộ các ví dụ. Phương pháp này được dùng trong trường hợp bộ dữ liệu ban đầu có kích thước nhỏ và do vậy cần dành nhiều ví dụ cho tập huấn luyện. Lựa chọn đặc trưng Lựa chọn đặc trưng feature selection là một trong những kỹ thuật quan trọng khi xây dựng các hệ thống học máy. Việc lựa chọn được các đặc trưng hợp lý để biểu diễn các ví dụ cho phép tạo ra các mô hình học máy có độ chính xác cao. Như đã trình bầy ở đầu chương, để phân loại hoặc hồi quy, mỗi ví dụ hay đối tượng cần biểu diễn dưới dạng vec tơ các đặc trưng.
+----------------------------------------------------------------------
+
+=== MẪU 53 ===
+[ĐIỂM SỐ] ROUGE-1: 64.22% | ROUGE-2: 31.48% | ROUGE-L: 31.19%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khi đó, nếu A cần mở rộng N nút, thì A sâu dần sẽ phải mở rộng 1 2 N O N2 . Giải pháp cho vấn đề độ phức tạp tính toán là sử dụng mức độ tăng ngưỡng β α, sao cho tại mỗi bước lặp sẽ mở rộng cây tìm kiếm thêm một số nút mới.
+----------------------------------------------------------------------
+
+=== MẪU 54 ===
+[ĐIỂM SỐ] ROUGE-1: 61.79% | ROUGE-2: 61.54% | ROUGE-L: 61.79%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong hồi quy tuyến tính, mô hình sử dụng là mô hình tuyến tính có dạng sau: Trong công thức này, giá trị biến đầu ra được tính bằng tổng của các thuộc tính, mỗi thuộc tính nhân với một tham số . Khi đó, công thức trên có thể viết lại như sau: trong đó n là số đặc trưng đầu vào. Trong trường hợp n 1, công thức trên là phương trình đường thẳng, trong trường hợp n 2 là phương trình mặt phẳng, trong trường hợp n 2, công thức trên xác định một siêu phẳng hyperplane . Hình 5.13 minh họa cho đường thẳng trong trường hợp có một thuộc tính đầu vào. 1 1 0 iβ n i i ix x h 0 β PTIT Học máy 182 Hình 5.13.
+----------------------------------------------------------------------
+
+=== MẪU 55 ===
+[ĐIỂM SỐ] ROUGE-1: 98.1% | ROUGE-2: 97.61% | ROUGE-L: 64.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phần tiếp theo sẽ phân tích một cách vắn tắt về mối quan hệ giữa các ca sử dụng trong Hệ thống quản lý học tập theo tín chỉ trong Hình 3.5 và Hình 3.6: Đặc biệt hóa: Có thể nhận thấy trong biểu đồ ca sử dụng Hình 3.6, ca sử dụng Quản lý xếp lớp được phân rã thành các ca sử dụng: Quản lý Đăng ký học, Quản lý phân lớp, Lập lịch dạy trong biểu đồ ca sử dụng phân rã. Trong khi đó ca sử dụng Quản lý xếp lớp là ca sử dụng trừu tượng, nó có nhiệm vụ chính là nhóm các ca sử dụng Quản lý Đăng ký học, Quản lý phân lớp, Lập lịch thành một ca sử dụng trừu tượng trong biểu đồ ca sử dụng.
+----------------------------------------------------------------------
+
+=== MẪU 56 ===
+[ĐIỂM SỐ] ROUGE-1: 70.34% | ROUGE-2: 53.47% | ROUGE-L: 57.93%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Giả sử a, b, c là biến kiểu int với a 8, b 3 và c 5. Xác định giá trị các biểu thức sau: a b c a c 2 a a b Giáo trình Lập trình C căn bản Trang 131 Hanoi Aptech Computer Education Center a b c 2 b 3 a c a b c 4 3 a c a c b a 5 a 6 b a b a b c 5 b c 2. Giả sử x, y, z là biến kiểu float với x 8.8, y 3.5 và z 5.2.
+----------------------------------------------------------------------
+
+=== MẪU 57 ===
+[ĐIỂM SỐ] ROUGE-1: 72.27% | ROUGE-2: 71.55% | ROUGE-L: 72.27%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Việc bớt các thuộc tính dư thừa một mặt cho phép giảm thời gian tính toán, mặt khác cho phép tăng độ chính xác của mô hình trong một số trường hợp. Khi lựa chọn đặc trưng, từ tập đặc trưng ban đầu bao gồm n đặc trưng ta cần lựa chọn m đặc trưng m n thỏa mãn hai điều kiện trên. Có hai cách tiếp cận chính cho lựa chọn đặc trưng: 1 lựa chọn bằng cách lọc filtering , và 2 lựa chọn bằng phương pháp bao wrapper . Đây là dạng phương pháp heuristic, theo đó ta dùng một độ đo S xi thể hiện sự liên quan giữa từng đặc trưng xi với nhãn phân loại, hay nói cách khác, đó là độ đo thông tin mà đặc trưng xi cung cấp về nhãn phân loại của các ví dụ.
+----------------------------------------------------------------------
+
+=== MẪU 58 ===
+[ĐIỂM SỐ] ROUGE-1: 18.35% | ROUGE-2: 10.4% | ROUGE-L: 11.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Suy diễn chẩn đoán hay suy diễn dưới lên Đây là dạng suy diễn yêu cầu tính P Q E , trong đó Q là một nút cha của E.
+----------------------------------------------------------------------
+
+=== MẪU 59 ===
+[ĐIỂM SỐ] ROUGE-1: 44.44% | ROUGE-2: 17.84% | ROUGE-L: 23.33%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khác biệt rõ ràng của thuật toán Floyd là khi cần tìm đường đi ngắn nhất giữa một cặp đỉnh khác, chương trình chỉ việc in kết quả chứ không phải thực hiện lại thuật toán Floyd nữa. NHẬN XÉT Bài toán đường đi dài nhất trên đồ thị trong một số trường hợp có thể giải quyết bằng cách đổi dấu trọng số tất cả các cung rồi tìm đường đi ngắn nhất, nhưng hãy cẩn thận, có thể xảy ra trường hợp có chu trình âm.
+----------------------------------------------------------------------
+
+=== MẪU 60 ===
+[ĐIỂM SỐ] ROUGE-1: 68.27% | ROUGE-2: 67.56% | ROUGE-L: 68.27%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hiện máy tính chỉ có khả năng nhận dạng một số lớp đối tượng nhất định như chữ in, mặt người nhìn thẳng, với độ chính xác gần với con người. Xử lý ngôn ngữ tự nhiên natural language processing Đây là lĩnh vực nghiên cứu với có mục đích phân tích thông tin, dữ liệu nhận được dưới dạng âm thanh hoặc văn bản và được trình bày dưới dạng ngôn ngữ tự nhiên của con người. Chẳng hạn, thay vì gõ các lệnh quy ước, ta có thể ra lệnh bằng cách nói với máy tính như với người thường. Do đối tượng giao tiếp của hệ thống trị tuệ nhân tạo thường là con người, khả năng tiếp nhận thông tin và phản hồi dưới dạng lời nói hoặc văn bản theo cách diễn đạt của người sẽ rất có ích trong những trường hợp như vậy.
+----------------------------------------------------------------------
+
+=== MẪU 61 ===
+[ĐIỂM SỐ] ROUGE-1: 10.18% | ROUGE-2: 0.73% | ROUGE-L: 8.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hanoi Aptech Computer Education Center Lý thuyết đồ thị Lê Minh Hoàng 1 MỤC LỤC 0.
+----------------------------------------------------------------------
+
+=== MẪU 62 ===
+[ĐIỂM SỐ] ROUGE-1: 82.28% | ROUGE-2: 56.05% | ROUGE-L: 56.96%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Các đỉnh trong M gọi là các đỉnh đã ghép matched vertices , các đỉnh khác là chưa ghép. Các cạnh trong M gọi là các cạnh đã ghép, các cạnh khác là chưa ghép Nếu định hướng lại các cạnh của đồ thị thành cung, những cạnh chưa ghép được định hướng từ X sang Y, những cạnh đã ghép định hướng từ Y về X. Trên đồ thị định hướng đó: Một đường đi xuất phát từ một X_đỉnh chưa ghép gọi là đường pha, một đường đi từ một X_đỉnh chưa ghép tới một Y_đỉnh chưa ghép gọi là đường mở.
+----------------------------------------------------------------------
+
+=== MẪU 63 ===
+[ĐIỂM SỐ] ROUGE-1: 34.22% | ROUGE-2: 8.06% | ROUGE-L: 18.72%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+165 PHỤ LỤC B: CASE STUDY: HỆ QUẢN LÝ ĐĂNG KÝ HỌC THEO TÍN CHỈ ...................................................................................................................... 227 PTIT LỜI NÓI ĐẦU iv LỜI NÓI ĐẦU Phân tích và thiết kế các hệ thống thông tin là một môn học bắt buộc thuộc chương trình Đại học dành cho sinh viên ngành Công nghệ thông tin.
+----------------------------------------------------------------------
+
+=== MẪU 64 ===
+[ĐIỂM SỐ] ROUGE-1: 35.09% | ROUGE-2: 14.13% | ROUGE-L: 25.26%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+: In ra dấu : In ra dấu : In ra dấu : In ra dấu Ví dụ 1: printf Bai hoc C dau tien. n ; ký tự điều khiển chuỗi ký tự Hanoi Aptech Computer Education Center Giáo trình Lập trình C căn bản Trang 22 Kết quả in ra màn hình Bai hoc C dau tien. _ Ví dụ 2: printf Ma dinh dang Hanoi Aptech Computer Education Center in ra dau .
+----------------------------------------------------------------------
+
+=== MẪU 65 ===
+[ĐIỂM SỐ] ROUGE-1: 54.66% | ROUGE-2: 46.54% | ROUGE-L: 52.17%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp thứ nhất, biết giá trị một nút cha, yêu cầu tính xác suất quan sát thấy giá trị nút con.
+----------------------------------------------------------------------
+
+=== MẪU 66 ===
+[ĐIỂM SỐ] ROUGE-1: 62.93% | ROUGE-2: 62.61% | ROUGE-L: 62.93%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Dòng File Edit Search Run Cmpile Debug Project Option Window Help 1 2 3 4 5 6 7 8 Doc vao 1 loat ktu tren ban phim, dem so ktu nhap vao. void main void Giáo trình Lập trình C căn bản Trang 55 Hanoi Aptech Computer Education Center 9 10 11 12 13 14 15 16 char c; int idem; for idem 0; c getchar ! n , idem ; getch ; F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu Kết quả in ra màn hình afser. _ Bạn thay các dòng từ 12 đến 13 bằng câu lệnh: for idem 0; c getchar ! Ví dụ 7: Đọc vào một loạt kí tự trên bàn phím, đếm số kí tự nhập vào.
+----------------------------------------------------------------------
+
+=== MẪU 67 ===
+[ĐIỂM SỐ] ROUGE-1: 58.56% | ROUGE-2: 58.24% | ROUGE-L: 47.91%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cụm dịch vụ Server, cụm nghiệp vụ business và cụm lưu trữ persistence giống hệt những cụm được mô tả trong những phần trước. Cụm cơ sở dữ liệu được cung cấp bởi thư viện JDBC Java Database Connectivity . JDBC cho phép chu ng ta truy cập vào bất kỳ cơ sở dữ liệu quan hệ nào. Vì chu ng ta bao gồm cả lớp lưu trữ presistence, nên ta có thể thay thế JDBC với một cơ sở dữ liệu hướng đối tượng hoặc hệ thống file mà không ảnh hưởng đến các đối tượng nghiệp vụ. 5.6 XÂY DỰNG BIỂU ĐỒ GÓI Khái niệm gói package trong UML cho phép chu ng ta nhóm các lớp có liên quan nhau xem Chương 2 .
+----------------------------------------------------------------------
+
+=== MẪU 68 ===
+[ĐIỂM SỐ] ROUGE-1: 56.35% | ROUGE-2: 56.0% | ROUGE-L: 56.35%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thứ tự này đảm bảo các nút cha luôn nằm trước nút con có thể chọn thứ tự khác miễn là đảm bảo điều kiện nút cha nằm trước nút con . Tại mỗi bước lấy mẫu, một bộ giá trị của các biến được xác định bằng cách lần lượt lấy mẫu các biến theo thứ tự đã xác định như sau. - Chọn ngẫu nhiên giá trị L theo xác suất P L S false, M true 0.1. Như vậy, sau một lần lấy mẫu, ta được bộ giá trị S, M, L, R, T . Cách lấy mẫu tại mỗi bước là trước tiên lấy mẫu các nút không có nút cha.
+----------------------------------------------------------------------
+
+=== MẪU 69 ===
+[ĐIỂM SỐ] ROUGE-1: 56.93% | ROUGE-2: 55.85% | ROUGE-L: 46.44%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thực hiện bước 4 và 5 của thuật toán, ta được kết quả như trên hình 4.17.g. Hình 4.17 tiếp theo d Đặc điểm của thuật toán loại trừ biến Độ phức tạp tính toán. Độ phức tạp tính toán của thuật toán loại trừ biến tăng theo hàm mũ đối với kích thước của thừa số lớn nhất, tức là số biến của thừa số đó. Thật vậy, nếu thừa số có k biến thì ta cần tạo ra bảng k 1 chiều, trong đó k chiều cho k biến và chiều còn lại cho biến cần loại trừ. Nếu mỗi biến có thể nhận b giá trị thì bảng gồm b k 1 phần tử.
+----------------------------------------------------------------------
+
+=== MẪU 70 ===
+[ĐIỂM SỐ] ROUGE-1: 71.06% | ROUGE-2: 47.26% | ROUGE-L: 48.14%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Các mô hình thường được xây dựng sao cho có thể vẽ được thành các biểu đồ dựa trên tập ký hiệu và quy tắc đã cho. Ví dụ, khi xây dựng Hệ quản lý bán hàng thì ta chỉ cần quan tâm đến các thuộc tính như họ tên, địa chỉ, phone, email của đối tượng khách hàng. Trong khi xây dựng hệ Quản lý Học tập theo tín chỉ ngoài các thông tin liên quan đến đối tượng sinh viên như họ tên, địa chỉ, email, phone ta còn phải quan tâm đến các thuộc tính như điểm, lớp học, môn học, khoa mà sinh viên đăng ký. Các phần tử mô hình và các quan hệ Một số ký hiệu để mô hình hóa hướng đối tượng thường gặp trong UML được biểu diễn trong Hình 2.2.
+----------------------------------------------------------------------
+
+=== MẪU 71 ===
+[ĐIỂM SỐ] ROUGE-1: 67.49% | ROUGE-2: 67.29% | ROUGE-L: 67.49%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Như vậy độ phức tạp bộ nhớ của tìm kiếm rộng là O bd 1 . Như vậy, ưu điểm của tìm theo chiều rộng là tính đầy đủ và tối ưu nếu giá thành đường đi như nhau. Nhược điểm của thuật toán này là độ phức tạp tính toán lớn và yêu cầu về bộ nhớ lớn. Trong hai nhược điểm sau, độ phức tạp về bộ nhớ lớn là nghiêm trọng hơn do không thể kiếm được máy tính có bộ nhớ đủ lớn để chạy thuật toán, trong khi ta có thể đợi thêm thời gian để chờ thuật toán chạy xong nếu thời gian chạy không quá lâu. Trên thực thế, thuật toán tìm theo chiều rộng chỉ có thể sử dụng cho các bài toán có kích thước rất nhỏ b và d không quá 10 .
+----------------------------------------------------------------------
+
+=== MẪU 72 ===
+[ĐIỂM SỐ] ROUGE-1: 62.61% | ROUGE-2: 23.68% | ROUGE-L: 30.43%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp các đặc trưng có quan hệ tỷ lệ tuyến tính với nhau, độ chính xác khi phân loại sẽ bị ảnh hưởng. SUPPORT VECTOR MACHINES Support vector machines SVM một số tài liệu dịch là máy véc tơ tựa là kỹ thuật học có giám sát tương đối mới, được đề xuất lần đầu vào năm 1992 và được áp dụng nhiều từ khoảng cuối những năm chín mươi thế kỷ trước.
+----------------------------------------------------------------------
+
+=== MẪU 73 ===
+[ĐIỂM SỐ] ROUGE-1: 97.22% | ROUGE-2: 96.5% | ROUGE-L: 60.42%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Viết mã nguồn chỉ là một trong nhiều hoạt động của việc phát triển phần mềm nên khi tiến hành một số các hoạt động khác sẽ giu p chu ng ta hiểu được các lỗi về khái niệm và thực tế trước khi chu ng ta tiến hành viết mã nguồn. Phương pháp luận giu p chu ng ta dễ thay đổi mã nguồn và dễ sử dụng lại hơn cho lớp bài toán khác; ngoài ra nhờ việc có tài liệu cũng giu p dễ dàng soát lỗi hơn.
+----------------------------------------------------------------------
+
+=== MẪU 74 ===
+[ĐIỂM SỐ] ROUGE-1: 61.9% | ROUGE-2: 27.88% | ROUGE-L: 34.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Những hệ thống dạng này được sử dụng rộng rãi trong sản xuất để kiểm tra sản phẩm, trong hệ thống camera an ninh. Ứng dụng nhận dạng mặt người trên Facebook được dùng để xác định những người quen xuất hiện trong ảnh và gán nhãn tên cho người đó.
+----------------------------------------------------------------------
+
+=== MẪU 75 ===
+[ĐIỂM SỐ] ROUGE-1: 57.68% | ROUGE-2: 23.34% | ROUGE-L: 28.21%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Người ta đã chứng minh được chi phí thời gian thực hiện giải thuật này trong trường hợp xấu nhất sẽ là O n3 đối với đồ thị dày và O n n m logn đối với đồ thị thưa. Tuy nhiên, cũng giống như thuật toán Ford-Fulkerson, trên thực tế phương pháp này hoạt động rất nhanh. Có n thợ và n công việc n 100 , mỗi thợ thực hiện được ít nhất một việc.
+----------------------------------------------------------------------
+
+=== MẪU 76 ===
+[ĐIỂM SỐ] ROUGE-1: 76.11% | ROUGE-2: 75.98% | ROUGE-L: 76.11%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thông điệp message là thông tin được gửi cho đối tượng để kích hoạt các phương thức. Một thông điệp chính là lời gọi hàm hay thủ tục truyền thống nhưng lại từ một đối tượng này đến đối tượng khác. CƠ SỞ CỦA PHÁT TRIỂN PHẦN MỀM HƯỚNG ĐỐI TƯỢNG 5 Ví dụ, trong Hệ quản lý thư viện, nếu nhân viên thư viện cần chèn thêm một cuốn sách mới, những thông tin được đưa vào qua giao diện sẽ được hệ thống gửi đi dưới dạng thông điệp chèn cuốn sách mới cho chương trình ứng dụng. Khi đó đối tượng sách sẽ nhận thông điệp và thực hiện các công việc cần thiết gọi là thực hiện phương thức để chèn cuốn sách mới vào hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 77 ===
+[ĐIỂM SỐ] ROUGE-1: 81.03% | ROUGE-2: 76.68% | ROUGE-L: 80.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Quá trình xây dựng mạng khi đó bao gồm xác định cấu trúc của đồ thị và bảng xác suất điều kiện sao cho phân bố xác suất do mạng thể hiện phù hợp nhất với tần suất xuất hiện các giá trị trong tập dữ liệu.
+----------------------------------------------------------------------
+
+=== MẪU 78 ===
+[ĐIỂM SỐ] ROUGE-1: 58.15% | ROUGE-2: 57.88% | ROUGE-L: 58.15%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+bd Nếu lời giải ở độ sâu d, thì trong tìm kiếm sâu lặp, ta phải gọi thủ tục tìm kiếm sâu hạn chế với độ sâu lần lượt là 0, 1, 2, ..., d. Do đó các đỉnh ở mức 1 phải phát triển lặp d lần, các đỉnh ở mức 2 lặp d-1 lần, ..., các đỉnh ở mức d lặp 1 lần. Như vậy tổng số đỉnh cần phát triển trong tìm kiếm sâu lặp là: d 1 db d - 1 b2 ... 2bd-1 bd Do đó thời gian tìm kiếm sâu dần là O bd tương tự tìm kiếm theo chiều rộng. Trên thực tế, do phải xem xét nhiều lần các nút ở độ sâu nhỏ, nên độ phức tạp tính toán của tìm sâu dần lớn hơn tìm kiếm theo chiều rộng nhưng không lớn hơn quá nhiều.
+----------------------------------------------------------------------
+
+=== MẪU 79 ===
+[ĐIỂM SỐ] ROUGE-1: 68.82% | ROUGE-2: 64.98% | ROUGE-L: 65.23%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hệ thống thông báo thông tin đã được thay đổi thành công Ngoại lệ Phác thảo giao diện thay đổi Thông tin cá nhân PTIT PHỤ LỤC A: LỰA CHỌN CÔNG NGHỆ 201 B.2 PHÂN TÍCH TĨNH Xác định lớp Để xác định các lớp thực thể ta dùng kỹ thuật trích danh từ trong ca sử dụng và kịch bản.
+----------------------------------------------------------------------
+
+=== MẪU 80 ===
+[ĐIỂM SỐ] ROUGE-1: 53.62% | ROUGE-2: 18.25% | ROUGE-L: 26.81%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Quy tắc cập nhật thứ hai gọi là quy tắc giảm gradient ngẫu nhiên stochastic gradient descent và được thực hiện như sau: For i 1 to m For j 0 to n 2 2 1 y h J j j x β β β 2 1 .2 0 y x y h i i n i j β β x jx y h x iβ ij i i j j x h y x α β β i i h y x i i h y x m i ij i i j j x h y 1 x α β β j β m i ij i i x h y 1 x β β J j ij i i j j x h y x α β β PTIT Học máy 185 Khác với học theo mẻ, thuật toán giảm gradient ngẫu nhiên lần lượt xét từng ví dụ huấn luyện.
+----------------------------------------------------------------------
+
+=== MẪU 81 ===
+[ĐIỂM SỐ] ROUGE-1: 57.47% | ROUGE-2: 56.37% | ROUGE-L: 57.47%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tất cả cơ sở dữ liệu quan hệ đều dựa trên mô hình toán học nên chúng xem là thống nhất trong nhiều dạng của DBMS. Tất cả cài đặt hệ cơ sở dữ liệu quan hệ trong thương mại đều hỗ trợ ngôn ngữ lai SQL SQL: Structured Query Luange . Ngôn ngữ lập trình Java cung cấp một thư viện hỗ trợ JDBC Java Database Connectivity kết nối tới cơ sở dữ liệu quan hệ. 6.3.2 Mô hình quan hệ Mô hình quan hệ là một mô hình toán học có độ tin cậy và dễ dàng tối ưu. Tuy nhiên, mô hình quan hệ không giống mô hình mạng và mô hình phân cấp, nó không có các liên kết vật lý.
+----------------------------------------------------------------------
+
+=== MẪU 82 ===
+[ĐIỂM SỐ] ROUGE-1: 77.69% | ROUGE-2: 71.47% | ROUGE-L: 49.04%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+2.2.2.4 Ví dụ 4 Dòng File Edit Search Run Compile Debug Project Option Window Help 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Chuong trinh nhap vao ban kinh hinh tron. Tinh dien tich include stdio.h include conio.h define PI 3.14 void main void float fR; printf Nhap vao ban kinh hinh tron: ; scanf f , fR ; printf Dien tich hinh tron: .2f. n , 2 PI fR ; getch ; F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu HanoiAptech Computer Education Center Thanghv Giáo trình Lập trình C căn bản Trang 17 Kết quả in ra màn hình Nhap vao ban kinh hinh tron: 1 Dien tich hinh tron: 6.28 _ Dòng thứ 5: define PI 3.14, dùng chỉ thị define để định nghĩa hằng số PI có giá trị 3.14.
+----------------------------------------------------------------------
+
+=== MẪU 83 ===
+[ĐIỂM SỐ] ROUGE-1: 78.79% | ROUGE-2: 78.67% | ROUGE-L: 78.79%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Lý do: Ban đầu, ta trừ tất cả các phần tử trên mỗi hàng next ... finish x start start Lý thuyết đồ thị Lê Minh Hoàng 105 của ma trận C đi giá trị nhỏ nhất trên hàng đó, rồi lại trừ tất cả các phần tử trên mỗi cột của ma trận C đi giá trị nhỏ nhất trên cột đó Phép trừ ở đây làm gián tiếp qua các Fx, Fy chứ không phải trừ trực tiếp trên ma trận C . Nên sau bước này, tất cả các cạnh của đồ thị sẽ có trọng số không âm bởi phần tử nhỏ nhất trên mỗi cột của C chắc chắn là 0. Sau khi kết thúc thuật toán, tổng tất cả các phần tử ở hai dãy Fx, Fy bằng trọng số cực tiểu của bộ ghép đầy đủ tìm được trên đồ thị ban đầu.
+----------------------------------------------------------------------
+
+=== MẪU 84 ===
+[ĐIỂM SỐ] ROUGE-1: 58.04% | ROUGE-2: 57.75% | ROUGE-L: 58.04%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Mặc dù phát triển hệ thống sẽ dễ dàng hơn nếu xác lập một hàng đợi thứ tự dựa vào tất cả người dùng và các tiến trình. Tuy nhiên, trong thực tế chúng ta phải biến hỗn độn này thành thứ tự bằng nỗ lực lập trình của mình. Tính toán tương tranh xem xét một số vấn đề: Làm sao đảm bảo được rằng thông tin được cập nhật đầy đủ trước khi người nào thao tác trên cập nhật đó. Ví dụ, dừng mọi truy nhập vào đăng ký môn học cho tới khi tất cả các chi tiết môn học đã được thêm vào. Làm sao đảm bảo được rằng thông tin không được cập nhật trong khi nó đang được đọc.
+----------------------------------------------------------------------
+
+=== MẪU 85 ===
+[ĐIỂM SỐ] ROUGE-1: 67.58% | ROUGE-2: 66.85% | ROUGE-L: 42.86%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+b Thuật toán loại trừ biến Ví dụ trên cho thấy nguyên tắc cơ bản của phương pháp loại trừ biến trên một mạng Bayes đơn giản. Ý tưởng là tính toán sẵn và lưu các thành phần lặp lại, sau đó sử dụng các giá trị đã lưu để tiết kiệm số phép tính cần thực hiện theo nguyên tắc quy hoạch động. Tiếp theo, ta sẽ xem xét thuật toán loại trừ biến cho trường hợp tổng quát. Để trình bầy thuật toán, trước hết cần biết khái niệm thừa số và thừa số hoá. Thừa số hoá một phân phối xác suất đồng thời là phân tích xác suất đó thành các thành phần, mỗi thành phần phụ thuộc vào một hoặc một số biến ngẫu nhiên, sao cho tích các thành phần đó là giá trị xác suất đồng thời.
+----------------------------------------------------------------------
+
+=== MẪU 86 ===
+[ĐIỂM SỐ] ROUGE-1: 79.27% | ROUGE-2: 54.17% | ROUGE-L: 47.15%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+THIẾT KẾ KIẾN TRÚC HỆ THỐNG 133 khả năng của nhân viên và sự trễ mạng từ máy của văn phòng đặt vé tới nơi đặt máy chủ. Trong kịch bản bán vé nói trên, chu ng ta phải đảm bảo, ít nhất là không tình cờ bán hai vé khi chỉ còn một ghế duy nhất. Đó là một vấn đề tương tranh mức tiến trình, bởi nó có thể được điều khiển bởi tiến trình máy chủ dựa trên phân loại yêu cầu như thứ nhất đến để mua vé, thứ hai đưa ra một thông điệp lỗi. Nhưng nó có thể không tốt về phía nghiệp vụ vì có thể khiến khách hàng bực tức khi trả lời rằng còn một vé mà chỉ ngay sau đó vài giây đã không còn gì cả.
+----------------------------------------------------------------------
+
+=== MẪU 87 ===
+[ĐIỂM SỐ] ROUGE-1: 55.12% | ROUGE-2: 53.97% | ROUGE-L: 38.58%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cụ thể, hành động A và câu hỏi Q độc lập với nhau khi đã biết F. Ngoài ra, có thể giả thiết tại mỗi thời điểm chỉ xảy ra PTIT Suy diễn xác suất 148 một hỏng hóc duy nhất. Quan hệ độc lập xác suất giữa các biến được mô hình hóa bằng mạng Bayes trên hình 4.19. Mạng Bayes dùng cho khắc phục sự cố Tùy thông tin có được, hệ thống có thể thực hiện suy diễn để tính xác suất lựa chọn một hành động cụ thể nào đó. b Chẩn đoán y tế Một nhóm ứng dụng thường được nhắc đến khác của mạng Bayes là chẩn đoán y tế.
+----------------------------------------------------------------------
+
+=== MẪU 88 ===
+[ĐIỂM SỐ] ROUGE-1: 70.92% | ROUGE-2: 70.0% | ROUGE-L: 70.92%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+MÔ HÌNH HÓA PHẦN MỀM HƯỚNG ĐỐI TƯỢNG 30 - Kết hợp Aggregation : là dạng quan hệ mô tả một lớp A là một bộ phận của lớp B và lớp A có thể tồn tại độc lập. Quan hệ kết hợp được biểu diễn bằng một mũi tên gắn hình thoi rỗng ở đầu hướng về lớp bao hàm. Lớp Địa chỉ là một phần của lớp Khách hàng nhưng đối tượng Địa chỉ vẫn có thể tồn tại độc lập với đối tượng khách hàng. - Hợp thành Composition : Quan hệ hợp thành biểu diễn một quan hệ kiểu tổng thể-bộ phận nhưng mạnh hơn quan hệ kết hợp.
+----------------------------------------------------------------------
+
+=== MẪU 89 ===
+[ĐIỂM SỐ] ROUGE-1: 50.43% | ROUGE-2: 13.79% | ROUGE-L: 26.5%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nhưng trong mỗi khối lệnh có thể có một nhiều cấu trúc if ở 3 dạng trên. Phác họa lời giải Điểm số nhập vào nếu hợp lệ 0 điểm 10 , bạn tiếp tục công việc xếp loại, ngược lại thông báo Nhập điểm không hợp lệ .
+----------------------------------------------------------------------
+
+=== MẪU 90 ===
+[ĐIỂM SỐ] ROUGE-1: 56.57% | ROUGE-2: 56.22% | ROUGE-L: 44.62%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tìm theo chiều rộng là đầy đủ kể cả khi giá thành đường đi giữa hai trạng thái có thể bằng không. Giả sử cần tìm chuỗi các link cho phép di chuyển từ trang Web này sang trang Web khác. Hãy lựa chọn thuật toán tìm kiếm phù hợp cho bài toán này và viết chương trình hiện thức hóa thuật toán. Việc sử dụng tìm kiếm theo hai hướng cho bài toán này có hiệu quả không? Các khẳng định sau là đúng hay sai, giải thích chứng minh câu trả lời: Tìm theo chiều rộng là trường hợp riêng của tìm theo giá thành thống nhất.
+----------------------------------------------------------------------
+
+=== MẪU 91 ===
+[ĐIỂM SỐ] ROUGE-1: 62.12% | ROUGE-2: 61.86% | ROUGE-L: 62.12%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Giới hạn độ sâu được bắt đầu từ 0, sau đó tăng lên 1, 2, 3 v.v. Thuật toán tìm kiếm sâu dần thể hiện trên hình 2.11, trong đó tìm kiếm sâu được lặp lại, tại mỗi bước lặp, độ sâu được giới hạn bởi biến C. Sau mỗi vòng lặp, giá trị của C được tăng thêm một đơn vị và thuật toán xây dựng lại cây tìm kiếm từ đầu. Với mỗi giá trị của C, thuật toán tiến hành tìm kiếm theo chiều sâu nhưng không thêm vào ngăn xếp O các nút có độ sâu lớn hơn C. Việc kiểm tra này được thực hiện ở bước c tại vòng lặp trong của thuật toán.
+----------------------------------------------------------------------
+
+=== MẪU 92 ===
+[ĐIỂM SỐ] ROUGE-1: 97.93% | ROUGE-2: 97.4% | ROUGE-L: 51.81%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, khi bạn đọc mượn một cuốn sách, công việc của thủ thư lúc này vừa liên quan đến đối tượng nghiệp vụ ở bên ngoài hệ thống là cuốn sách vật lý trên giá sách vừa liên quan đến đối tượng nằm trong chính hệ thống được khởi tạo từ lớp chu ng ta cài đặt. Các thực thể trong Bảng thuật ngữ đều tuân theo quy định đặt tên lớp như lớp bạn đọc Bandoc, lớp sách Sach, nhân viên thư viện NhanvienThuvien, thủ kho Thukho, thủ thư Thuthu Rõ ràng khi chúng ta sử dụng cùng một quy định trong tất cả tài liệu của dự án, thì người đọc dễ dàng tham chiếu đến các định nghĩa trong bảng thuật ngữ hơn.
+----------------------------------------------------------------------
+
+=== MẪU 93 ===
+[ĐIỂM SỐ] ROUGE-1: 77.58% | ROUGE-2: 45.06% | ROUGE-L: 32.75%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Quá trình lặp được thực hiện cho tới khi thuật toán hội tụ, tức là cá thể con không khác nhiều cá thể bố mẹ, hoặc khi thực hiện đủ một số lượng vòng lặp do người dùng quy định. Ví dụ minh hoạ các thao tác của giải thuật di truyền với bài toán 8 quân hậu. Mỗi lời giải được biểu diễn bằng chuỗi 8 chữ số tương ứng với vị trí của mỗi quân trong cột tương ứng. Hàm thích nghi được tính bằng số đôi hậu không đe doạ nhau và thể hiện bằng số ở phía trên lời giải chỉ thể hiện cho quần thể ban đầu PTIT Giải quyết vấn đề bằng tìm kiếm 66 Hình 2.25.
+----------------------------------------------------------------------
+
+=== MẪU 94 ===
+[ĐIỂM SỐ] ROUGE-1: 54.6% | ROUGE-2: 53.67% | ROUGE-L: 54.6%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Java có một dạng đa kế thừa đối với interface và lớp abstract không cài đặt phương thức . 1.4 SỬ DỤNG LẠI Sử dụng lại reuse là khái niệm đã được bàn cãi rất nhiều trong công nghiệp phần mềm. Nhiều nghiên cứu và thực tế phát triển phần mềm đã chỉ ra rằng sử dụng lại dẫn đến phát triển nhanh hơn, hiệu quả hơn và đáng tin cậy hơn vì mã đã được kiểm thử nhiều lần. Chu ng ta có thể liệt kê ra đây một số cách để sử dụng lại mã nguồn: Sử dụng lại các chức năng trong một hệ thống: Dạng đơn giản nhất là dùng lại mã nguồn được sử dụng trong phát triển các hệ thống theo cách truyền thống liên quan đến việc viết các hàm tiện ích được gọi từ nhiều nơi.
+----------------------------------------------------------------------
+
+=== MẪU 95 ===
+[ĐIỂM SỐ] ROUGE-1: 68.69% | ROUGE-2: 68.5% | ROUGE-L: 68.69%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+ID3 là viết tắt của từ Iterative Dichotomiser 3 tạm dịch là phân chia lặp hay phân chia tuần tự . Thuật toán này do Ross Quinlan phát triển và có một phiên bản cải tiến gọi là C4.5. Dữ liệu huấn luyện Dữ liệu huấn luyện được cho dưới dạng n mẫu hay n ví dụ huấn luyện, mỗi ví dụ có dạng xi, yi , trong đó xi là véc tơ các thuộc tính và yi là giá trị nhãn phân loại, chẳng hạn như ví dụ trong hình 5.5 với 14 ví dụ tương ứng với 14 dòng. Cột đầu tiên trong bảng chứa số thứ tự và không tham gia vào cây quyết định. Đối với dữ liệu đang xét, nhãn phân loại là nhãn nhị phân, có thể nhận một trong hai giá trị có hoặc không .
+----------------------------------------------------------------------
+
+=== MẪU 96 ===
+[ĐIỂM SỐ] ROUGE-1: 55.59% | ROUGE-2: 54.61% | ROUGE-L: 43.39%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Như vậy, sẽ tồn tại hai cây tìm kiếm, một cây có gốc là nút xuất phát và một cây có gốc là nút đích. Tìm kiếm kết thúc khi có nút lá của cây này trùng với nút lá của cây kia. Hình 2.13: Cây tìm kiếm trong trường hợp tìm theo hai hướng Chú ý: Khi tìm theo hai hướng cần sử dụng tìm theo chiều rộng. Việc tìm theo chiều sâu có thể không cho phép tìm ra lời giải nếu hai cây tìm kiếm phát triển theo hai nhánh không gặp nhau. Để tìm theo hai hướng cần viết thêm một hàm chuyển động ngược là P x : tập các nút con của x và D x : tập các nút cha của x.
+----------------------------------------------------------------------
+
+=== MẪU 97 ===
+[ĐIỂM SỐ] ROUGE-1: 57.14% | ROUGE-2: 56.79% | ROUGE-L: 52.24%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Các công đoạn bao gồm 7 công đoạn kỹ thuật và 3 công đoạn hỗ trợ. Các công đoạn kỹ thuật bao gồm: mô hình nghiệp vụ, xác định yêu cầu, phân tích yêu cầu, thiết kế, cài đặt, kiểm thử, triển khai. Các công đoạn hỗ trợ bao gồm: quản lý dự án, quản lý cấu hình và thay đổi và môi trường. Trong phần còn lại trong mục này, chu ng ta sẽ mô tả các pha và các công đoạn của UP Xem Hình 2.7 . Các pha Phase Các pha của UP mô tả cách tiến hóa theo thời gian của hệ thống thông tin.
+----------------------------------------------------------------------
+
+=== MẪU 98 ===
+[ĐIỂM SỐ] ROUGE-1: 62.41% | ROUGE-2: 44.6% | ROUGE-L: 56.74%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Các đối mục này có thể là biến, hằng hoặc biểu thức phải được định trị trước khi in ra. - chuỗi định dạng: được đặt trong cặp nháy kép , gồm 3 loại: Đối với chuỗi kí tự ghi như thế nào in ra giống như vậy.
+----------------------------------------------------------------------
+
+=== MẪU 99 ===
+[ĐIỂM SỐ] ROUGE-1: 57.95% | ROUGE-2: 57.65% | ROUGE-L: 57.95%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Điều này giu p tầng dữ liệu chạy với tốc độ cao và dễ thao tác. Hạn chế đầu tư: Đối với trường hợp chu ng ta có một mainframe lưu trữ và xử lý dữ liệu trong nhiều năm, khi có sự cố chu ng ta không muốn phải vứt bỏ tất cả và làm lại từ đầu. Kiến trúc ba tầng và mạng là phương án thích hợp nhất để giải quyết vấn đề này. Ta sử dụng tầng giữa làm trung gian khi client kết nối với mainframe, hoặc khi server kết nối tới client. Tính linh hoạt: Được thể hiện rõ qua việc chu ng ta có thể thêm hoặc bớt các máy tính trong hệ thống nếu hệ thống đó được thiết kế theo kiến trúc ba tầng.
+----------------------------------------------------------------------
+
+=== MẪU 100 ===
+[ĐIỂM SỐ] ROUGE-1: 59.15% | ROUGE-2: 37.59% | ROUGE-L: 42.96%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nếu sau lệnh i không có lệnh break thì sẽ tiếp tục thực hiện lệnh i 1 Ngược lại thoát khỏi cấu trúc switch. Viết chương trình File Edit Search Run Compile Debug Project Option Window Help Chuong trinh nhap vao so 1, 2, 3. In ra so sao tuong ung include stdio.h include conio.h void main void int i; printf Nhap vao so 1, 2 hoặc 3: ; Vào Biểu thức Ra giá trị 1 ?
+----------------------------------------------------------------------
+
+=== MẪU 101 ===
+[ĐIỂM SỐ] ROUGE-1: 78.74% | ROUGE-2: 78.03% | ROUGE-L: 50.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Từ đó suy ra nếu u tới được r thì r tới được u, tức là khi đảo chiều các cung, nếu r tới được đỉnh nào thì đỉnh đó thuộc thành phần liên thông chốt r. Ví dụ: 11 6 5 4 3 2 1 10 9 8 7 1 2 4 5 8 9 10 3 6 7 11 Đánh số lại, đảo chiều các cung và duyệt BFS với cách chọn các đỉnh xuất phát ngược lại với thứ tự duyệt xong Thứ tự 11, 10... Thuật toán Warshall có thể áp dụng tìm bao đóng của đồ thị có hướng, vậy hãy kiểm tra tính liên thông mạnh của một đồ thị có hướng bằng hai cách: Dùng các thuật toán tìm kiếm trên đồ thị và thuật toán Warshall, sau đó so sánh ưu, nhược điểm của mỗi phương pháp 3.
+----------------------------------------------------------------------
+
+=== MẪU 102 ===
+[ĐIỂM SỐ] ROUGE-1: 70.51% | ROUGE-2: 69.68% | ROUGE-L: 57.69%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp số nút cha được giới hạn bởi hằng số, độ phức tạp sẽ tỷ lệ tuyến tính với số nút. Trong phần cuối của chương phần 4.5.5 , ta sẽ xem xét thuật toán loại trừ biến variable elimination , một thuật toán cho phép giảm đáng kể độ phức tạp tính toán so với phương pháp liệt kê, đặc biệt đối với mạng có cấu trúc polytree. Hình 4.6: Mạng Bayes dạng liên kết đơn a và không phải liên kết đơn b với hai đường đi từ M tới T Đối với mạng không liên kết đơn hay mạng đa liên kết. Đây là những mạng mà giữa hai nút có thể có nhiều hơn một đường đi hình 4.5.b .
+----------------------------------------------------------------------
+
+=== MẪU 103 ===
+[ĐIỂM SỐ] ROUGE-1: 57.96% | ROUGE-2: 57.61% | ROUGE-L: 57.96%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bước 2 của vòng lặp kiểm tra điều kiện đích và trả về kết quả trong trường hợp nút lấy ra từ O là nút đích. Thuật toán kết thúc trong hai trường hợp: 1 khi lấy được nút đích từ O; và 2 khi tập O rỗng. Hai trường hợp này tương ứng với hai lệnh return ở trong và ngoài vòng lặp. Con trỏ ngược: khi mở rộng một nút ta cần sử dụng con trỏ ngược để ghi lại nút cha của nút vừa được mở ra. Con trỏ này được sử dụng để tìm ngược lại đường đi về trạng thái xuất phát khi tìm được trạng thái đích.
+----------------------------------------------------------------------
+
+=== MẪU 104 ===
+[ĐIỂM SỐ] ROUGE-1: 34.07% | ROUGE-2: 10.53% | ROUGE-L: 19.26%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+PASSWORD F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu Kết quả in ra màn hình Nhap vao password: 1123 Nhap vao password: 12346 Nhap vao password: 12345 Bạn thay các dòng từ 10 đến 14 bằng câu lệnh: do while printf Nhap vao password: , scanf d , in , in !
+----------------------------------------------------------------------
+
+=== MẪU 105 ===
+[ĐIỂM SỐ] ROUGE-1: 74.86% | ROUGE-2: 47.8% | ROUGE-L: 32.79%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ngoài việc đứng độc lập như chủ đề nghiên cứu riêng, tìm kiếm còn là cơ sở cho rất nhiều nhánh nghiên cứu khác của trí tuệ nhân tạo như lập kế hoạch, học máy, xử lý ngôn ngữ tự nhiên, suy diễn. Chẳng hạn, bài toán suy diễn có thể phát biểu như quá trình tìm ra chuỗi các luật suy diễn cho phép biến đổi từ quan sát ban đầu tới đích của quá trình suy diễn. Nhiều phương pháp học máy cũng coi quá trình học như quá trình tìm kiếm mô hình cho phép biểu diễn dữ liệu huấn luyện được dùng trong quá trình học.
+----------------------------------------------------------------------
+
+=== MẪU 106 ===
+[ĐIỂM SỐ] ROUGE-1: 69.57% | ROUGE-2: 53.39% | ROUGE-L: 46.64%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+P Q nhận giá trị true nếu cả P và Q đều đúng và nhận giá trị false nếu ít nhất một trong hai câu P, Q là sai. P Q nhận giá trị true nếu ít nhất một trong hai câu P, Q đúng và nhận giá trị false nếu cả hai câu đều sai. P Q nhận giá trị false nếu P đúng và Q sai, nhận giá trị true trong các trường hợp còn lại. P Q nhận giá trị true nếu các P và Q cùng đúng hoặc cả P và Q cùng sai, nhận giá trị false trong các trường hợp còn lại.
+----------------------------------------------------------------------
+
+=== MẪU 107 ===
+[ĐIỂM SỐ] ROUGE-1: 56.21% | ROUGE-2: 55.92% | ROUGE-L: 56.21%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nói chung lựa chọn 2 là tốt nhất trong ngữ cảnh quản lý học tập theo tín chỉ. Một lưu ý khi phân tích cần phải lựa chọn những trường hợp biểu diễn thoả mãm với hoàn cảnh thực tại nhất nhưng không bao giờ có câu trả lời chính xác. Thay vì đó, sử dụng những phán đoán chung, những kinh nghiệm, trực giác, lặp lại và mở rộng cho đến khi thực hiện thành công. Thuộc tính của lớp liên kết association class Một lớp được đính kèm trong quan hệ liên kết được gọi là một lớp liên kết association class . Một lớp liên kết không được nối tới bất kì lớp nào của mối quan hệ mà nối tới chính bản thân mối quan hệ.
+----------------------------------------------------------------------
+
+=== MẪU 108 ===
+[ĐIỂM SỐ] ROUGE-1: 68.42% | ROUGE-2: 68.18% | ROUGE-L: 68.42%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Quá trình suy diễn này không hướng tới câu truy vấn hay kết luận cụ thể nào mà chỉ được khởi động khi có thêm câu mới. Nếu KB chỉ chứa các câu Horn xác định thì suy diễn tiến là thủ tục suy diễn đúng đắn, tức là chỉ sinh ra những câu thực sự là hệ quả logic của KB. Tính đúng đắn của suy diễn tiến được suy ra từ tính đúng đắn của Modus Ponens tổng quát. Nếu KB chỉ chứa các câu Horn xác định thì suy diễn tiến là thủ tục suy diễn đầy đủ, tức là có thể sinh ra tất cả các câu là hệ quả logic của KB.
+----------------------------------------------------------------------
+
+=== MẪU 109 ===
+[ĐIỂM SỐ] ROUGE-1: 63.61% | ROUGE-2: 63.37% | ROUGE-L: 63.61%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Giả sử ta có ví dụ Trời nắng, Nhiệt độ cao, Gió mạnh, Độ ẩm cao . Ví dụ sẽ được cây quyết định xếp xuống nút ngoài cùng bên trái và do vậy được xác định là không chơi . Có thể thấy cách biểu diễn hàm quyết định dưới dạng cây rất trực quan, dễ hiểu, dễ giải thích lý do ra quyết định về nhãn cho một ví dụ cụ thể nào đó. Biểu diễn tương đương dưới dạng biểu thức logic Cây quyết định có thể biểu diễn tương đương dưới dạng các quy tắc hay biểu thức logic. Cây_quyết_định x P1 x v P2 x v v Pn x trong đó mỗi Pi x là hội các phép thử thuộc tính theo đường đi từ gôc tới nút lá có giá trị dương true .
+----------------------------------------------------------------------
+
+=== MẪU 110 ===
+[ĐIỂM SỐ] ROUGE-1: 74.5% | ROUGE-2: 73.65% | ROUGE-L: 49.66%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Xét tình huống sau: Giả sử trong hàm negative ta khai báo biến inum có kiểu int như sau: void negative int inum; . Do các câu lệnh trong hàm negative sử dụng biến inum sẽ sử dụng biến inum khai báo trong hàm negative và lúc này biến inum toàn cục không có tác dụng đối với các câu lệnh trong hàm này. Biến inum khai báo trong hàm negative chỉ có ảnh hưởng trong phạm vi hàm và chu trình sống của nó bắt đầu từ lúc gọi hàm đến khi thực hiện xong. Cẩn thận khi đặt tên biến, xác định rõ phạm vi của biến khi sử dụng để có thể dễ dàng kiểm soát chương trình.
+----------------------------------------------------------------------
+
+=== MẪU 111 ===
+[ĐIỂM SỐ] ROUGE-1: 73.5% | ROUGE-2: 73.35% | ROUGE-L: 73.5%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong các dạng học máy, học có giám sát là dạng phổ biến, có nhiều thuật toán liên quan và nhiều ứng dụng nhất. Học có giám sát Như đã nói ở trên, học có giám sát là trường hợp dữ liệu huấn luyện được cho một cách tường minh dưới dạng đầu vào và đầu ra của hàm đích, ví dụ, cho trước tập các mẫu cùng nhãn phân loại tương ứng. Học máy khi đó được gọi là có giám sát để thể hiện việc thuật toán nhận được chỉ dẫn trực tiếp về lời giải cho từng trường hợp. Phân loại là dạng học có giám sát với hàm đích nhận giá trị rời rạc và hồi quy là học có giám sát với hàm đích nhận giá trị liên tục.
+----------------------------------------------------------------------
+
+=== MẪU 112 ===
+[ĐIỂM SỐ] ROUGE-1: 72.68% | ROUGE-2: 71.95% | ROUGE-L: 60.28%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phía trên của cụm cơ sở dữ liệu là cụm nghiệp vụ business bao gồm những đối tượng thực thể và những đối tượng hỗ trợ thực thi. Cuối cùng, phía trên của cụm nghiệp vụ là cụm giao diện người dùng chứa các đối tượng mà công việc của nó là mô tả những lựa chọn có giá trị cho con người, đưa các lệnh và dữ liệu đến cụm nghiệp vụ và hiển thị dữ liệu được trả về từ cụm nghiệp vụ. Các cụm trong hệ thống hai hoặc ba tầng Các hệ thống hai hay ba tầng thực thi trên mạng lấy thông tin từ giao diện người dùng chuyển tới cụm nghiệp vụ chạy trên máy chủ. Chu ng ta giải quyết vấn đề này bằng cách sử dụng nhiều hơn hai tầng Hình 5.11 .
+----------------------------------------------------------------------
+
+=== MẪU 113 ===
+[ĐIỂM SỐ] ROUGE-1: 91.12% | ROUGE-2: 91.07% | ROUGE-L: 91.12%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Đáng lưu ý ở phương pháp Kuhn-Munkres là nó không làm thay đổi ma trận C ban đầu. Điều đó thực sự hữu ích trong trường hợp trọng số của cạnh X i , Y j không được cho một cách tường minh bằng giá trị C i, j mà lại cho bằng hàm c i, j : trong trường hợp này, việc trừ hàng cộng cột trực tiếp trên ma trận chi phí C là không thể thực hiện được. Dưới đây ta sẽ cài đặt chương trình giải bài toán phân công bằng thuật toán Hungari với phương pháp đối ngẫu Kuhn-Munkres: a Biểu diễn bộ ghép Để biểu diễn bộ ghép, ta sử dụng hai mảng: matchX 1..k và matchY 1..k .
+----------------------------------------------------------------------
+
+=== MẪU 114 ===
+[ĐIỂM SỐ] ROUGE-1: 66.39% | ROUGE-2: 25.42% | ROUGE-L: 33.61%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Vậy thì thuật toán Fleury tìm chu trình Euler có thể mô tả như sau: Xuất phát từ một đỉnh, ta đi một cách tuỳ ý theo các cạnh tuân theo hai nguyên tắc: Xoá bỏ cạnh vừa đi qua và chỉ chọn cạnh một đi không trở lại nếu như không còn cạnh nào khác để chọn. CÀI ĐẶT Ta sẽ cài đặt thuật toán Fleury trên một đa đồ thị vô hướng.
+----------------------------------------------------------------------
+
+=== MẪU 115 ===
+[ĐIỂM SỐ] ROUGE-1: 43.9% | ROUGE-2: 43.44% | ROUGE-L: 43.9%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Người dùng chọn chức năng đăng ký học trên giao diện chính của hệ thống 2. Hệ thống hiển thị form đăng ký học cho sinh viên với các thông tin cần thiết 3. Sinh viên chọn khóa học muốn đăng ký học cùng có thể đăng ký học cùng một số môn học với khóa trước nếu sinh viên phải học lại môn đó và chọn Hiển thị danh sách môn học 4. Hệ thống hiển thị danh sách các môn học mà sinh viên có thể đăng ký học tương ứng với mỗi khóa học cùng 5. Sinh viên lựa chon các môn học mình muốn đăng ký học và chọn Đăng ký 6.
+----------------------------------------------------------------------
+
+=== MẪU 116 ===
+[ĐIỂM SỐ] ROUGE-1: 66.19% | ROUGE-2: 65.22% | ROUGE-L: 45.32%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bảng liên kết có khoá chính là hợp của hai khoá ngoại ánh xạ đến đến bảng. Chu ng ta có thể sử dụng bảng liên kết để lưu trữ quan hệ một - một, một - nhiều. Quan hệ n-m có thể xem là trường hợp đặc biệt của các lớp liên kết được trình bày tiếp theo sau. Các lớp liên kết Các lớp liên kết có dữ liệu riêng nên cần được ánh xạ thành bảng liên kết. Bảng biểu diễn lớp liên kết có cột chứa thuộc tính của nó và có thể có một cột ID làm khoá chính nếu lớp liên kết biểu diễn một thực thể.
+----------------------------------------------------------------------
+
+=== MẪU 117 ===
+[ĐIỂM SỐ] ROUGE-1: 73.84% | ROUGE-2: 55.53% | ROUGE-L: 58.19%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Đồ thị hàm logit Hàm logit có hai tính chất quan trọng, có ảnh hưởng tới việc chọn hàm này trong hồi quy logistic. Thứ nhất, như đồ thị trong hình trên cho thấy, giá trị hàm logit g z tiến tới 1 khi z tiến tới và g z tiến tới 0 khi z tiến tới . Như vậy, bằng cách sử dụng hàm logit, giá trị hàm đích h x luôn nằm trong khoảng 0, 1 . Thứ hai, ngoài việc hàm logit luôn có giá trị nằm trong khoảng 0, 1 , hàm này là hàm khả vi với công thức tính đạo hàm g tương đối đơn giản: Như ta sẽ thấy, đạo hàm sẽ được sử dụng để tính gradient trong quá trình huấn luyện và ước lượng tham số của mô hình.
+----------------------------------------------------------------------
+
+=== MẪU 118 ===
+[ĐIỂM SỐ] ROUGE-1: 70.56% | ROUGE-2: 69.83% | ROUGE-L: 70.56%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cũng giống như một lớp bình thường, lớp liên kết có thể có thuộc tính, phương thức và các quan hệ khác. Lớp liên kết được sử dụng để bổ sung thêm thông tin cho quan hệ liên kết. Hình 4.11 chỉ ra rằng lớp Student có thể được kết nối với một số bất kỳ đối tượng Course và ngược lại. PHÂN TÍCH YÊU CẦU 92 Hình 5.11: Lớp liên kết Một lớp liên kết mô tả các thuộc tính và hành động của thực thể và chỉ tồn tại khi sự liên kết tồn tại: các thuộc tính và các hành động không liên quan đến các đối tượng của trong liên kết. Trong ví dụ trên, khi Student đăng ký học một Course, một liên kết mới được tạo trong thời gian chạy giữa Student và Course tương ứng.
+----------------------------------------------------------------------
+
+=== MẪU 119 ===
+[ĐIỂM SỐ] ROUGE-1: 64.03% | ROUGE-2: 63.12% | ROUGE-L: 64.03%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phân loại đa lớp Trong trường hợp phân loại với nhiều nhãn, cách thường dùng là kết hợp nhiều SVM nhị phân với nhau. Chi tiết về hai cách này hoàn toàn giống như trong phần phân loại đa lớp với hồi quy logistic đã trình bầy ở trên. Lựa chọn tham số Tham số đầu tiên cần quan tâm khi sử dụng SVM là dạng hàm nhân và tham số C. Với mỗi dạng hàm nhân lại có các tham số riêng của mình như bậc d của hàm nhân đa thức, độ rộng của hàm nhân Gaus hay tham số ngưỡng của nhân sigmoid. Việc lựa chọn hàm nhân có thể thực hiện nếu biết các đặc điểm của bài toán.
+----------------------------------------------------------------------
+
+=== MẪU 120 ===
+[ĐIỂM SỐ] ROUGE-1: 83.87% | ROUGE-2: 82.59% | ROUGE-L: 83.26%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nội dung cụ thể bao gồm: Giới thiệu UML và các biểu đồ trong UML Các phương pháp luận phát triển phần mềm hướng đối tượng Giới thiệu công cụ phát triển phần mềm 2.1 GIỚI THIỆU VỀ UML 2.1.1 Lịch sử phát triển của UML Các ngôn ngữ lập trình hướng đối tượng ra đời khá sớm, ví dụ như Simula-67 năm 1967 , Smalltalk đầu những năm 1980 , C , CLOS giữa những năm 1980 Tuy nhiên, mãi cho đến năm 1995, những nhóm phát triển phần mềm mới có những phương pháp luận và ngôn ngữ mô hình với ký hiệu khác nhau, như Booch của Grady Booch, OMT của James Rambaugh, OOSE của Ivar Jacobson, hay OOA OOD của Coad và Yordon...Việc áp dụng rộng rãi phương pháp hướng đối tượng đã đặt ra nhu cầu phải xây dựng một ngôn ngữ mô hình hóa thống nhất như một chuẩn chung cho những người phát triển phần mềm hướng đối tượng trên khắp thế giới.
+----------------------------------------------------------------------
+
+=== MẪU 121 ===
+[ĐIỂM SỐ] ROUGE-1: 54.72% | ROUGE-2: 54.43% | ROUGE-L: 54.72%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, máy tính được tạo bởi các bộ phận như màn hình, ổ cứng, bàn phím Kết hợp thường có dạng phân cấp bộ phận-toàn thể part-whole . Ví dụ, màn hình vẫn là màn hình nếu lấy nó ra khỏi máy tính, nhưng máy tính sẽ mất tác dụng nếu thiếu màn hình. Hợp thành Composition : là dạng mạnh hơn của kết hợp trong đó bộ phận phụ thuộc vào toàn thể một cách duy nhất và đối tượng toàn thể có trách nhiệm tạo lập và hủy bỏ đối tượng bộ phận. Như vậy, khi đối tượng toàn thể bị huỷ thì đối tượng bộ phận cũng hủy theo. Như đã trình bày, không có một ranh giới rõ ràng để phân biệt giữa các quan hệ này đặc biệt quan hệ kết hợp và hợp thành.
+----------------------------------------------------------------------
+
+=== MẪU 122 ===
+[ĐIỂM SỐ] ROUGE-1: 55.45% | ROUGE-2: 54.49% | ROUGE-L: 36.3%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nếu các nút X và các nút Y bị d-phân cách bởi các nút E thì X và Y là độc lập xác suất với nhau khi biết E. Để xác định tính d-phân cách của tập X và Y, trước tiên ta cần xác định tính d-phân cách giữa hai nút đơn x thuộc X và y thuộc Y. Từ đây, hai tập nút sẽ độc lập với nhau nếu mỗi nút trong tập này độc lập với tất cả các nút trong tập kia. Sau đây là các quy tắc cho phép xác định tính d-phân cách hay tính độc lập xác suất của hai biến x và y. Quy tắc 1: nút x và y được gọi là d-kết nối nếu tồn tại đường đi không bị phong tỏa giữa hai nút.
+----------------------------------------------------------------------
+
+=== MẪU 123 ===
+[ĐIỂM SỐ] ROUGE-1: 67.99% | ROUGE-2: 49.57% | ROUGE-L: 49.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nội dung chương không đi quá sâu vào việc định nghĩa chính xác trí tuệ nhân tạo là gì, thay vào đó, người đọc được giới thiệu về những lĩnh vực nghiên cứu chuyên sâu và lịch sử phát triển, trước khi làm quen với nội dung cụ thể trong các chương sau. Các phương pháp tìm kiếm bao gồm: tìm kiếm mù, tìm kiếm có thông tin, và tìm kiếm cục bộ. Khác với một số tài liệu khác về trí tuệ nhân tạo, nội dung về tìm kiếm có đối thủ không được đề cập đến trong tài liệu này. Một số nội dung như giải thuật di truyền có thể bỏ qua trong phần nhập môn và dùng để tham khảo do tương đối phức tạp so với các kỹ thuật khác.
+----------------------------------------------------------------------
+
+=== MẪU 124 ===
+[ĐIỂM SỐ] ROUGE-1: 67.49% | ROUGE-2: 67.29% | ROUGE-L: 67.49%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Đặc biệt, trong khoảng gần 10 năm gần đây, các mạng nơ ron nhân tạo nhiều lớp được gọi là mạng sâu deep network đang được đặc biệt quan tâm do có độ chính xác rất tốt trong các ứng dụng nhận dạng âm thanh, hình ảnh, xử lý ngôn ngữ tự nhiên. Vào năm 1981, chính phủ Nhật Bản khởi động chương trình xây dựng máy tính thế hệ 5. Mục đích của chương trình là xây dựng các máy tính thông minh chạy trên ngôn ngữ Prolog. Chính phủ Mỹ và Anh cũng có những dự án tương tự nhưng quy mô nhỏ hơn. Mặc dù các chương trình này đều không đạt được mục tiêu đề ra những đã giúp chấm dứt mùa đông trí tuệ nhân tạo lần thứ nhất.
+----------------------------------------------------------------------
+
+=== MẪU 125 ===
+[ĐIỂM SỐ] ROUGE-1: 97.39% | ROUGE-2: 97.37% | ROUGE-L: 97.39%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ bảng xác suất đồng thời cho ba biến nhị phân 1 n i iv A B P B P E voi trùng dòng các dòng các P E P _ _ _ _ _ PTIT Suy diễn xác suất 116 Chim Bay được Non Xác suất T T T 0 T T F 0,2 T F T 0,04 T F F 0,01 F T T 0,01 F T F 0,01 F F T 0,23 F F F 0,5 4.3.3. Xác suất điều kiện Xác suất điều kiện P A B là xác suất xẩy ra sự kiện A khi biết sự kiện B và không biết thêm gì khác.
+----------------------------------------------------------------------
+
+=== MẪU 126 ===
+[ĐIỂM SỐ] ROUGE-1: 75.0% | ROUGE-2: 74.81% | ROUGE-L: 75.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cách tốt nhất thường được tiến hành làm là thực hiện các kiểm thử nhỏ trong suốt quá trình phát triển phần mềm để đảm bảo chất lượng. Triển khai Pha này liên quan đến việc đưa phần cứng và phần mềm vào nơi người dùng cuối cùng với tài liệu hướng dẫn sử dụng và huấn luyện. Bảo trì Sau khi hệ thống được triển khai, có thể sẽ có nhiều lỗi hệ thống hay cũng có thể khách hàng yêu cầu sửa đổi, nâng cấp....vì vậy cần có quá trình bảo trì hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 127 ===
+[ĐIỂM SỐ] ROUGE-1: 59.15% | ROUGE-2: 58.16% | ROUGE-L: 59.15%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cán bộ phòng đào tạo sau khi đăng nhập vào hệ thống U1 có thể cập nhật thông tin quản lý xếp lớp U12 , quản lý điểm sinh viên U13 và gửi thông báo tới sinh viên U14 . Các yêu cầu phụ Đôi khi chu ng ta phải kết hợp các yêu cầu phi chức năng với một ca sử dụng cụ thể. Các yêu cầu phi chức năng không phù hợp với ca sử dụng nào sẽ được ghi lại thành tài liệu về các yêu cầu phụ. Ví dụ, Hệ thống đăng ký học theo tín chỉ có thể có các yêu cầu phụ sau đây: S1. Hệ thống phải đáp ứng với hàng trăm sinh viên cùng đăng ký các khóa học.
+----------------------------------------------------------------------
+
+=== MẪU 128 ===
+[ĐIỂM SỐ] ROUGE-1: 91.19% | ROUGE-2: 91.15% | ROUGE-L: 91.19%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hệ thống thông báo Mã Sinh viên đã bị trùng 1.1.1.Hệ thống yêu cầu nhập lại Mã Sinh viên. 1.1.2.Cán bộ đào tạo nhập lại và tiếp tục các bước sau Phác thảo giao diện quản lý sinh viên: Giao diện Thêm Sinh Viên PTIT CHƯƠNG 4. PHÂN TÍCH YÊU CẦU 108 Giao diện Sửa xóa Sinh viên Giảng viên đăng ký dạy Tên use case: Giảng viên đăng ký môn dạy Ngữ cảnh Giảng viên đăng ký môn dạy thành công Tác nhân chính Giảng viên Tiền điều kiện Đăng nhập hệ thống thành công Đảm bảo thành công Giảng viên đăng ký thành công môn dạy Đảm bảo tối thiểu Trở lại màn hình đăng kí để giảng viên có thể đăng kí lại Kích hoạt Người dùng chọn chức năng đăng ký môn dạy Chuỗi sự kiện chính 1.
+----------------------------------------------------------------------
+
+=== MẪU 129 ===
+[ĐIỂM SỐ] ROUGE-1: 71.7% | ROUGE-2: 58.52% | ROUGE-L: 45.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cú pháp lệnh if biểu thức luận lý từ khóa if phải viết bằng chữ thường khối lệnh; kết quả của biểu thức luận lý phải là đúng 0 hoặc sai 0 Hanoi Aptech Computer Education Center Giáo trình Lập trình C căn bản Trang 27 Lưu đồ bthức luận lý khối lệnh Đúng Sai Vào Ra nếu biểu thức luận lý đúng thì thực hiện khối lệnh và thoát khỏi if, ngược lại không làm gì cả và thoát khỏi if. Nếu khối lệnh bao gồm từ 2 lệnh trở lên thì phải đặt trong dấu Diễn giải: Khối lệnh là một lệnh ta viết lệnh if như sau: if biểu thức luận lý lệnh; Khối lệnh bao gồm nhiều lệnh: lệnh 1, lệnh 2..., ta viết lệnh if như sau: if biểu thức luận lý lệnh 1; lệnh 2; ...
+----------------------------------------------------------------------
+
+=== MẪU 130 ===
+[ĐIỂM SỐ] ROUGE-1: 60.65% | ROUGE-2: 60.39% | ROUGE-L: 60.65%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Định nghĩa: Hàm h n được gọi là chấp nhận được nếu h n không lớn hơn độ dài đường đi thực ngắn nhất từ n tới nút đích. Thuật toán: A Q, S, G, P, c, h Đầu vào: bài toán tìm kiếm, hàm heuristic h Đầu ra: đường đi ngắn nhất từ nút xuất phát đến nút đích Khởi tạo: tập các nút biên nút mở O S ------------------------------------ While O không rỗng do 1. Thêm m vào O cùng giá trị f m Return: không tìm được đường đi Hình 2.16. Thuật toán A Với thuật toán A , có thể sử dụng phiên bản Graph-search tức là có danh sách nút đóng hoặc không. Trong trường hợp không sử dụng nút đóng, tất cả các nút mới sinh ra đều được thêm vào tập biên.
+----------------------------------------------------------------------
+
+=== MẪU 131 ===
+[ĐIỂM SỐ] ROUGE-1: 67.77% | ROUGE-2: 67.56% | ROUGE-L: 67.77%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Vì vậy, trong giai đoạn này, chu ng ta cố gắng xây dựng sự tin cậy về tính khả thi mà không thiết kế giải pháp. Chúng ta cần cho khách hàng xem các biểu đồ lớp với đầy đủ thuộc tính để họ giúp phát hiện lỗi vì những người này chắc chắn hiểu biết về nghiệp vụ hơn chúng ta. Nếu như vậy, một thành viên của nhóm nên tóm lược những thông tin thể hiện trên biểu đồ lớp để khách hàng dễ dàng theo dõi. Vì biểu đồ lớp là tương đối dễ dàng để những người không phải là lập trình viên có thể hiểu được và điều này sẽ giu p đưa ra những bình luận hữu ích.
+----------------------------------------------------------------------
+
+=== MẪU 132 ===
+[ĐIỂM SỐ] ROUGE-1: 96.97% | ROUGE-2: 96.18% | ROUGE-L: 63.64%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nói cách khác, các vec tơ tựa chứa toàn bộ thông tin cần thiết từ dữ liệu huấn luyện để xây dựng hàm phân loại cho SVM. Như vậy, mặc dù hàm phân loại được tạo thành từ các ví dụ huấn luyện, nhưng chỉ những ví dụ tương ứng với αi 0 mới đóng góp vào hàm phân loại trọng số w là tổ hợp của các ví dụ này , và số lượng ví dụ như vậy thường không lớn.
+----------------------------------------------------------------------
+
+=== MẪU 133 ===
+[ĐIỂM SỐ] ROUGE-1: 63.86% | ROUGE-2: 62.9% | ROUGE-L: 49.12%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Lợi ích của notebooks là kích thước và vị trí của nó như nhau, người dùng có thể tập trung vào một vị trí trên màn hình, thậm chí với cả các tương tác lâu liên quan nhiều hơn một ca sử dụng. Notebooks được hỗ trợ bởi hầu hết các thư viện giao diện GUI, như Swing của Java. Thông thường, một ca sử dụng sẽ ánh xạ chính xác tới một trang duy nhất. Thậm chí một ca sử dụng phức tạp cũng có thể được thể hiện trong một panel duy nhất Hình 6.21 . Sử dụng wizards Wizard là chuỗi các trang hướng dẫn người dùng từng bước một để thực hiện một hành động phức tạp.
+----------------------------------------------------------------------
+
+=== MẪU 134 ===
+[ĐIỂM SỐ] ROUGE-1: 60.25% | ROUGE-2: 59.38% | ROUGE-L: 39.75%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong biểu đồ tuần tự, không phải tất cả các đối tượng đều cùng lúc xuất hiện trên một biểu đồ mà chu ng chỉ xuất hiện về mặt thời gian khi thực sự tham gia vào tương tác. - Các thông điệp: được biểu diễn bằng các mũi tên hướng từ đối tượng gửi sang đối tượng nhận. Tên các thông điệp có thể biểu diễn dưới dạng phi hình thức như các thông tin trong kịch bản hoặc dưới dạng hình thức với dạng giống như các phương thức . Rõ ràng rằng biểu diễn dưới dạng hình thức sẽ rất hữu ích cho việc xác định các phương thức cho lớp. Biểu đồ tuần tự cho phép có các thông điệp từ một đối tượng tới chính bản thân nó.
+----------------------------------------------------------------------
+
+=== MẪU 135 ===
+[ĐIỂM SỐ] ROUGE-1: 89.33% | ROUGE-2: 88.59% | ROUGE-L: 73.33%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khi đó, mô hình Bayes đơn giản thường được gọi là Bayes đơn giản đa thức Multinomial naive Bayes . Xác suất quan sát thấy một tổ hợp giá trị của thuộc tính x1, x2, ... , xn được tính theo phân bố xác suất đa thức với các tham số được tính như sau: P xi cj Ni, j N j Ni, j Ni, j i 1 m trong đó Ni,j là số lần thuộc tính xi xuất hiện trong một mẫu có nhãn phân loại cj và Nj là tổng số lần xuất hiện của tất cả các thuộc tính trong các mẫu có nhãn cj , m là số lượng thuộc tính.
+----------------------------------------------------------------------
+
+=== MẪU 136 ===
+[ĐIỂM SỐ] ROUGE-1: 47.95% | ROUGE-2: 47.59% | ROUGE-L: 47.95%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nhiều ngôn ngữ và mô hình biểu diễn tri thức đã được thiết kế để phục vụ mục đích này. Ngôn ngữ biểu diễn tri thức phải là ngôn ngữ hình thức để tránh tình trạng nhập nhằng như thường gặp trong ngôn ngữ tự nhiên. Một ngôn ngữ biểu diễn tri thức tốt phải có những tính chất sau: - Ngôn ngữ phải có khả năng biểu đạt tốt, tức là cho phép biểu diễn mọi tri thức và thông tin cần thiết cho bài toán. - Cần đơn giản và hiệu quả, tức là cho phép biểu diễn ngắn gọn tri thức, đồng thời cho phép đi đến kết luận với khối lượng tính toán thấp. - Gần với ngôn ngữ tự nhiên để thuận lợi cho người sử dụng trong việc mô tả tri thức.
+----------------------------------------------------------------------
+
+=== MẪU 137 ===
+[ĐIỂM SỐ] ROUGE-1: 64.54% | ROUGE-2: 64.29% | ROUGE-L: 64.54%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cho đồ thị trên hình sau: Hãy xác định đường đi từ START tới GOAL sử dụng các thuật toán tìm kiếm sau: a Tìm theo chiều rộng. PTIT Giải quyết vấn đề bằng tìm kiếm 76 Thể hiện nút được mở rộng và danh sách các nút trong tập biên tại mỗi vòng lặp của thuật toán. Sử dụng con trỏ ngược để khôi phục lại đường đi khi tìm được nút đích. Cho đồ thị trên hình sau: trong đó giá thành đường đi giữa hai nút được thể hiện cạnh cung tương ứng, giá trị hàm heuristic h được thể hiện bên cạnh các nút. a Hãy cho biết hàm h có phải là hàm heuristic chấp nhận được hay không?
+----------------------------------------------------------------------
+
+=== MẪU 138 ===
+[ĐIỂM SỐ] ROUGE-1: 69.9% | ROUGE-2: 56.03% | ROUGE-L: 40.78%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nếu ta định hướng lại các 0_cạnh như sau: Những 0_cạnh chưa ghép cho hướng từ tập X sang tập Y, những 0_cạnh đã ghép cho hướng từ tập Y về tập X. Khi đó: Đường pha Alternating Path là một đường đi cơ bản xuất phát từ một X_đỉnh chưa ghép đi theo các 0_cạnh đã định hướng ở trên. Như vậy dọc trên đường pha, các 0_cạnh chưa ghép và những 0_cạnh đã ghép xen kẽ nhau. Vì đường pha chỉ là đường đi cơ bản trên đồ thị định hướng nên việc xác định những đỉnh nào có thể đến được từ x X bằng một đường pha có thể sử dụng các thuật toán tìm kiếm trên đồ thị BFS hoặc DFS .
+----------------------------------------------------------------------
+
+=== MẪU 139 ===
+[ĐIỂM SỐ] ROUGE-1: 64.86% | ROUGE-2: 17.12% | ROUGE-L: 30.12%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hơn nữa còn có thể chứng minh được rằng, khi thuật toán tiến hành như trên thì nếu như từ một đỉnh v của một nhánh DFS gốc r có một cung chéo đi tới một nhánh khác thì r không là chốt. Để chứng tỏ điều này, ta dựa vào tính chất của cây DFS: cung chéo sẽ nối từ một nhánh tới nhánh thăm trước đó, chứ không bao giờ có cung chéo đi tới nhánh thăm sau.
+----------------------------------------------------------------------
+
+=== MẪU 140 ===
+[ĐIỂM SỐ] ROUGE-1: 85.71% | ROUGE-2: 70.7% | ROUGE-L: 69.12%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Yêu cầu bài toán tối ưu hóa tổ hợp là tìm được trạng thái điểm trên trục hoành có hàm mục tiêu lớn nhất. Lưu ý, hình vẽ minh họa trường hợp cần tìm trạng thái với hàm mục tiêu lớn nhất, tuy nhiên trong bài toán khác có thể yêu cầu tìm trạng thái với hàm mục tiêu nhỏ nhất.
+----------------------------------------------------------------------
+
+=== MẪU 141 ===
+[ĐIỂM SỐ] ROUGE-1: 61.14% | ROUGE-2: 60.34% | ROUGE-L: 52.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thuật toán tìm kiếm này luôn cho lời giải tối ưu, tức là lời giải với đường đi có giá nhỏ nhất. Do thuật toán không lựa chọn nút để mở rộng dựa trên độ sâu mà dựa trên giá thành nên không thể phân tích độ phức tạp tính toán cũng như yêu cầu bộ nhớ của thuật toán dựa trên tham số b và d. Trong trường hợp giá thành mọi chuyển động bằng nhau, tìm kiếm theo giá thống nhất sẽ giống với tìm theo chiều rộng. Tìm kiếm theo chiều sâu Thuật toán tìm kiếm mù được biết đến nhiều tiếp theo là tìm theo chiều sâu Depth- First-Search, viết tắt là DFS . Nguyên tắc của tìm kiếm theo chiều sâu là lựa chọn trong số những nút biên nút sâu nhất xa nút gốc nhất để mở rộng trước.
+----------------------------------------------------------------------
+
+=== MẪU 142 ===
+[ĐIỂM SỐ] ROUGE-1: 41.07% | ROUGE-2: 7.19% | ROUGE-L: 17.86%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+9.2.4 Con trỏ và mảng Ví dụ 3: Khai báo mảng sau int num 23, 54, 16, 72, 16, 84 ; Như đã nghiên cứu cách tham chiếu đến phần tử mảng thứ 5 là num 4 , còn với kiểu con trỏ là num 4 . Nghĩa là num 4 tương đương với num 4 và cách truy cập nội dung như nhau. Tương tự như vậy, cách tham khảo địa chỉ của phần tử mảng là num 4 tương đương với num 4.
+----------------------------------------------------------------------
+
+=== MẪU 143 ===
+[ĐIỂM SỐ] ROUGE-1: 87.82% | ROUGE-2: 87.76% | ROUGE-L: 87.82%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, với k-NN, cần chọn giá trị k số láng giềng đem lại độ chính xác cao nhất cho mỗi bài toán và bộ dữ liệu. Một trong những cách đánh giá mô hình là huấn luyện mô hình trên toàn bộ tập dữ liệu huấn luyện, sau đó thử nghiệm độ chính xác trên cùng tập dữ liệu đó bằng cách dùng mô hình đã huấn luyện để dự đoán giá trị đầu ra cho các ví dụ huấn luyện và so sánh giá trị dự đoán với giá trị thực của đầu ra cho các ví dụ. Lý do là cách đánh giá này không cho kết quả khách quan nếu mô hình bị quá vừa dữ liệu, tức là cho độ chính xác cao trên dữ liệu huấn luyện nhưng lại cho kết quả kém chính xác trên dữ liệu mới.
+----------------------------------------------------------------------
+
+=== MẪU 144 ===
+[ĐIỂM SỐ] ROUGE-1: 40.0% | ROUGE-2: 24.03% | ROUGE-L: 33.55%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+PHÂN TÍCH YÊU CẦU 112 Phác thảo giao diện Xem thời khóa biểu PTIT CHƯƠNG 4. PHÂN TÍCH YÊU CẦU 113 Sinh viên xem lịch thi học kỳ Tên use case: Sinh viên xem lịch thi học kỳ Tác nhân chính Sinh viên Tiền điều kiện Đăng nhập hệ thống thành công Đảm bảo thành công Sinh viên xem lịch thi thành công Đảm bảo tối thiểu Trở lại màn hình chính Kích hoạt Người dùng chọn chức năng xem lịch thi học kỳ Chuỗi sự kiện chính 1. Hệ thống hiển thị lịch thi các môn tương ứng với những môn học Sinh viên đã đăng ký học trong học kỳ với các thông tin Mã môn, Tên môn, Ngày thi, Giờ thi, Phòng thi. Môn Sinh viên theo học không được xếp lịch thi do Sinh viên ko đủ điều kiện thi.
+----------------------------------------------------------------------
+
+=== MẪU 145 ===
+[ĐIỂM SỐ] ROUGE-1: 36.88% | ROUGE-2: 36.43% | ROUGE-L: 36.88%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khởi đầu từ trạng thái xuất phát, thuật toán kiểm tra xem đây có phải đích chưa. Nếu chưa, ta áp dụng các chuyển động để sinh ra các trạng thái láng giềng. Tiếp theo, ta xét một trạng thái vừa được sinh ra, gọi là trạng thái hiện thời bằng cách S A D E B F G C K I H 55 45 45 72 82 42 40 48 68 50 40 38 47 50 PTIT Giải quyết vấn đề bằng tìm kiếm 29 kiểm tra xem đây đã phải đích chưa. Nếu chưa, ta mở rộng trạng thái hiện thời bằng cách áp dụng các chuyển động được phép đối với trạng thái đó để sinh ra các trạng thái khác. Quá trình tìm kiếm như vậy kết thúc khi tìm được trạng thái đích hoặc khi không còn trạng thái nào để mở rộng nữa.
+----------------------------------------------------------------------
+
+=== MẪU 146 ===
+[ĐIỂM SỐ] ROUGE-1: 67.16% | ROUGE-2: 41.35% | ROUGE-L: 29.85%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Những từ chưa xuất hiện trong tập huấn luyện sẽ bị bỏ qua, không tham gia vào công thức. Cần lưu ý rằng cách biểu diễn và áp dụng phân loại Bayes đơn giản cho phân loại văn bản vừa trình bày là những phương án đơn giản. Trên thực tế có rất nhiều biến thể khác nhau cả trong việc chọn từ, biểu diễn văn bản bằng các từ, cũng như công thức tính xác suất điều kiện của văn bản.
+----------------------------------------------------------------------
+
+=== MẪU 147 ===
+[ĐIỂM SỐ] ROUGE-1: 49.32% | ROUGE-2: 34.33% | ROUGE-L: 32.52%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+_ Bạn thay các dòng từ 9 đến 15 bằng câu lệnh: for is 0, i 1; i 3; printf Nhap vao so thu d: , i , scanf d , in , i , is is in ; Chạy lại chương trình, quan sát và nhận xét kết quả. Trong vòng lặp for có sử dụng từ 2 lệnh trở lên, nhớ sử dụng cặp ngoặc để bọc các lệnh đó lại. Dòng 12, 13, 14 thuộc vòng for dòng 10 do được bọc bởi cặp ngoặc . Nếu 3 dòng này không bọc bởi cặp ngoặc , thì chỉ dòng 12 thuộc vòng lặp for, còn 2 dòng còn lại không thuộc vòng lặp for.
+----------------------------------------------------------------------
+
+=== MẪU 148 ===
+[ĐIỂM SỐ] ROUGE-1: 71.75% | ROUGE-2: 53.04% | ROUGE-L: 51.43%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Kiểm tra chéo với tập kiểm tra tách riêng hold-out cross validation , hay có thể gọi là kiểm tra chéo đơn giản, là phương pháp kiểm tra chéo đơn giản nhất và được thực hiện như sau: e. Chia tập dữ liệu huấn luyện S ban đầu một cách ngẫu nhiên thành hai tập con: tập thứ nhất Shl được gọi là tập huấn luyện, và tập thứ hai phần còn lại Skt gọi là tập kiểm tra. Thông thường, Shl gồm 70 tập dữ liệu ban đầu và Skt gồm 30 còn lại. Chọn mô hình có độ chính xác cao nhất trên tập kiểm tra để sử dụng nếu mục đích là lựa chọn mô hình .
+----------------------------------------------------------------------
+
+=== MẪU 149 ===
+[ĐIỂM SỐ] ROUGE-1: 56.55% | ROUGE-2: 55.56% | ROUGE-L: 31.72%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hệ thống điện trong thành phố được cho bởi n trạm biến thế và các đường dây điện nối giữa các cặp trạm biến thế. Độ an toàn của cả lưới điện là tích độ an toàn trên các đường dây. Ví dụ như có một đường dây nguy hiểm: p e 1 thì cho dù các đường dây khác là tuyệt đối an toàn độ an toàn 100 thì độ an toàn của mạng cũng rất thấp 1 . Hãy tìm cách bỏ đi một số dây điện để cho các trạm biến thế vẫn liên thông và độ an toàn của mạng là lớn nhất có thể. Hãy thử cài đặt thuật toán Prim với cấu trúc dữ liệu Heap chứa các đỉnh ngoài cây, tương tự như đối với thuật toán Dijkstra.
+----------------------------------------------------------------------
+
+=== MẪU 150 ===
+[ĐIỂM SỐ] ROUGE-1: 66.14% | ROUGE-2: 65.08% | ROUGE-L: 48.03%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Những thành phần cốt lõi này liên quan đến bốn kiểu container được hỗ trợ trong J2EE bao gồm, Application Client, Applet, Web và EJB: Java Application: thành phần này là 1 chương trình chạy bên trong Application Client container. Application Client container cung cấp những API hỗ trợ cho messaging, gọi từ xa, kết nối dữ liệu và lookup service. Applet Applet thành phần là java applet chạy bên trong Applet container, chính là web browser có hỗ trợ công nghệ Java. Servlet và JSP đây là Web-based component chạy ở bên trong Web container, được hỗ trợ bởi Web Server. Web container là một môi trường run-time cho PTIT PHỤ LỤC A: LỰA CHỌN CÔNG NGHỆ 166 servlet và jsp.
+----------------------------------------------------------------------
+
+=== MẪU 151 ===
+[ĐIỂM SỐ] ROUGE-1: 57.33% | ROUGE-2: 48.52% | ROUGE-L: 51.47%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+- Phần thứ hai là các bảng xác suất điều kiện: mỗi nút có một bảng xác suất điều kiện cho biết xác suất các giá trị của biến khi biết giá trị các nút cha mẹ. Cấu trúc của đồ thị trong mạng Bayes thể hiện mối quan hệ phụ thuộc hoặc độc lập giữa các biến ngẫu nhiên của bài toán. Hai nút được nối với nhau bởi một cung khi giữa hai nút có quan hệ trực tiếp với nhau, trong đó giá trị nút gốc ảnh hưởng tới giá trị nút đích. Hạn chế này ảnh hưởng tới khả năng mô hình hóa của mạng Bayes trong một số trường hợp tuy nhiên cho phép đơn giản hóa việc xây dựng và suy diễn trên mạng Bayes.
+----------------------------------------------------------------------
+
+=== MẪU 152 ===
+[ĐIỂM SỐ] ROUGE-1: 63.51% | ROUGE-2: 60.5% | ROUGE-L: 60.17%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+MÔ HÌNH HÓA PHẦN MỀM HƯỚNG ĐỐI TƯỢNG 24 - Biểu đồ gói package diagram - Biểu đồ triển khai deployment diagram - Biểu đồ cấu tru c phức hợp composite structure diagram - Biểu đồ gói mở rộng profile package Biểu đồ hành vi Behavior Diagram : Nhóm biểu đồ này nhằm nắm bắt các hoạt động và hành vi của hệ thống, cũng như tương tác giữa các phần tử bên trong và bên ngoài hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 153 ===
+[ĐIỂM SỐ] ROUGE-1: 61.68% | ROUGE-2: 60.82% | ROUGE-L: 61.68%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Cực trị này có thể là cực trị địa phương hay cực trị toàn cục dựa trên hàm cụ thể. Bắt đầu từ một giá trị ban đầu của tham số trong trường hợp này , thường là giá trị dương nhỏ được chọn ngẫu nhiên. Thuật toán cập nhật dần tham số bằng cách trừ đi một đại lượng tỷ lệ với giá trị của gradient, sau đó tính lại giá trị hàm mục tiêu. Quá trình này được lặp lại nhiều lần cho đến khi thuật toán hội tụ, tức là đạt tới cực trị của hàm mục tiêu và do vậy gradient bằng 0. Trong trường hợp hồi quy tuyến tính đang xét, tại mỗi bước lặp, thuật toán thực hiện cập nhật sau với mỗi tham số : trong đó α là tham số có tên là tốc độ học.
+----------------------------------------------------------------------
+
+=== MẪU 154 ===
+[ĐIỂM SỐ] ROUGE-1: 69.23% | ROUGE-2: 69.05% | ROUGE-L: 69.23%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Khi một ca sử dụng cụ thể hóa một ca sử dụng khác, nó kế thừa các tiền điều kiện của ca sử dụng cha như là một điểm khởi đầu. Bất cứ tiền điều kiện nào của ca sử dung con phải làm yếu đi tiền điều kiện ca sử dụng cha, nghĩa là chu ng được kết hợp với các điều kiện trước của ca sử dụng con bởi phép toán hoặc . Với các hậu điều kiện, điểm khởi đầu của ca sử dụng con là hậu điều kiện của ca sử dụng cha. Các hậu điều kiện mà ca sử dụng con thêm vào phải làm mạnh ca sử dụng cha, nghĩa là nó sẽ kết hợp với hậu điều kiện của ca sử dụng cha bằng phép toán và .
+----------------------------------------------------------------------
+
+=== MẪU 155 ===
+[ĐIỂM SỐ] ROUGE-1: 69.97% | ROUGE-2: 50.92% | ROUGE-L: 44.91%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tuy nhiên, vì các quan hệ này không phải dễ dàng nắm bắt và nó đóng vai trò rất quan trọng liên quan chặt chẻ đến thiết kế và cài đặt sau này nên phần còn lại trong mục này sẽ dành tìm hiểu thêm về các quan hệ giữa các lớp. Biểu diễn các quan hệ Xét một số quan hệ trong hệ thống quản lý học tập theo tín chỉ với cách biểu diễn cụ thể như sau: Hình 4.2: Quan hệ kế thừa trong UML PTIT CHƯƠNG 4.
+----------------------------------------------------------------------
+
+=== MẪU 156 ===
+[ĐIỂM SỐ] ROUGE-1: 75.8% | ROUGE-2: 75.07% | ROUGE-L: 45.48%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong trường hợp này ta dừng quá trình phân chia ở đây, tạo một nút là và gán cho nút nhãn phân loại trùng với nhãn của các ví dụ tại nút đó. Trong ví dụ trên hình 5.4, nhánh giữa của nút gốc bao gồm các mẫu có nhãn có tạo thành nút lá. - Tất cả các thuộc tính đã được sử dụng ở phía trên, trong khi tập dữ liệu con còn chứa cả nhãn dương và nhãn âm. Đây là trường hợp các ví dụ có cùng giá trị thuộc tính nhưng lại khác nhãn phân loại và xẩy ra do dữ liệu huấn luyện có chứa nhiễu hoặc do các thuộc tính hiện có không cung cấp đủ thông tin để xác định đúng nhãn phân loại.
+----------------------------------------------------------------------
+
+=== MẪU 157 ===
+[ĐIỂM SỐ] ROUGE-1: 63.86% | ROUGE-2: 62.9% | ROUGE-L: 63.86%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+o Thay vì xác định giá trị đích, thuật toán học máy dựa trên độ tương tự giữa các ví dụ để xếp chúng thành những nhóm, mỗi nhóm gồm các ví dụ tương tự nhau. Ví dụ, chỉ bằng cách quan sát hoặc đo chiều cao của mọi người, dần dần ta học được khái niệm người cao và người thấp , và có thể xếp mọi người vào hai cụm tương ứng. o Ngoài phân cụm, một dạng học không giám sát phổ biến khác là phát hiện luật kết hợp association rule . Luật kết hợp có dạng P A B , cho thấy xác suất hai tính chất A và B xuất hiện cùng với nhau.
+----------------------------------------------------------------------
+
+=== MẪU 158 ===
+[ĐIỂM SỐ] ROUGE-1: 29.81% | ROUGE-2: 14.35% | ROUGE-L: 16.99%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Và như vậy, ta có nhận xét: nếu kết hợp lưu vết tìm đường đi thì đường đi từ S tới F sẽ là đường đi ngắn nhất theo nghĩa qua ít cạnh nhất 2. Cài đặt bằng thuật toán loang Cách cài đặt này sử dụng hai tập hợp, một tập cũ chứa những đỉnh đang xét , một tập mới chứa những đỉnh sẽ xét .
+----------------------------------------------------------------------
+
+=== MẪU 159 ===
+[ĐIỂM SỐ] ROUGE-1: 50.0% | ROUGE-2: 48.92% | ROUGE-L: 42.14%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+PHÂN TÍCH Vào: Đồ thị hai phía đầy đủ G X Y, E ; X Y k. Được cho bởi ma trận vuông C cỡ kxk, c i, j trọng số cạnh nối đỉnh Xi với Yj. Hai định lý sau đây tuy rất đơn giản nhưng là những định lý quan trọng tạo cơ sở cho thuật toán sẽ trình bày: Định lý 1: Loại bỏ khỏi G những cạnh trọng số 0. Nếu những cạnh trọng số 0 còn lại tạo ra bộ ghép k cạnh trong G thì đây là bộ ghép cần tìm. Chứng minh: Theo giả thiết, các cạnh của G mang trọng số không âm nên bất kỳ bộ ghép nào trong G cũng có trọng số không âm, mà bộ ghép ở trên mang trọng số 0, nên tất nhiên đó là bộ ghép đầy đủ trọng số nhỏ nhất.
+----------------------------------------------------------------------
+
+=== MẪU 160 ===
+[ĐIỂM SỐ] ROUGE-1: 68.1% | ROUGE-2: 42.6% | ROUGE-L: 32.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bước 3: Sau bước 2 thì mọi X_đỉnh đều đã ghép, ta được một bộ ghép đầy đủ k cạnh với trọng số lớn nhất. Dễ dàng chứng minh được tính đúng đắn của phương pháp, bởi nếu ta đặt: c i, j - c i, j ; F x i : - Fx i ; F y j - Fy j . Thì bài toán trở thành tìm cặp ghép đầy đủ trọng số cực tiểu trên đồ thị hai phía với ma trận trọng số c 1..k, 1..k .
+----------------------------------------------------------------------
+
+=== MẪU 161 ===
+[ĐIỂM SỐ] ROUGE-1: 56.34% | ROUGE-2: 32.29% | ROUGE-L: 38.31%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Một vòng tròn đen với một mũi tên từ ngoài các điểm của nó vào một trạng thái ban đầu một trạng thái mà trong đó một đối tượng có thể được sinh ra. Một mũi tên chỉ đến một đường tròn đen chỉ ra nguồn là một trạng thái cuối cùng một trạng thái mà một đối tượng có thể kết thu c vòng đời. PHÂN TÍCH YÊU CẦU 100 Hình 4.16: Biểu đồ trạng thái Đăng nhập hệ thống 4.5 CASE STUDY: HỆ QUẢN LÝ ĐĂNG KÝ HỌC THEO TÍN CHỈ Phân tích là công việc tiếp theo của tiến trình phát triển phần mềm sau khi chu ng ta hoàn thành quá trình Thu thập yêu cầu. Để tiến hành phân tích hệ thống chu ng ta cần nắm rõ Đầu vào, Đầu ra của quá trình này.
+----------------------------------------------------------------------
+
+=== MẪU 162 ===
+[ĐIỂM SỐ] ROUGE-1: 60.21% | ROUGE-2: 59.93% | ROUGE-L: 60.21%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nếu một câu α được sinh ra từ KB nhờ thủ tục suy diễn hay thuật toán suy diễn i thì ta ký hiệu: KB i α 3.3.2. Suy diễn sử dụng bảng chân lý Suy diễn là xác định liệu một công thức α có phải là hệ quả logic của các công thức trong cơ sở tri thức KB không. Thủ tục suy diễn đơn giản nhất được thực hiện bằng cách liệt kê tất cả các minh họa và kiểm tra xem trong các minh họa mà các câu trong cơ sở tri thức KB đúng thì α có đúng không, theo đúng định nghĩa về hệ quả logic ở phần trước. Như ta đã biết ở trên, mỗi minh họa là một cách gán các giá trị True hoặc False cho từng ký hiệu mệnh đề.
+----------------------------------------------------------------------
+
+=== MẪU 163 ===
+[ĐIỂM SỐ] ROUGE-1: 98.16% | ROUGE-2: 97.78% | ROUGE-L: 97.78%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+PROG12_2.PAS Cài đặt phương pháp Kuhn-Munkres O n3 program AssignmentProblemSolve; const max 100; maxC 10001; var c: array 1..max, 1..max of Integer; Fx, Fy, matchX, matchY: array 1..max of Integer; Trace, Queue, d, arg: array 1..max of Integer; first, last: Integer; start, finish: Integer; m, n, k: Integer; procedure Enter; Nhập dữ liệu var i, j: Integer; begin ReadLn m, n ; if m n then k : m else k : n; for i : 1 to k do for j : 1 to k do c i, j : maxC; while not SeekEof do ReadLn i, j, c i, j ; end; procedure Init; Khởi tạo bộ ghép rỗng và hai dãy đối ngẫu Fx, Fy var i, j: Integer; begin FillChar matchX, SizeOf matchX , 0 ; FillChar matchY, SizeOf matchY , 0 ; for i : 1 to k do begin Fx i : maxC; for j : 1 to k do if c i, j Fx i then Fx i : c i, j ; Lý thuyết đồ thị Lê Minh Hoàng 108 end; for j : 1 to k do begin Fy j : maxC; for i : 1 to k do if c i, j - Fx i Fy j then Fy j : c i, j - Fx i ; end; end; function GetC i, j: Integer : Integer; Hàm trả về trọng số cạnh X i , Y j begin GetC : c i, j - Fx i - Fy j ; end; procedure InitBFS; Thủ tục khởi tạo trước khi tìm cách ghép start X var y: Integer; begin Hàng đợi chỉ gồm mỗi một đỉnh Start cây pha khởi tạo chỉ có 1 đỉnh start first : 1; last : 1; Queue 1 : start; Khởi tạo các Y_đỉnh đều chưa thăm Trace y 0, y FillChar Trace, SizeOf Trace , 0 ; Khởi tạo các d y for y : 1 to k do begin d y : GetC start, y ; d y là khoảng cách từ y tới cây pha gốc start arg y : start; arg y là X_đỉnh thuộc cây pha tạo ra khoảng cách đó end; finish : 0; end; procedure Push v: Integer ; Đẩy một đỉnh v X vào hàng đợi begin Inc last ; Queue last : v; end; function Pop: Integer; Rút một X_đỉnh khỏi hàng đợi, trả về trong kết quả hàm begin Pop : Queue first ; Inc first ; end; procedure FindAugmentingPath; Thủ tục tìm đường mở var i, j, w: Integer; begin repeat i : Pop; Rút một đỉnh X i khỏi hàng đợi for j : 1 to k do Quét những Y_đỉnh chưa thăm if Trace j 0 then begin w : GetC i, j ; xét cạnh X i , Y j if w 0 then Nếu là 0_cạnh begin Trace j : i; Lưu vết đường đi if matchY j 0 then Nếu j chưa ghép thì ghi nhận nơi kết thúc đường mở và thoát begin finish : j; Exit; end; Push matchY j ; Nếu j đã ghép thì đẩy tiếp matchY j vào hàng đợi end; if d j w then Cập nhật lại khoảng cách d j nếu thấy cạnh X i , Y j ngắn hơn khoảng cách này begin Lý thuyết đồ thị Lê Minh Hoàng 109 d j : w; arg j : i; end; end; until first last; end; Xoay các trọng số cạnh procedure SubX_AddY; var Delta: Integer; x, y: Integer; begin Trước hết tính giá trị nhỏ nhất trọng số các d y , với y Y chưa thăm y không thuộc cây pha Delta : maxC; for y : 1 to k do if Trace y 0 and d y Delta then Delta : d y ; Trừ trọng số những cạnh liên thuộc với start X đi Fx start : Fx start Delta; for y : 1 to k do Xét các đỉnh y Y if Trace y 0 then Nếu y thuộc cây pha begin x : matchY y ; Thì x matchY y cũng phải thuộc cây pha Fy y : Fy y - Delta; Cộng trọng số những cạnh liên thuộc với y lên Fx x : Fx x Delta; Trừ trọng số những cạnh liên thuộc với x đi end else d y : d y - Delta; Nếu y cây pha thì sau bước xoay, khoảng cách từ y đến cây pha sẽ giảm Chuẩn bị tiếp tụcBFS for y : 1 to k do if Trace y 0 and d y 0 then Thăm luôn những đỉnh y Y tạo với cây pha một 0_cạnh begin Trace y : arg y ; Lưu vết đường đi if matchY y 0 then Nếu y chưa ghép thì ghi nhận đỉnh kết thúc đường mở và thoát ngay begin finish : y; Exit; end; Push matchY y ; Nếu y đã ghép thì đẩy luôn matchY y vào hàng đợi để chờ loang tiếp end; end; procedure Enlarge; Nới rộng bộ ghép bằng đường mở kết thúc ở finish var x, next: Integer; begin repeat x : Trace finish ; next : matchX x ; matchX x : finish; matchY finish : x; finish : Next; until finish 0; end; procedure Solve; var x, y: Integer; begin for x : 1 to k do Với mỗi X_đỉnh: begin start : x; Đặt nơi khởi đầu đường mở InitBFS; Khởi tạo cây pha repeat next ...
+----------------------------------------------------------------------
+
+=== MẪU 164 ===
+[ĐIỂM SỐ] ROUGE-1: 80.2% | ROUGE-2: 64.37% | ROUGE-L: 60.15%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Để tiết kiệm không gian, chu ng ta có thể viết tài liệu riêng biệt cho chu ng thay vì một danh sách thuộc tính hoàn chỉnh với các mô tả. PHÂN TÍCH YÊU CẦU 90 triển phần mềm, chu ng ta hy vọng có thể phóng to để nhìn các thuộc tính và mô tả của chu ng hoặc thu nhỏ để chỉ nhìn tên lớp. Hình 4.8 biểu diễn các thuộc tính của lớp Member trong Hệ thống quản lý học tập theo tín chỉ với các thuộc tính Account, password, dateOfBirth, sex cùng với kiểu của các thuộc tính đó String, date, Boolean Hình 4.9 Biểu diễn đầy đủ tập các thuộc tính cho các lớp Thuộc tính hay quan hệ Thông thường chu ng ta cần phải đưa ra những lựa chọn khác nhau cho mô hình hóa thông tin.
+----------------------------------------------------------------------
+
+=== MẪU 165 ===
+[ĐIỂM SỐ] ROUGE-1: 70.22% | ROUGE-2: 30.91% | ROUGE-L: 36.36%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Chúng tôi dành phần lựa chọn ứng dụng cụ thể cho giảng viên trong quá trình lên lớp và hướng dẫn sinh viên. Tùy điều kiện, giảng viên có thể lựa chọn trong danh mục ứng dụng rất phong phú để giới thiệu và minh họa cho các nội dung của tài liệu. Chương 1 là phần giới thiệu tổng quan về trí tuệ nhân tạo bao gồm khái niệm, lịch sử hình thành, sơ lược về những kỹ thuật và ứng dụng tiêu biểu.
+----------------------------------------------------------------------
+
+=== MẪU 166 ===
+[ĐIỂM SỐ] ROUGE-1: 52.1% | ROUGE-2: 51.69% | ROUGE-L: 52.1%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Suy diễn hay suy lý thường dùng chỉ quá trình cho phép rút ra kết luận. Một luật suy diễn gồm hai phần : một tập các điều kiện và một kết luận. Thủ tục suy diễn được gọi là đúng đắn sound nếu kết quả suy diễn là hệ quả logic của điều kiện. Thủ tục suy diễn được gọi là đầy đủ complete nếu cho phép tìm ra mọi hệ quả logic của điều kiện. Ta sẽ sử dụng những kí hiệu sau: KB: kí hiệu tập các câu đã có hay cơ sở tri thức Knowledge Base KB α : Khi các câu trong KB là đúng True thì α là đúng True , hay α là hệ quả logic của KB.
+----------------------------------------------------------------------
+
+=== MẪU 167 ===
+[ĐIỂM SỐ] ROUGE-1: 69.71% | ROUGE-2: 67.63% | ROUGE-L: 69.23%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Với n là số đỉnh của đồ thị, ta có thể viết thuật toán Warshall như sau: for k : 1 to n do for u : 1 to n do if a u, k then for v : 1 to n do if a k, v then a u, v : True; hoặc for k : 1 to n do for u : 1 to n do for v : 1 to n do a u, v : a u, v or a u, k and a k, v ; Việc chứng minh tính đúng đắn của thuật toán đòi hỏi phải lật lại các lý thuyết về bao đóng bắc cầu và quan hệ liên thông, ta sẽ không trình bày ở đây.
+----------------------------------------------------------------------
+
+=== MẪU 168 ===
+[ĐIỂM SỐ] ROUGE-1: 58.54% | ROUGE-2: 58.31% | ROUGE-L: 58.54%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Chẳng hạn, trên hình 2.4, từ trạng thái ngoài cùng bên trái thuộc lớp giữa có thể quay về trạng thái xuất phát nếu sử dụng chuyển động Dưới . Tương tự, với đồ thị trên hình 2.3, thuật toán có thể dẫn tới vòng lặp G A S A Việc chuyển động theo vòng lặp ảnh hưởng không tốt tới thuật toán tìm kiếm. Một số thuật toán tìm kiếm như tìm kiếm theo chiều sâu trình bầy trong một phần sau không thể tìm ra lời giải nếu rơi vào vòng lặp. Một số thuật toán khác như tìm theo chiều rộng, mặc dù vẫn tìm ra lời giải, nhưng sẽ phải tính toán lâu hơn, xem xét nhiều trạng thái hơn nếu gặp phải vòng lặp. Để tránh không rời vào vòng lặp cần có cách kiểm tra để không xem xét lại nút đã duyệt.
+----------------------------------------------------------------------
+
+=== MẪU 169 ===
+[ĐIỂM SỐ] ROUGE-1: 87.5% | ROUGE-2: 87.43% | ROUGE-L: 87.5%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Dữ liệu huấn luyện được cho nhưng trong hình 5.1 đối với phân loại, hay trên hình 5.2 đối với hồi quy. Mỗi tập dữ liệu huấn luyện gồm nhiều ví dụ, mỗi ví dụ Thuật toán học máy Ví dụ huấn luyện có nhãn hoặc giá trị đích Hàm đích quy tắc dự đoán, mô hình dự đoán Ví dụ mới không nhãn Nhãn phân loại hoặc giá trị đích dự đoán Huấn luyện Dự đoán PTIT Học máy 159 được mô tả trong một dòng. Mỗi ví dụ huấn luyện được ký hiệu bằng một cặp xi, yi , trong đó xi là vec tơ các đặc trưng hay thuộc tính, yi là giá trị nhãn phân loại hay giá trị đích trong hồi quy.
+----------------------------------------------------------------------
+
+=== MẪU 170 ===
+[ĐIỂM SỐ] ROUGE-1: 53.66% | ROUGE-2: 17.73% | ROUGE-L: 28.29%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Trong tài liệu này, thiết kế các hệ thống con được trình bày ít nhiều độc lập với ngôn ngữ và các công nghệ được chọn. Tuy nhiên, để tiện minh họa tài liệu này nghiên về công nghệ Java và cơ sở dữ liệu quan hệ.
+----------------------------------------------------------------------
+
+=== MẪU 171 ===
+[ĐIỂM SỐ] ROUGE-1: 39.55% | ROUGE-2: 4.57% | ROUGE-L: 21.47%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phân loại với lề mềm cho dữ liệu không phân chia tuyến tính Trong trường hợp dữ liệu không thể phân chia tuyến tính, chẳng hạn do một số ví dụ nhiễu, hay thậm chí trong trường hợp phân chia tuyến tính, vẫn có thể tìm được siêu phẳng với lề rộng nếu chấp nhận phân loại sai một số ví dụ.
+----------------------------------------------------------------------
+
+=== MẪU 172 ===
+[ĐIỂM SỐ] ROUGE-1: 63.72% | ROUGE-2: 62.91% | ROUGE-L: 63.72%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thực chất, tại mỗi bước lặp, thuật toán thực hiện tìm kiếm theo chiều sâu nên yêu cầu bộ nhớ tương tự tìm theo chiều sâu, tức là O bd . g Độ phức tạp tính toán O .Trong tìm kiếm sâu lặp, ta phải phát triển lặp lại nhiều lần cùng một trạng thái. Điều đó làm cho ta có cảm giác rằng, tìm kiếm sâu lặp lãng phí nhiều thời gian. Thực ra thời gian tiêu tốn cho phát triển lặp lại các trạng thái là không đáng kể so với thời gian tìm kiếm theo bề rộng. Thật vậy, mỗi lần gọi thủ tục tìm kiếm sâu hạn chế tới mức d, nếu cây tìm kiếm có nhân tố nhánh là b, thì số đỉnh cần phát triển là: 1 b b2 ...
+----------------------------------------------------------------------
+
+=== MẪU 173 ===
+[ĐIỂM SỐ] ROUGE-1: 73.98% | ROUGE-2: 48.58% | ROUGE-L: 40.75%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Để sử dụng với thuật toán tìm kiếm cục bộ, các ràng buộc cứng và mềm cần được kết hợp thành một hàm mục tiêu duy nhất. Hàm mục tiêu được tính bằng số ràng buộc cứng bị vi phạm nhân với trọng số cho ràng buộc cứng cộng với số ràng buộc mềm bị vi phạm nhân với trọng số tương ứng. Hàm mục tiêu số ràng buộc cứng vi phạm w0 số ràng buộc mềm loại i vi phạm wi Giá trị trọng số mặc định w0 cho mỗi ràng buộc cứng bị vi phạm được chọn cao hơn ràng buộc mềm.
+----------------------------------------------------------------------
+
+=== MẪU 174 ===
+[ĐIỂM SỐ] ROUGE-1: 53.22% | ROUGE-2: 11.76% | ROUGE-L: 22.22%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+12.2 Nội dung Bất cứ một hàm nào đó có thể triệu gọi hàm khác, nhưng ở đây một hàm nào đó có thể tự triệu gọi chính mình. Phương pháp đệ quy thường dùng phổ biến trong những ứng dụng mà cách giải quyết có thể được thể hiện bằng việc áp dụng liên tiếp cùng giải pháp cho những tập hợp con của bài toán. Dòng File Edit Search Run Compile Debug Project Option Window Help 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 Ham tinh giai thua include stdio.h include conio.h void main void int in; long giaithua int ; printf Nhap vao so n: ; scanf d , in ; printf d!
+----------------------------------------------------------------------
+
+=== MẪU 175 ===
+[ĐIỂM SỐ] ROUGE-1: 72.43% | ROUGE-2: 55.52% | ROUGE-L: 63.79%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Sau khi thực hiện bước 3, ta được hàm h có dạng một bảng với K chiều do đã giảm được một chiều tương ứng với f1, f2,...,fk . Với thủ tục Eliminate vừa trình bầy, ta có thể xây dựng thuật toán loại trừ biến, theo đó các biến không phải biến truy vấn Q và không phải biến bằng chứng E sẽ bị loại trừ dần bằng cách gọi Eliminate .
+----------------------------------------------------------------------
+
+=== MẪU 176 ===
+[ĐIỂM SỐ] ROUGE-1: 68.59% | ROUGE-2: 67.74% | ROUGE-L: 50.64%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Nếu F1 S thì đường đi ngắn nhất là đường đi trực tiếp theo cung S, F . Nếu không thì vấn đề trở thành tìm đường đi ngắn nhất từ S tới F1. Và ta lại tìm được một đỉnh F2 khác F và F1 để: d S, F1 d S, F2 c F2, F1 Lý thuyết đồ thị Lê Minh Hoàng 58 Cứ tiếp tục như vậy, sau một số hữu hạn bước, ta suy ra rằng dãy F, F1, F2, ... Tuy nhiên, trong đa số trường hợp, người ta không sử dụng phương pháp này mà sẽ kết hợp lưu vết đường đi ngay trong quá trình tìm kiếm. Dưới đây ta sẽ xét một số thuật toán tìm đường đi ngắn nhất từ đỉnh S tới đỉnh F trên đơn đồ thị có hướng G V, E có n đỉnh và m cung.
+----------------------------------------------------------------------
+
+=== MẪU 177 ===
+[ĐIỂM SỐ] ROUGE-1: 78.71% | ROUGE-2: 69.48% | ROUGE-L: 62.58%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ: int len, i; char string THIS IS A STRING ; len strlen string ; for i 0; i len; i string i tolower string i ; đổi từ kí tự trong string thành chữ thường 16.1.5 toupper int toupper int ch ; Phải khai báo ctype.h Đổi chữ thường sang chữ hoa. Ví dụ: int len, i; char string this is a string ; len strlen string ; for i 0; i len; i string i toupper string i ; đổi từ kí tự trong string thành chữ thường Giáo trình Lập trình C căn bản Trang 133 Hanoi Aptech Computer Education Center 16.2 Các hàm xử lý chuỗi ký tự 16.2.1 strcat char strcat char dest, const char src ; Phải khai báo string.h Thêm chuỗi src vào sau chuỗi dest.
+----------------------------------------------------------------------
+
+=== MẪU 178 ===
+[ĐIỂM SỐ] ROUGE-1: 93.2% | ROUGE-2: 91.65% | ROUGE-L: 93.2%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Mô tả quy trình xử lý giải thuật Ngôn ngữ tự nhiên Ngôn ngữ C - Khai báo biến diem kiểu số thực - Nhập vào điểm số - Nếu diem 0 và diem 10 thì - Nếu diem 9 thì in ra xếp loại Xuất sắc Ngược lại Nếu diem 8 thì in ra xếp loại Giỏi Ngược lại Nếu diem 7 thì in ra xếp loại Khá Ngược lại Nếu diem 6 thì in ra xếp loại TBKhá Ngược lại Nếu diem 5 thì in ra xếp loại TBình Ngược lại thì in ra xếp loại Yếu Ngược lại thì in ra Bạn nhập điểm không hợp lệ - float fdiem; - printf Nhap vao diem so: ; scanf f , fdiem ; - if fdiem 0 fdiem 10 - if fdiem 9 printf Xep loai Xuat sac.
+----------------------------------------------------------------------
+
+=== MẪU 179 ===
+[ĐIỂM SỐ] ROUGE-1: 57.25% | ROUGE-2: 40.88% | ROUGE-L: 36.96%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Hệ bát phân hệ 8 rất ít dùng và hệ thập phân hệ 10 là hệ chúng ta đang sử dụng để biểu diễn một con số nào đó trong cuộc sống hằng ngày. Ví dụ 1: Hệ nhị phân gồm 2 chữ số : 0, 1 Hệ bát phân gồm 8 chữ số : 0, 1, 2, 3, 4, 5, 6, 7 Hệ thập phân gồm 10 chữ số : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 Hệ thập lục phân gồm 16 chữ số : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F Các chữ số trong một hệ đếm được sắp xếp theo quy tắc: Bất kỳ cơ số N nguyên dương nào, có N ký hiệu khác nhau để biểu diễn các số trong hệ thống.
+----------------------------------------------------------------------
+
+=== MẪU 180 ===
+[ĐIỂM SỐ] ROUGE-1: 56.97% | ROUGE-2: 38.63% | ROUGE-L: 34.67%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, trong bài toán phân loại email thành thư rác hoặc thư thường, có thể sử dụng đặc trưng là các từ chứa trong thư, địa chỉ nơi gửi, dòng tiêu đề, độ dài thư, địa chỉ người nhận. Trong đó, địa chỉ nơi gửi là thông tin quan trọng về việc đó là thư rác hay không, trong khi địa chỉ người nhận không liên quan tới phân loại này, và do vậy không nên sử dụng đặc trưng địa chỉ người nhận khi phân loại thư. Tập đặc trưng phù hợp với bài toán phân loại phải thỏa mãn hai điều kiện sau: l. Giá trị các đặc trưng có quan hệ với nhãn phân loại và do vậy việc sử dụng đặc trưng cho thêm thông tin về phân loại của các ví dụ.
+----------------------------------------------------------------------
+
+=== MẪU 181 ===
+[ĐIỂM SỐ] ROUGE-1: 71.13% | ROUGE-2: 49.74% | ROUGE-L: 45.88%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Tính chất của tìm theo chiều rộng: Đối chiếu với các tiêu chuẩn ở trên, tìm kiếm theo chiều rộng có những tính chất sau: Thuật toán có tính đầy đủ, tức là nếu bài toán có lời giải, tìm kiếm theo chiều rộng đảm bảo tìm ra lời giải. Thật vậy, nếu lời giải nằm ở độ sâu hữu hạn d thì thuật toán sẽ đạt tới lời giải đó sau khi đã khảo sát hết các nút nông hơn, trừ khi yếu tố rẽ nhánh b là vô hạn. Tìm theo chiều rộng là tìm kiếm vét cạn, trong đó các nút có độ sâu nhỏ hơn được xem xét trước.
+----------------------------------------------------------------------
+
+=== MẪU 182 ===
+[ĐIỂM SỐ] ROUGE-1: 79.4% | ROUGE-2: 79.25% | ROUGE-L: 55.43%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Vấn đề đó là một vấn đề hết sức phức tạp mà ta sẽ không bàn tới ở đây. Nếu như đồ thị không có chu trình âm thì ta có thể chứng minh được rằng một trong những đường đi ngắn nhất là đường đi cơ bản. Và nếu như biết được khoảng cách từ S tới tất cả những đỉnh khác thì đường đi ngắn nhất từ S tới F có thể tìm được một cách dễ dàng qua thuật toán sau: Gọi c u, v là trọng số của cạnh u, v . Qui ước c v, v 0 với mọi v V và c u, v nếu như u, v E.
+----------------------------------------------------------------------
+
+=== MẪU 183 ===
+[ĐIỂM SỐ] ROUGE-1: 63.16% | ROUGE-2: 62.9% | ROUGE-L: 63.16%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Để tiện cho việc xây dựng hàm mục tiêu ở bên dưới, mỗi ràng buộc mềm được gán một trọng số w thể hiện điểm phạt khi một ràng buộc mềm như vậy bị vi phạm. - Gián đoạn w1 6 : hai tiết của một giáo viên cho cùng một lớp không nằm liền nhau. - Dậy quá ít w3 3 : giáo viên dậy ít hơn mức tối thiểu trong một ngày. - Dậy quá nhiều w4 3 : giáo viên dậy nhiều hơn mức tối đa trong một ngày. - Phân bố không đều w5 5 : một giáo viên dậy quá nhiều tiết cho cùng một lớp trong một ngày chẳng hạn nhiều hơn 2 tiết .
+----------------------------------------------------------------------
+
+=== MẪU 184 ===
+[ĐIỂM SỐ] ROUGE-1: 50.97% | ROUGE-2: 49.81% | ROUGE-L: 50.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+o Các ký hiệu kết nối logic: hội , tuyển , phủ định , kéo theo , tương đương . Tương tự như với logic mệnh đề, ngữ nghĩa cho phép liên kết biểu thức logic với thế giới của bài toán để xác định tính đúng hoặc sai của biểu thức. Minh họa xác định cụ thể đối tượng, quan hệ và hàm mà các ký hiệu hằng, vị từ, và ký hiệu hàm thể hiện. Để xác định một minh họa, trước hết ta cần xác định một miền đối tượng nó bao gồm tất cả các đối tượng trong thế giới mà ta quan tâm . Cũng có thể xác định miền đối tượng cho từng tham số của một vị từ hoặc một hàm nào đó.
+----------------------------------------------------------------------
+
+=== MẪU 185 ===
+[ĐIỂM SỐ] ROUGE-1: 69.75% | ROUGE-2: 52.8% | ROUGE-L: 50.0%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Từ đó xác định phân khúc xe cho các mẫu xe mới nếu biết dung tích động cơ và loại xe. Dung tích động cơ Loại xe Phân khúc 3200 Sedan Cao cấp 2500 Sedan Cao cấp 2500 SUV Trung bình 2000 Sedan Trung bình 3500 SUV Cao cấp 1800 Sedan Trung bình Hình 5.1. Trong trường hợp bài toán hồi quy, dữ liệu huấn luyện thường có dạng như trong bảng trên hình 5.2, trong đó mỗi dòng ứng với một chiếc xe cũ, giá trị đích là giá bán xe được cho trong cột cuối cùng. Khác biệt chính so với trường hợp phân loại là giá trị đích ở đây giá bán là số thực và có thể nhận các giá trị liên tục.
+----------------------------------------------------------------------
+
+=== MẪU 186 ===
+[ĐIỂM SỐ] ROUGE-1: 54.74% | ROUGE-2: 54.41% | ROUGE-L: 54.74%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Việc trang bị cho máy tính lượng tri thức như con người hiện vẫn là vấn đề chưa được giải quyết. Để đánh giá hệ thống trí tuệ nhân tạo, có thể so sánh các hệ thống này với con người khi thực hiện từng bài toán trí tuệ cụ thể. Kết quả so sánh được chia thành các mức sau: - Tối ưu: hệ thống cho kết quả tối ưu, không thể tốt hơn nữa. - Tương đương người giỏi: hệ thống cho kết quả tương đương những người giỏi nhất và hơn đa số người còn lại. Những bài toán trí tuệ trong đó hệ thống máy tính thực hiện kém hơn người là những bài toán cần tiếp tục giải quyết.
+----------------------------------------------------------------------
+
+=== MẪU 187 ===
+[ĐIỂM SỐ] ROUGE-1: 78.92% | ROUGE-2: 57.01% | ROUGE-L: 59.19%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Ví dụ, nếu không có thêm thông tin gì thêm thì xác suất quan sát thấy Gió mạnh sẽ là 1 2 do thuộc tính Gió có hai giá trị. Ngược lại, khi α , xác suất hậu nghiệm sẽ bằng p, bất kể Nc thế nào. Trong những trường hợp còn lại, cả Nc N và p cùng đóng góp vào công thức, α càng lớn thì ảnh hưởng của p tới kết quả càng lớn.
+----------------------------------------------------------------------
+
+=== MẪU 188 ===
+[ĐIỂM SỐ] ROUGE-1: 53.6% | ROUGE-2: 11.29% | ROUGE-L: 23.2%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+- Một số hàm xử lý chuỗi 8.2 Nội dung 8.2.1 Mảng Là tập hợp các phần tử có cùng dữ liệu. Giả sử bạn muốn lưu n số nguyên để tính trung bình, bạn không thể khai báo n biến để lưu n giá trị rồi sau đó tính trung bình.
+----------------------------------------------------------------------
+
+=== MẪU 189 ===
+[ĐIỂM SỐ] ROUGE-1: 58.48% | ROUGE-2: 58.18% | ROUGE-L: 58.48%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thuật toán sẽ chọn nút tiếp theo là H do nút này gần D hơn G theo đường chim bay. Mở rộng H, thuật toán lại thêm I vào tập biên và do I gần D hơn G, thuật toán lại chọn I, và như vậy bị lặp vô hạn giữa I và H. Tuy nhiên trong trường hợp heuristic không tốt thì thuật toán sẽ đi sai hướng và do vậy gần giống với tìm sâu. Độ phức tạp về không gian lưu trữ: trong trường hợp xấu nhất thuật toán lưu O nút với m là độ sâu cây tìm kiếm, tuy nhiên nếu heuristic tốt thì số nút cần lưu giảm đi rất nhiều như trong ví dụ trên.
+----------------------------------------------------------------------
+
+=== MẪU 190 ===
+[ĐIỂM SỐ] ROUGE-1: 90.2% | ROUGE-2: 90.15% | ROUGE-L: 90.2%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Phác thảo giao diện quản lý Giảng Viên Giao diện thêm Giảng Viên PTIT PHỤ LỤC A: LỰA CHỌN CÔNG NGHỆ 187 Giao diện Sửa xóa Giảng viên Quản lý đào tạo Quản lý xếp lớp học Thêm lớp học Tên Use Case Thêm Lớp học Tác nhân chính Cán bộ đào tạo. Tiền điều kiện Cán bộ đào tạo đã Đăng nhập vào hệ thống Đảm bảo tối thiểu Hệ thống loại bỏ các thông tin đã thêm và quay lui lại bước trước Đảm bảo thành công Đã thêm được Lớp học Kích hoạt Button Thêm Lớp học trên Form Quản lý xếp lớp học Chuỗi sự kiện chính 1. Hệ thống hiển thị form với các thông tin tùy chọn cần thiết về Khoa, Chuyên Ngành, Học kỳ 3.
+----------------------------------------------------------------------
+
+=== MẪU 191 ===
+[ĐIỂM SỐ] ROUGE-1: 50.66% | ROUGE-2: 50.33% | ROUGE-L: 50.66%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Với khoảng 450 luật do chuyên gia cung cấp, hệ thống có chất lượng chẩn đoán tương đương bác sĩ giỏi trong lĩnh vực này. - Việc sử dụng tri thức cũng được sử dụng để giải quyết vấn đề hiểu ngôn ngữ tự nhiên, ví dụ trong hệ thống dịch tự động. Hệ chuyên gia cho phép giải quyết một phần hạn chế của các hệ thống đơn giản không dựa trên tri thức trước đó. Một số hệ chuyên gia đã được thương mại hoá và đem lại doanh thu cho lĩnh vực trí tuệ nhân tạo. Cũng trong giai đoạn này, vào năm 1972 Alain Colmerauer đã phát triển ngôn ngữ Prolog viết tắt của logic programming tức là lập trình logic phục vụ việc biểu diễn tri thức dưới dạng tương tự logic vị từ và lập luận trên tri thức đó.
+----------------------------------------------------------------------
+
+=== MẪU 192 ===
+[ĐIỂM SỐ] ROUGE-1: 57.14% | ROUGE-2: 37.55% | ROUGE-L: 36.36%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Kết quả ghi ra file văn bản GRAPH.OUT Dòng 1: Ghi danh sách các đỉnh có thể đến được từ S Dòng 2: Đường đi từ S tới F được in ngược theo chiều từ F về S Lý thuyết đồ thị Lê Minh Hoàng 11 GRAPH.INP GRAPH.OUT 1 2 3 5 4 6 7 8 8 7 1 5 1 2 1 3 2 3 2 4 3 5 4 6 7 8 1, 2, 3, 5, 4, 6, 5 -3 -2 -1 II. Cài đặt đệ quy Tư tưởng của thuật toán có thể trình bày như sau: Trước hết, mọi đỉnh x kề với S tất nhiên sẽ đến được từ S.
+----------------------------------------------------------------------
+
+=== MẪU 193 ===
+[ĐIỂM SỐ] ROUGE-1: 97.3% | ROUGE-2: 97.28% | ROUGE-L: 97.3%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Viết chương trình File Edit Search Run Compile Debug Project Option Window Help Chuong trinh nhap vao ki tu c. Doi ra hoa, thuong include stdio.h include conio.h void main void char c; printf Nhap vao 1 ki tu: ; scanf c , c ; if c a c z hoac if c 97 c 122 c c 32; doi thanh chu in hoa c a và c z Nhập c Đúng c c 32 Ki tu hoa c Kết thúc Ktu nhap la so c c A và c Z c 0 và c 9 Đúng c c 32 Ki tu thuong c Sai Đúng Ban da nhap ktu c Sai Sai Giáo trình Lập trình C căn bản Trang 37 Hanoi Aptech Computer Education Center printf Ki tu hoa la: c.
+----------------------------------------------------------------------
+
+=== MẪU 194 ===
+[ĐIỂM SỐ] ROUGE-1: 57.05% | ROUGE-2: 56.77% | ROUGE-L: 57.05%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Bên cạnh đó, một số rô bốt không mô phỏng người nhưng được sử dụng trong đời sống hàng ngày hoặc các ứng dụng thực tế. Ví dụ, rô bốt Roomba của hãng iRobot có khả năng tự động di chuyển trong phòng, tránh vật cản, chui vào các ngóc ngách để lau sạch toàn bộ sàn. Những vấn đề chưa được giải quyết Mặc dù đạt được nhiều thành tựu và có nhiều ứng dụng đáng kể, các hệ thống trí tuệ nhân tạo hiện nay chưa đạt được mức độ trí tuệ nhân tạo mạnh strong AI hay trí tuệ nhân tạo tổng quát Artificial General Intelligence . Trí tuệ nhân tạo mạnh là khái niệm để chỉ khả năng của máy tính thực hiện bất cứ công việc trí tuệ nào mà con người có thể thực hiện.
+----------------------------------------------------------------------
+
+=== MẪU 195 ===
+[ĐIỂM SỐ] ROUGE-1: 52.34% | ROUGE-2: 37.8% | ROUGE-L: 42.97%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Dòng File Edit Search Run Compile Debug Project Option Window Help 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 Doc vao 1 loat ktu tren ban phim, dem so ktu nhap vao. void main void char c; int idem 0; for ; ; c getchar ; if c DAU_CHAM nhap vao dau cham break; thoat vong lap idem ; printf So ki tu: d. n , idem ; getch ; F1 Help Alt-F8 Next Msg Alt-F7 Prev Msg Alt - F9 Compile F9 Make F10 Menu Kết quả in ra màn hình afser. Ví dụ 8: Nhập vào 1 dãy số nguyên từ bàn phím đến khi gặp số 0 thì dừng.
+----------------------------------------------------------------------
+
+=== MẪU 196 ===
+[ĐIỂM SỐ] ROUGE-1: 53.33% | ROUGE-2: 52.94% | ROUGE-L: 53.33%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Điểm mấu chốt là cần phải xem xét sự tương đồng giữa các khái niệm với nhau. Rõ ràng, chu ng đều là các bộ sưu tập, vì vậy lớp Collection sẽ đưa lên đầu. Trong bốn bộ sưu tập trên, chỉ có Bag là không lưu các đối tượng theo thứ tự, còn lại đều lưu đối tượng theo thứ tự. Ta thấy, List không có ràng buộc gì về cài đặt bên trong, trong khi LinkedList và ArrayList thì có. CƠ SỞ CỦA PHÁT TRIỂN PHẦN MỀM HƯỚNG ĐỐI TƯỢNG 14 Hình 1.4: Thiết kế kiến trúc phân cấp Trong thực tế, ta lại thường hay làm ngược lại.
+----------------------------------------------------------------------
+
+=== MẪU 197 ===
+[ĐIỂM SỐ] ROUGE-1: 85.39% | ROUGE-2: 76.08% | ROUGE-L: 69.91%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thuật toán này được đặt tên là Graph_Search để phân biệt với thuật toán không lưu các nút đóng. PTIT Giải quyết vấn đề bằng tìm kiếm 31 Graph_Search Q, S, G, P Q: tập trạng thái, S: trạng thái bắt đầu, G: đích, P: hành động Đầu vào: bài toán tìm kiếm với 4 thành phần như trên Đầu ra: trạng thái đích Khởi tạo: O S O: tập các nút biên, bước này khởi tạo giá trị ban đầu cho O bằng S D Ø D là tập nút đóng, được khởi tạo bằng rỗng ---------------------------------------- While O Ø do 1.
+----------------------------------------------------------------------
+
+=== MẪU 198 ===
+[ĐIỂM SỐ] ROUGE-1: 76.55% | ROUGE-2: 76.42% | ROUGE-L: 76.55%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Thuật toán học cây ID3 Nhiệm vụ của thuật toán học là xây dựng cây quyết định phù hợp với tập dữ liệu huấn luyện, tức là cây quyết định có đầu ra giống nhiều nhất với nhãn phân loại cho trong tập mẫu. Trong trường hợp số thuộc tính nhỏ, việc xây dựng cây quyết định như vậy có thể thực hiện bằng cách liệt kê tất các cây quyết định hợp lệ và kiểm tra để chọn ra cây phù hợp với dữ liệu. Với số lượng thuộc tính lớn, số cây quyết định như vậy là rất lớn và không thể tìm kiếm theo kiểu vét cạn như vậy. Do đó, thuật toán học cây thường dựa trên nguyên tắc tham lam, xây dựng dần các nút từ trên xuống.
+----------------------------------------------------------------------
+
+=== MẪU 199 ===
+[ĐIỂM SỐ] ROUGE-1: 51.32% | ROUGE-2: 50.95% | ROUGE-L: 51.32%
+[TÓM TẮT BỎI RÚT TRÍCH (Phương pháp B)]:
+[Nguồn: Tài_liệu_chính]
+Một số bài toán khác cũng có thể dự đoán trước giới hạn độ sâu như vậy. Trong trường hợp ta biết chính xác độ sâu của lời giải, thuật toán sẽ cho lời giải tối ưu lời giải nông nhất . Tuy nhiên, trong trường hợp chung, ta thường không có trước thông tin về độ sâu của lời giải. Thực chất tìm kiếm sâu dần là tìm kiếm với độ sâu hữu hạn, trong đó giới hạn độ sâu được khởi đầu bằng một giá trị nhỏ, sau đó tăng dần cho tới khi tìm được lời giải. Phương pháp: Tìm theo DFS những không bao giờ mở rộng các nút có độ sâu quá một giới hạn nào đó.
+----------------------------------------------------------------------

@@ -1,0 +1,9 @@
+[2026-04-23 07:55:51] [STEP: DOCUMENT_INGESTION]
+Bắt đầu đọc luồng dữ liệu thô từ các file được tải lên.
+--------------------------------------------------
+[2026-04-23 07:55:52] [STEP: TEXT_CHUNKING]
+Hoàn tất làm sạch và phân mảnh văn bản. Tổng số phân đoạn (chunks): 19 đoạn. Có gắn thẻ Metadata nguồn.
+--------------------------------------------------
+[2026-04-23 07:55:52] [STEP: VECTORIZATION]
+Đã xây dựng Không gian Vector TF-IDF. Kích thước ma trận: (19, 1988).
+--------------------------------------------------

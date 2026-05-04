@@ -1,0 +1,60 @@
+[2026-04-23 03:39:16] [STEP: DOCUMENT_INGESTION]
+Bắt đầu đọc luồng dữ liệu thô từ các file được tải lên.
+--------------------------------------------------
+[2026-04-23 03:39:17] [STEP: TEXT_CHUNKING]
+Hoàn tất làm sạch và phân mảnh văn bản. Tổng số phân đoạn (chunks): 10 đoạn. Có gắn thẻ Metadata nguồn.
+--------------------------------------------------
+[2026-04-23 03:39:17] [STEP: VECTORIZATION]
+Đã xây dựng Không gian Vector TF-IDF. Kích thước ma trận: (10, 1044).
+--------------------------------------------------
+[2026-04-23 03:39:40] [STEP: USER_INPUT]
+Tiếp nhận truy vấn: 'Bộ phận nào trong RDBMS chịu trách nhiệm đánh giá và lựa chọn Execution Plan cho một câu lệnh SQL?'
+--------------------------------------------------
+[2026-04-23 03:39:40] [STEP: INTENT_ANALYSIS]
+Phân tích Ý định (Intent) bằng Hybrid (Local Pattern → API Fallback)...
+--------------------------------------------------
+[2026-04-23 03:39:40] [STEP: INTENT_MATCHED]
+Kết quả Intent: [DINH_NGHIA]. Hệ thống sẽ chuyển hướng trích xuất theo định dạng này.
+--------------------------------------------------
+[2026-04-23 03:39:40] [STEP: VECTOR_SEARCH]
+Lọc được 5 đoạn ngữ cảnh. Đã gắn mã định danh C1 -> C5.
+--------------------------------------------------
+[2026-04-23 03:39:40] [STEP: PROMPT_ASSEMBLY]
+Lắp ráp thành công Context + History + Query từ Template. Đính kèm lệnh ép buộc hành vi [DINH_NGHIA]. Tiến hành gọi API LLM sinh văn bản.
+--------------------------------------------------
+[2026-04-23 03:39:44] [STEP: LLM_RESPONSE]
+Trạng thái API: Thành công. Bắt đầu đưa qua cổng kiểm duyệt...
+--------------------------------------------------
+[2026-04-23 03:39:44] [STEP: TRUST_CHECK_COMPLETED]
+Phán quyết: PASS. Tổng số ý: 4 | Thiếu nguồn: 0 | Sai nguồn: 0 | Độ tin cậy thấp: 0
+--------------------------------------------------
+[2026-04-23 03:47:12] [STEP: USER_INPUT]
+Tiếp nhận truy vấn: 'Thành phần này sử dụng những loại dữ liệu nào để tính toán chi phí thực thi?'
+--------------------------------------------------
+[2026-04-23 03:47:12] [STEP: INTENT_ANALYSIS]
+Phân tích Ý định (Intent) bằng Hybrid (Local Pattern → API Fallback)...
+--------------------------------------------------
+[2026-04-23 03:47:12] [STEP: INTENT_MATCHED]
+Kết quả Intent: [DINH_NGHIA]. Hệ thống sẽ chuyển hướng trích xuất theo định dạng này.
+--------------------------------------------------
+[2026-04-23 03:47:12] [STEP: VECTOR_SEARCH]
+Lọc được 5 đoạn ngữ cảnh. Đã gắn mã định danh C1 -> C5.
+--------------------------------------------------
+[2026-04-23 03:47:12] [STEP: PROMPT_ASSEMBLY]
+Lắp ráp thành công Context + History + Query từ Template. Đính kèm lệnh ép buộc hành vi [DINH_NGHIA]. Tiến hành gọi API LLM sinh văn bản.
+--------------------------------------------------
+[2026-04-23 03:47:15] [STEP: LLM_RESPONSE]
+Trạng thái API: Thành công. Bắt đầu đưa qua cổng kiểm duyệt...
+--------------------------------------------------
+[2026-04-23 03:47:15] [STEP: TRUST_CHECK_COMPLETED]
+Phán quyết: PASS. Tổng số ý: 4 | Thiếu nguồn: 0 | Sai nguồn: 0 | Độ tin cậy thấp: 0
+--------------------------------------------------
+[2026-04-23 07:55:22] [STEP: DOCUMENT_INGESTION]
+Bắt đầu đọc luồng dữ liệu thô từ các file được tải lên.
+--------------------------------------------------
+[2026-04-23 07:55:22] [STEP: TEXT_CHUNKING]
+Hoàn tất làm sạch và phân mảnh văn bản. Tổng số phân đoạn (chunks): 9 đoạn. Có gắn thẻ Metadata nguồn.
+--------------------------------------------------
+[2026-04-23 07:55:22] [STEP: VECTORIZATION]
+Đã xây dựng Không gian Vector TF-IDF. Kích thước ma trận: (9, 1071).
+--------------------------------------------------

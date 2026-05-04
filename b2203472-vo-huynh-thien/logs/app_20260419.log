@@ -1,0 +1,29 @@
+[2026-04-19 16:10:21] INFO - ThesisAI - 🚀 Đang khởi tạo Engine cho gemini-2.5-flash...
+[2026-04-19 16:10:29] INFO - ThesisAI - 🗑️ Đã xóa thư mục session b9f71aac-3fb1-4171-bdc6-08c5f3da2e8a
+[2026-04-19 16:10:30] INFO - ThesisAI - 🚀 Đang khởi tạo Engine cho gemini-2.5-flash...
+[2026-04-19 16:10:53] INFO - ThesisAI - 📄 Đã đọc Kiến trúc Hệ thống-Hệ thống Bộ nhớ đệm Phân tán (Distributed Caching).docx: 6000 ký tự, 0 hình ảnh.
+[2026-04-19 16:10:53] INFO - ThesisAI - 📄 Đã đọc Kiến trúc Hệ thống Dữ liệu-Cơ sở dữ liệu Vector và Tìm kiếm Ngữ nghĩa.docx: 6393 ký tự, 0 hình ảnh.
+[2026-04-19 16:10:53] INFO - ThesisAI - 📄 Đã đọc Kiến trúc Hệ thống Dữ liệu-Cơ sở dữ liệu Quan hệ (RDBMS) và Xử lý Giao dịch ACID.docx: 6954 ký tự, 0 hình ảnh.
+[2026-04-19 16:11:18] INFO - ThesisAI - 📝 Đang tóm tắt tài liệu: Kiến trúc Hệ thống-Hệ thống Bộ nhớ đệm Phân tán (Distributed Caching).docx
+[2026-04-19 16:11:18] INFO - ThesisAI - Bắt đầu đánh giá chất lượng tóm tắt...
+[2026-04-19 16:11:19] INFO - ThesisAI - Đánh giá hoàn tất. Overall Score: 0.5154
+[2026-04-19 16:11:19] INFO - ThesisAI - 📝 Đang tóm tắt tài liệu: Kiến trúc Hệ thống Dữ liệu-Cơ sở dữ liệu Vector và Tìm kiếm Ngữ nghĩa.docx
+[2026-04-19 16:11:19] INFO - ThesisAI - Bắt đầu đánh giá chất lượng tóm tắt...
+[2026-04-19 16:11:21] INFO - ThesisAI - Đánh giá hoàn tất. Overall Score: 0.5176
+[2026-04-19 16:11:21] INFO - ThesisAI - 📝 Đang tóm tắt tài liệu: Kiến trúc Hệ thống Dữ liệu-Cơ sở dữ liệu Quan hệ (RDBMS) và Xử lý Giao dịch ACID.docx
+[2026-04-19 16:11:21] INFO - ThesisAI - Bắt đầu đánh giá chất lượng tóm tắt...
+[2026-04-19 16:11:22] INFO - ThesisAI - Đánh giá hoàn tất. Overall Score: 0.5332
+[2026-04-19 16:12:39] INFO - ThesisAI - 🎯 Intent nhận diện qua API: SO_SANH
+[2026-04-19 16:12:39] INFO - ThesisAI - 🎯 Đã nhận diện Intent: SO_SANH
+[2026-04-19 16:13:58] INFO - ThesisAI - 🎯 Intent nhận diện qua API: KHAC
+[2026-04-19 16:13:58] INFO - ThesisAI - 🎯 Đã nhận diện Intent: KHAC
+[2026-04-19 16:15:47] INFO - ThesisAI - 🎯 Intent nhận diện CỤC BỘ: DINH_NGHIA
+[2026-04-19 16:15:47] INFO - ThesisAI - 🎯 Đã nhận diện Intent: DINH_NGHIA
+[2026-04-19 23:58:27] INFO - ThesisAI - 🚀 Đang khởi tạo Engine cho gemini-2.5-flash...
+[2026-04-19 23:59:15] INFO - ThesisAI - 🚀 Đang khởi tạo Engine cho gemini-2.5-flash...
+[2026-04-19 23:59:36] INFO - ThesisAI - 📄 Đã đọc Thiết kế API-So sánh Kiến trúc REST và Ngôn ngữ Truy vấn GraphQL.docx: 6729 ký tự, 0 hình ảnh.
+[2026-04-20 00:00:07] INFO - ThesisAI - 📝 Đang tóm tắt tài liệu: Thiết kế API-So sánh Kiến trúc REST và Ngôn ngữ Truy vấn GraphQL.docx
+[2026-04-20 00:00:07] INFO - ThesisAI - Bắt đầu đánh giá chất lượng tóm tắt...
+[2026-04-20 00:00:08] INFO - ThesisAI - Đánh giá hoàn tất. Overall Score: 0.5216
+[2026-04-20 00:00:31] INFO - ThesisAI - 🎯 Intent nhận diện CỤC BỘ: TOM_TAT
+[2026-04-20 00:00:31] INFO - ThesisAI - 🎯 Đã nhận diện Intent: TOM_TAT

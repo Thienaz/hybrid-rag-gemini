@@ -1,0 +1,51 @@
+﻿Câu hỏi,Đáp án chuẩn,Đáp án hệ thống,Điểm LMM,Điểm Human,Phân loại lỗi
+1. Hệ điều hành cần được nạp vào đâu để máy tính hoạt động?,Hệ điều hành được nạp vào RAM để máy tính có thể hoạt động.,Hệ điều hành phải được nạp vào bộ nhớ RAM.,5,5,0. Thành công (Success)
+2. Kể tên một số phần mềm hỗ trợ tải file trên Internet.,"Ví dụ: Internet Download Manager (IDM), FlashGet, Gigaget. ",Các phần mềm hỗ trợ gồm có IDM và FlashGet.,3,4,1. Lỗi thiếu sót / Chung chung
+3. 1 KB (Kilobyte) bằng bao nhiêu Byte?,1 KB = 1024 Byte.,1 KB bằng 1024 Byte.,5,5,0. Thành công (Success)
+4. Phần mềm hệ thống là gì? Cho ví dụ.,"Là phần mềm điều khiển hoạt động của máy tính. Ví dụ: Windows, Linux, Ubuntu. ",Là phần mềm có tính sẵn sàng cao để điều khiển máy tính. Ví dụ: Windows.,1,2,3. Lỗi Ảo giác / Nhiễu thông tin
+5. Phần mềm ứng dụng là gì? Cho ví dụ.,"Là phần mềm phục vụ nhu cầu người dùng. Ví dụ: Word, Excel, Unikey. ","Ví dụ như Word, Excel, Chrome.",3,2,1. Lỗi thiếu sót / Chung chung
+6. Thiết bị nào ảnh hưởng trực tiếp đến tốc độ xử lý của máy tính?,CPU.,Đó là bộ vi xử lý trung tâm (CPU).,5,5,0. Thành công (Success)
+7. Máy tính sẽ không khởi động nếu thiếu thiết bị nào?,CPU.,Thiếu màn hình máy tính sẽ không khởi động được.,1,1,2. Lỗi Kiến thức / Suy luận sai
+8. Thiết bị xuất là gì? Cho ví dụ.,"Là thiết bị đưa dữ liệu ra ngoài. Ví dụ: màn hình, máy in. ","Là thiết bị đưa dữ liệu ra ngoài, ví dụ như màn hình, máy in, loa.",5,5,0. Thành công (Success)
+9. CPU gồm những thành phần chính nào?,"ALU (bộ số học logic), CU (bộ điều khiển), thanh ghi (register). ",CPU gồm ALU và CU.,3,3,1. Lỗi thiếu sót / Chung chung
+10. CPU là viết tắt của cụm từ nào?,Central Processing Unit.,Central Processing Unit.,5,5,0. Thành công (Success)
+11. Bộ nhớ ngoài gồm những thiết bị nào?,"HDD, CD-ROM, USB, DVD,... ",Gồm RAM và ROM vì chúng có tính sẵn sàng lưu trữ.,1,1,2. Lỗi Kiến thức / Suy luận sai
+12. RAM là gì?,RAM là bộ nhớ truy cập ngẫu nhiên (Random Access Memory).,Random Access Memory (Bộ nhớ truy cập ngẫu nhiên).,5,5,0. Thành công (Success)
+13. Đặc điểm của RAM là gì?,"Lưu trữ tạm thời, mất dữ liệu khi tắt điện. ",RAM lưu trữ dữ liệu vĩnh viễn kể cả khi mất điện.,1,1,2. Lỗi Kiến thức / Suy luận sai
+14. Thiết bị ngoại vi là gì?,"Là các thiết bị bên ngoài máy tính như chuột, bàn phím, màn hình, máy in. ","Là các thiết bị cắm thêm bên ngoài máy tính như chuột, bàn phím, màn hình.",5,5,0. Thành công (Success)
+15. Thiết bị nhập là gì? Cho ví dụ.,"Là thiết bị dùng để nhập dữ liệu vào máy tính, ví dụ: bàn phím, chuột. ",Bàn phím và chuột.,3,2,1. Lỗi thiếu sót / Chung chung
+16. Độ phân giải màn hình là gì?,Là số lượng điểm ảnh (pixel) mà màn hình hiển thị được.,Là tổng số lượng điểm ảnh (pixel) hiển thị trên màn hình.,5,5,0. Thành công (Success)
+17. Phần mềm diệt virus là gì? Cho ví dụ.,"Là phần mềm phát hiện và tiêu diệt virus. Ví dụ: BKAV, Kaspersky, Norton. ","Là phần mềm bảo vệ hệ thống với tính sẵn sàng cao, ví dụ BKAV.",1,4,3. Lỗi Ảo giác / Nhiễu thông tin
+18. Thế nào là tin nhắn tức thời (Instant Messaging)?,Là dịch vụ cho phép người dùng trò chuyện trực tuyến qua mạng.,"Là dịch vụ cho phép người dùng trò chuyện, nhắn tin trực tuyến qua mạng internet.",5,5,0. Thành công (Success)
+19. URL là gì? Gồm những thành phần nào?,"URL là địa chỉ tài nguyên trên Internet, gồm: giao thức + địa chỉ máy chủ + đường dẫn tài nguyên. ",URL là địa chỉ tài nguyên trên Internet.,3,2,1. Lỗi thiếu sót / Chung chung
+"20. Khi gửi email, không nên gửi loại file nào?",Không nên gửi file .EXE vì có thể chứa virus.,Không nên gửi file thực thi có đuôi .EXE để tránh lây nhiễm virus.,5,5,0. Thành công (Success)
+21. Nêu sự khác biệt cơ bản giữa bộ nhớ RAM và ROM.,"RAM là bộ nhớ truy cập ngẫu nhiên, mất dữ liệu khi mất điện; ROM là bộ nhớ chỉ đọc, giữ nguyên dữ liệu ngay cả khi mất điện.","RAM là bộ nhớ truy cập ngẫu nhiên, mất dữ liệu khi ngắt điện. ROM là bộ nhớ chỉ đọc, không bị mất dữ liệu.",5,5,0. Thành công (Success)
+22. Thư mục (Folder) dùng để làm gì?,Thư mục được dùng để quản lý và tổ chức các tập tin hoặc các thư mục con khác một cách có hệ thống.,Dùng để chứa các tập tin trên máy tính.,3,3,1. Lỗi thiếu sót / Chung chung
+23. Phím tắt Ctrl + Z trong các phần mềm soạn thảo văn bản có chức năng gì?,Hoàn tác (Undo) lại thao tác vừa thực hiện trước đó.,Dùng để hoàn tác (Undo) thao tác vừa làm.,5,5,0. Thành công (Success)
+24. Mạng LAN (Local Area Network) là gì?,"Là mạng máy tính cục bộ, kết nối các máy tính trong một phạm vi nhỏ như văn phòng, tòa nhà, hoặc trường học.",Là mạng kết nối có tính sẵn sàng cao dùng để liên kết toàn cầu.,1,1,2. Lỗi Kiến thức / Suy luận sai
+25. Nêu ý nghĩa của phần mở rộng tập tin (file extension).,Phần mở rộng giúp hệ điều hành nhận diện loại tập tin và chọn phần mềm phù hợp để mở nó.,Giúp hệ điều hành nhận biết định dạng file và chọn chương trình tương ứng để mở.,5,5,0. Thành công (Success)
+26. Trình duyệt web (Web Browser) là gì? Cho 2 ví dụ.,"Là phần mềm ứng dụng dùng để truy cập và xem các trang web trên Internet. Ví dụ: Google Chrome, Mozilla Firefox.","Là phần mềm dùng để lướt web, ví dụ như Google Chrome.",3,2,1. Lỗi thiếu sót / Chung chung
+27. Phím F5 trên bàn phím thường có chức năng gì trong trình duyệt web?,Tải lại (Reload/Refresh) trang web hiện tại.,Tải lại trang web (Refresh).,5,5,0. Thành công (Success)
+28. Dấu nhắc lệnh (Command Prompt) trong Windows dùng để làm gì?,Là công cụ giao diện dòng lệnh dùng để thực thi các lệnh hệ thống.,Là công cụ để tăng tính sẵn sàng của hệ điều hành Windows.,1,1,3. Lỗi Ảo giác / Nhiễu thông tin
+"29. Thuật ngữ ""ISP"" trong mạng Internet là viết tắt của từ gì?",Internet Service Provider (Nhà cung cấp dịch vụ Internet).,Internet Service Provider (Nhà cung cấp dịch vụ Internet).,5,5,0. Thành công (Success)
+30. Thùng rác (Recycle Bin) trong Windows có tác dụng gì?,"Lưu trữ tạm thời các tập tin và thư mục đã bị xóa, cho phép người dùng khôi phục lại nếu cần.",Để chứa các file và thư mục đã bị xóa.,3,3,1. Lỗi thiếu sót / Chung chung
+31. Ctrl + P thường được sử dụng để làm gì?,Mở hộp thoại in ấn (Print).,Mở hộp thoại in ấn (Print).,5,5,0. Thành công (Success)
+"32. Khái niệm ""Cloud Computing"" (Điện toán đám mây) là gì?","Là việc cung cấp các dịch vụ điện toán (máy chủ, lưu trữ, cơ sở dữ liệu, mạng, phần mềm) qua Internet.",Là đám mây trên nền tảng internet mang tính sẵn sàng cao để lưu trữ.,1,4,3. Lỗi Ảo giác / Nhiễu thông tin
+33. Phần mềm mã nguồn mở (Open-source software) có đặc điểm nổi bật nào?,"Người dùng có quyền truy cập, chỉnh sửa và phân phối lại mã nguồn một cách tự do.","Phần mềm cho phép người dùng tự do truy cập, chỉnh sửa và phân phối lại mã nguồn gốc.",5,5,0. Thành công (Success)
+34. Phím tắt để chuyển đổi giữa các cửa sổ ứng dụng đang mở trên Windows là gì?,Alt + Tab.,Sử dụng tổ hợp phím Alt + Tab.,5,5,0. Thành công (Success)
+35. Tên miền .edu thường được sử dụng cho tổ chức nào?,Tổ chức giáo dục (Education).,Dùng cho các trường đại học.,3,4,1. Lỗi thiếu sót / Chung chung
+36. Mã PIN trong bảo mật là gì?,Là một dãy số định danh cá nhân (Personal Identification Number) dùng để xác thực.,Mã định danh cá nhân (Personal Identification Number) dùng để xác thực danh tính.,5,5,0. Thành công (Success)
+"37. Thuật ngữ ""Spam"" trong email dùng để chỉ điều gì?","Thư rác, thư quảng cáo hoặc thư không mong muốn gửi đến hàng loạt người nhận.",Là hệ thống gửi thư trực tuyến với tính sẵn sàng.,1,1,3. Lỗi Ảo giác / Nhiễu thông tin
+"38. Việc ""Format"" (định dạng) một ổ cứng sẽ gây ra kết quả gì?",Xóa toàn bộ dữ liệu có trên ổ cứng đó và thiết lập lại hệ thống tập tin.,Xóa toàn bộ dữ liệu trên ổ cứng và thiết lập lại hệ thống tập tin mới.,5,5,0. Thành công (Success)
+39. Phím tắt Ctrl + F dùng để làm gì?,"Mở công cụ tìm kiếm (Find) từ, cụm từ trong tài liệu hoặc trang web.",Dùng để tìm kiếm từ khóa.,3,4,1. Lỗi thiếu sót / Chung chung
+40. Đơn vị nhỏ nhất để đo thông tin trong máy tính là gì?,Bit (chỉ nhận giá trị 0 hoặc 1).,Đơn vị nhỏ nhất là Bit (nhận giá trị 0 hoặc 1).,5,5,0. Thành công (Success)
+"41. Thuật ngữ ""Malware"" là viết tắt của từ gì?",Malicious Software (Phần mềm độc hại).,Malicious Software (Phần mềm độc hại).,5,5,0. Thành công (Success)
+"42. Trong Excel, hàm SUM() được dùng để làm gì?",Tính tổng các giá trị trong một phạm vi ô được chọn.,Dùng để tính toán đảm bảo tính sẵn sàng của bảng tính.,1,1,3. Lỗi Ảo giác / Nhiễu thông tin
+43. Tổ hợp phím Ctrl + Alt + Delete có tác dụng gì trên Windows?,"Mở màn hình quản lý bảo mật để truy cập Task Manager, khóa máy, chuyển tài khoản hoặc đăng xuất.","Mở menu hệ thống để truy cập Task Manager, khóa máy hoặc đăng xuất.",5,4,1. Lỗi thiếu sót / Chung chung
+44. Chuẩn kết nối USB là viết tắt của cụm từ nào?,Universal Serial Bus.,Universal Serial Bus.,5,5,0. Thành công (Success)
+45. Nêu mục đích chính của tường lửa (Firewall).,Giám sát và kiểm soát lưu lượng mạng vào và ra dựa trên các quy tắc bảo mật được thiết lập trước.,"Giám sát, kiểm soát lưu lượng mạng ra vào dựa trên các quy tắc bảo mật.",5,5,0. Thành công (Success)
+46. Trình điều khiển thiết bị (Device Driver) là gì?,Là phần mềm giúp hệ điều hành giao tiếp và điều khiển các thiết bị phần cứng.,Là người điều khiển để đảm bảo tính sẵn sàng của các thiết bị máy tính.,1,2,2. Lỗi Kiến thức / Suy luận sai
+47. Nút Caps Lock trên bàn phím có chức năng gì?,Bật/tắt chế độ viết hoa toàn bộ các ký tự chữ cái.,Dùng để bật hoặc tắt chế độ viết hoa chữ cái.,5,5,0. Thành công (Success)
+48. Tên miền .gov thường được sử dụng cho tổ chức nào?,Các tổ chức chính phủ (Government).,Dành cho chính phủ.,3,5,0. Thành công (Success)
+49. Địa chỉ IP là gì?,Là địa chỉ duy nhất để định danh một thiết bị trên mạng máy tính (Internet Protocol).,Là địa chỉ giao thức Internet (Internet Protocol) dùng để định danh thiết bị trên mạng.,5,5,0. Thành công (Success)
+50. Phím tắt nào dùng để chọn toàn bộ văn bản (Select All)?,Ctrl + A.,Tổ hợp phím Ctrl + A.,5,5,0. Thành công (Success)

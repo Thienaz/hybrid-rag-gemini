@@ -1,0 +1,487 @@
+an ninh mạng
+an toàn thông tin
+api
+bao đóng
+batch size
+bias
+biến
+biểu diễn từ
+biểu thức
+biểu đồ uml
+breakpoint
+bán giám sát
+báo cáo
+báo cáo quản trị
+báo cáo tài chính
+băng thông
+bản vá lỗi
+bảng
+bảng băm
+bảng điều khiển
+bảo mật dữ liệu
+bảo mật mạng
+bảo mật phần mềm
+bảo mật thông tin
+bảo mật điểm cuối
+bảo mật đám mây
+bảo trì hệ thống
+bảo trì phần mềm
+bộ chuyển mạch
+bộ lưu điện
+bộ lặp sóng
+bộ mã hóa giải mã
+bộ nhớ
+bộ định tuyến
+cassandra
+chatbot
+chi phí erp
+chiến lược kinh doanh
+chuyển đổi dữ liệu
+chuẩn hóa
+chuẩn hóa dữ liệu
+chính sách bảo mật
+chú ý
+chất lượng dữ liệu
+chỉ mục
+chỉ số
+chỉ số hiệu suất chính
+chứng chỉ số
+chữ ký số
+code review
+con trỏ
+container
+cá nhân hóa
+cáp mạng
+cáp quang
+cân bằng tải
+câu lệnh lặp
+câu lệnh điều kiện
+cây
+công nghệ thông tin
+cơ sở dữ liệu
+cơ sở dữ liệu nosql
+cơ sở dữ liệu quan hệ
+cấu trúc dữ liệu
+cổng dịch vụ
+cổng thanh toán
+cột
+cửa hàng trực tuyến
+danh sách liên kết
+debug
+devops
+di chuyển dữ liệu
+di động
+dung lượng
+duyệt cây
+duyệt đồ thị
+dịch máy
+dữ liệu chủ
+dữ liệu khách hàng
+dữ liệu lớn
+dữ liệu thời gian thực
+dự phòng hệ thống
+dự án erp
+dự đoán
+email marketing
+epoch
+erp
+f1-score
+framework
+giao diện
+giao diện lập trình ứng dụng
+giao diện người dùng
+giao diện đàm thoại
+giao dịch
+giao hàng
+giao thức
+giao thức dhcp
+giao thức ssl/tls
+git
+giá trị
+giám sát
+giám sát hệ thống
+giải mã
+giải mã dữ liệu
+giỏ hàng
+gom cụm
+gói tin
+gắn thẻ từ loại
+gốc từ
+hadoop
+hive
+hiệu suất hệ thống
+hoạch định nguồn lực doanh nghiệp
+huấn luyện
+huấn luyện mô hình
+hàm
+hàm kích hoạt
+hàm mất mát
+hàng
+hàng đợi
+hạ tầng thông tin
+hậu cần
+hậu xử lý
+hằng
+hệ quản trị cơ sở dữ liệu
+hệ thống hỏi đáp
+hệ thống hỗ trợ quyết định
+hệ thống ngăn chặn xâm nhập
+hệ thống phát hiện xâm nhập
+hệ thống thông tin quản lý
+hệ thống thông tin điều hành
+hệ thống tên miền
+hệ thống tệp phân tán hadoop
+hệ thống xử lý giao dịch
+hệ điều hành
+học chuyển giao
+học không có nhãn
+học kém
+học liên tục
+học máy
+học sâu
+học sâu tăng cường
+học tập củng cố
+học tủ
+hồ dữ liệu
+hồi quy
+internet vạn vật
+kafka
+kanban
+khai phá dữ liệu
+khai thác dữ liệu
+khai thác lỗ hổng
+kho dữ liệu
+kho lưu trữ
+khung dữ liệu
+khung nhìn
+khóa chính
+khóa ngoại
+không giám sát
+không máy chủ
+khả năng mở rộng
+kiến trúc biến đổi
+kiến trúc hệ thống
+kiến trúc microservices
+kiến trúc monolith
+kiến trúc phần mềm
+kiến trúc vi dịch vụ
+kiểm soát phiên bản
+kiểm soát truy cập
+kiểm soát tồn kho
+kiểm soát đồng thời
+kiểm thử
+kiểm thử a/b
+kiểm thử chấp nhận
+kiểm thử hệ thống
+kiểm thử phần mềm
+kiểm thử tích hợp
+kiểm thử xâm nhập
+kiểm thử đơn vị
+kiểm toán bảo mật
+kiểm định chéo
+kiểu dữ liệu
+kế thừa
+kết nối bảng
+kể chuyện bằng dữ liệu
+kỹ thuật tính năng
+kỹ thuật đặc trưng
+luồng sự kiện
+làm sạch dữ liệu
+lưu trữ gắn mạng
+lưới dữ liệu
+lược đồ cơ sở dữ liệu
+lập kế hoạch dự án
+lập kế hoạch sản xuất
+lập trình bất đồng bộ
+lập trình cặp đôi
+lập trình hàm
+lập trình hướng đối tượng
+lập trình sự kiện
+lỗ hổng bảo mật
+lớp
+lợi ích erp
+ma trận
+ma trận nhầm lẫn
+mapreduce
+microservices
+module erp
+mongodb
+máy chủ proxy
+máy chủ vật lý
+máy chủ ảo
+mã hóa
+mã hóa dữ liệu
+mã máy
+mã nguồn
+mã độc tống tiền
+mô hình
+mô hình agile
+mô hình dữ liệu
+mô hình ngôn ngữ
+mô hình ngôn ngữ lớn
+mô hình osi
+mô hình tcp/ip
+mô hình thác nước
+môi trường phát triển tích hợp
+mạng con
+mạng cục bộ
+mạng diện rộng
+mạng không dây
+mạng lưu trữ
+mạng máy tính
+mạng nơ-ron
+mạng nơ-ron hồi quy
+mạng nơ-ron tích chập
+mạng riêng ảo
+mạng xã hội
+mảng
+mật mã học
+mặt nạ mạng
+mối đe dọa
+ngôn ngữ lập trình
+ngôn ngữ truy vấn có cấu trúc
+ngăn xếp
+người dùng cuối
+ngưỡng
+ngừng từ
+ngữ liệu
+ngựa thành troy
+nhà cung cấp erp
+nhà khoa học dữ liệu
+nhà phân tích dữ liệu
+nhân bản dữ liệu
+nhãn
+nhúng câu
+nhúng từ
+nhận dạng giọng nói
+nhận dạng thực thể có tên
+nhận thức bảo mật
+nhập dữ liệu
+nâng cấp erp
+perceptron
+phi chuẩn hóa
+phát hiện bất thường
+phát hiện gian lận
+phát triển phần mềm
+phân cụm
+phân loại
+phân tích chuỗi thời gian
+phân tích chẩn đoán
+phân tích cú pháp
+phân tích cảm xúc
+phân tích dữ liệu
+phân tích dữ liệu lớn
+phân tích dự đoán
+phân tích hành vi khách hàng
+phân tích khám phá dữ liệu
+phân tích mô tả
+phân tích nghiệp vụ
+phân tích ngữ nghĩa
+phân tích thống kê
+phân tích tài chính
+phân tích yêu cầu
+phân tích đề xuất
+phân vùng dữ liệu
+phòng chống mất mát dữ liệu
+phương thức
+phần mềm erp
+phần mềm độc hại
+phục hồi dữ liệu
+phục hồi thảm họa
+pig
+quy hoạch động
+quy trình chuẩn
+quy trình nghiệp vụ
+quyết định kinh doanh
+quyền riêng tư dữ liệu
+quá khớp
+quản lý bán hàng
+quản lý bộ nhớ
+quản lý chuỗi cung ứng
+quản lý chất lượng
+quản lý công nợ
+quản lý cấu hình
+quản lý dự án
+quản lý hợp đồng
+quản lý kho
+quản lý lương
+quản lý lỗ hổng
+quản lý mua hàng
+quản lý ngân sách
+quản lý nhân sự
+quản lý nhật ký
+quản lý quan hệ khách hàng
+quản lý sản xuất
+quản lý thay đổi
+quản lý thông tin và sự kiện bảo mật
+quản lý tri thức
+quản lý tuyển dụng
+quản lý tài sản doanh nghiệp
+quản lý đào tạo
+quản lý đơn hàng
+quản trị dữ liệu
+quản trị viên cơ sở dữ liệu
+quảng cáo trực tuyến
+rest
+rủi ro an ninh
+rủi ro hệ thống
+sao lưu dữ liệu
+scrum
+sem
+seo
+sinh văn bản
+siêu tham số
+soap
+spark
+suy luận
+sàn thương mại điện tử
+sâu máy tính
+sắp xếp chèn
+sắp xếp chọn
+sắp xếp nhanh
+sắp xếp nổi bọt
+sắp xếp trộn
+tensor
+tham chiếu
+tham số
+thanh toán trực tuyến
+thiết kế cơ sở dữ liệu
+thiết kế hệ thống
+thiếu khớp
+thuật toán
+thuật toán bellman-ford
+thuật toán chia để trị
+thuật toán dijkstra
+thuật toán kruskal
+thuật toán prim
+thuật toán quay lui
+thuật toán tham lam
+thuộc tính
+thông lượng
+thông tin chuyên sâu
+thư viện
+thương mại điện tử
+thị giác máy tính
+thủ tục
+thủ tục lưu trữ
+tiếp thị liên kết
+tiếp thị trực tuyến
+tiền xử lý
+token hóa
+toán tử
+tri thức
+triển khai erp
+triển khai hệ thống
+triển khai liên tục
+triển khai phần mềm
+trung tâm dữ liệu
+trung tâm điều hành an ninh
+truy vấn
+truy vấn con
+trình biên dịch
+trình kích hoạt
+trình thông dịch
+trí tuệ kinh doanh
+trí tuệ nhân tạo
+trích xuất thực thể
+trích xuất, chuyển đổi, tải
+trường hợp sử dụng
+trải nghiệm khách hàng
+trải nghiệm người dùng
+trọng số
+trừu tượng
+trực quan hóa dữ liệu
+tuân thủ quy định
+tài chính kế toán
+tìm kiếm nhị phân
+tìm kiếm thông tin
+tìm kiếm tuần tự
+tìm đường đi ngắn nhất
+tích hợp erp
+tích hợp hệ thống
+tích hợp liên tục
+tính sẵn sàng
+tính sẵn sàng cao
+tính toàn vẹn dữ liệu
+tính xác thực
+tóm tắt văn bản
+tùy chỉnh erp
+tăng cường
+tư vấn erp
+tường lửa
+tấn công ddos
+tấn công kịch bản liên trang
+tấn công lừa đảo
+tấn công sql injection
+tấn công vét cạn
+tập dữ liệu
+tập huấn luyện
+tập kiểm thử
+tập xác thực
+tắc nghẽn
+tốc độ
+tốc độ học
+tối ưu hóa
+tối ưu hóa quy trình
+tổng hợp giọng nói
+tổng quát hóa
+tủ rack
+từ vựng
+tự chú ý
+tự động hóa
+vectơ đặc trưng
+vi phạm dữ liệu
+virus máy tính
+ví điện tử
+vòng lặp
+vòng đời phát triển phần mềm
+web service
+website thương mại điện tử
+wi-fi
+xác suất
+xác thực người dùng
+xác thực đa yếu tố
+xử lý giao dịch trực tuyến
+xử lý hàng loạt
+xử lý luồng
+xử lý ngoại lệ
+xử lý ngôn ngữ tự nhiên
+xử lý phân tích trực tuyến
+đa dạng
+đa hình
+điểm truy cập
+điện toán biên
+điện toán phi máy chủ
+điện toán phân tán
+điện toán đám mây
+đào tạo người dùng
+đánh giá lỗ hổng
+đánh giá mô hình
+đánh giá rủi ro
+đánh giá sản phẩm
+đường ống dữ liệu
+đạo hàm
+đầu ra
+đầu vào
+đặc trưng
+đặc tả yêu cầu
+đặt hàng trực tuyến
+đệ quy
+địa chỉ ip
+địa chỉ mac
+định giá thành
+đối tượng
+đồ thị
+đồng bộ hóa dữ liệu
+độ chính xác
+độ dốc
+độ nhạy
+độ phức tạp không gian
+độ phức tạp thời gian
+độ tin cậy
+độ trễ
+độ đặc hiệu
+ước lượng chi phí
+ảo hóa
+ủy quyền truy cập
+ứng phó sự cố

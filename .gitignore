@@ -1,0 +1,19 @@
+# 1. BẮT BUỘC BỎ QUA - CHứa API Key và Cấu hình bảo mật
+.env
+
+# 2. Môi trường ảo Python (nếu bạn có dùng)
+venv/
+env/
+
+# 3. Các file rác tự động sinh ra khi chạy Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 4. Thư mục chứa file log hoặc output tạm thời (nếu workspace chỉ dùng để lưu file tạm)
+# Nếu workspace chứa code quan trọng, hãy XÓA dòng dưới đi nhé
+# workspace/
+
+# 5. File cấu hình local của Streamlit (thường chứa key bí mật nếu có)
+.streamlit/
